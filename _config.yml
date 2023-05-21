@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shilong Bao's HomePage"
+title                    : "Zitai Wang's HomePage"
 description              : ""
-repository               : "statusrank/statusrank.github.io"
+repository               : "wang22ti/wang22ti.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  4696968638 # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shilong Bao"
-  avatar           : "images/shilong.jpg"
+  name             : "Zitai Wang"
+  avatar           : "images/zitai.jpg"
   bio              : "PhD. student of Institute of Information Engineering (IIE), CAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=5ZCgkQkAAAAJ&hl=zh-CN"
-  email            : "baoshilong@iie.ac.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Shilong-Bao/research"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=45qZ_LcAAAAJ"
+  email            : "wangzitai@iie.ac.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Zitai-Wang"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : statusrank
+  github           : wang22ti
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/143/0246.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/251/3361.html"
+  orcid            : "https://orcid.org/0000-0002-5881-7270"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
