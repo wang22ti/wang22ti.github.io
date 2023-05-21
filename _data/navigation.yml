@@ -3,14 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+  #   url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Services"
+    url: "/#-Services"
+
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
@@ -18,5 +21,5 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Project"
-    url: "/#-Project"
+  # - title: "Project"
+  #   url: "/#-Project"
