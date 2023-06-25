@@ -59,6 +59,7 @@ My research interest includes machine learning and data mining. I have authored 
 # 📖 Academic Services
 ## Journal
  - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
+ - Pattern Recognition (*PR*): Reviewer
 
 ## Conference
  - *AAAI*: PC Member (2023)
