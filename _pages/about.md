@@ -33,7 +33,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Optimizing Partial Area Under the Top-k Curve: Theory and Practice](https://arxiv.org/pdf/2209.01398)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI, IF: 24.314**), 45(4): 5053–5069, Apr. 2023. \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI, IF: 23.6**), 45(4): 5053–5069, Apr. 2023. \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
