@@ -62,7 +62,7 @@ My research interest includes machine learning and data mining. I have authored 
  - Pattern Recognition (*PR*): Reviewer
 
 ## Conference
- - *AAAI*: PC Member (2023)
+ - *AAAI*: PC Member (2023, 2024)
  - *ACM MM*: PC Member (2023)
  
 <!-- # 🎖 Honors and Awards
