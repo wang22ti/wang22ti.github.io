@@ -74,9 +74,9 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *AAAI*: PC Member (2023, 2024)
  - *ACM MM*: PC Member (2023)
  
-<!-- # 🎖 Honors and Awards
-- *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
-- *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖) -->
+# 🎖 Honors and Awards
+- *2023* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
+- *2021* Director Scholarship (Outstanding Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
 
 # 🎓 Educations
 
