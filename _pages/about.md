@@ -62,7 +62,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007.pdf)
 
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 2023. \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
+Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515–1526, 2023. \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
 
 # 📖 Academic Services
 ## Journal
