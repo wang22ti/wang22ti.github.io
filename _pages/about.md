@@ -71,6 +71,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-CSVT*): Reviewer
 
 ## Conference
+ - *CVPR*: PC Member (2024)
  - *AAAI*: PC Member (2023, 2024)
  - *ACM MM*: PC Member (2023)
  
