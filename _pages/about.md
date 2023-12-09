@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! I'm Zitai Wang (王子泰, E-mail: wangzitai@iie.ac.cn). Now I am a PhD. student of **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS.), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Sun Yat-sen University, Shenzhen Compus), [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Alibaba Group), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (postdoc at UCAS), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Assistant Professor at UCAS), and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (postdoc at UCAS).
 
-My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, NeurIPS, and ACM Multimedia.
+My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, NeurIPS, AAAI, and ACM Multimedia.
 
 
 <!-- # 🔥 News
