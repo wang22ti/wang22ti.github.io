@@ -64,7 +64,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection]()
 
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. Thirty-Eighth AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (Accepted)
+Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (Accepted)
 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007.pdf)
 
