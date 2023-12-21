@@ -80,6 +80,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *CVPR*: PC Member (2024)
  - *AAAI*: PC Member (2023, 2024)
  - *ACM MM*: PC Member (2023)
+ - *ICDE*: Reviewer (2024)
  
 # 🎖 Honors and Awards
 - *2023* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
@@ -109,7 +110,8 @@ Beijing Jiaotong University (BJTU), Beijing.
 </div>
 </div>
 
-# 💬 Invited Talks
+# 💬 Invited Talks & Presentations
+- *2023.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]]().
 - *2023.10*: &nbsp; PhD. student Forum of PRCV 2023. [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
 
