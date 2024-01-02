@@ -62,11 +62,11 @@ My research interest includes machine learning and data mining. I have authored 
 
 ---
 
-[ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection]()
+[ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection](https://arxiv.org/abs/2312.14535)
 
 Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (Accepted)
 
-[When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007.pdf)
+[When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
 Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515–1526, 2023. \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
 
