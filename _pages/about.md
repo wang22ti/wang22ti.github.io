@@ -68,7 +68,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515–1526, 2023. \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
+Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515–1526, 2023. **<font color='red'> (Oral) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
 
 # 📖 Academic Services
 ## Journal
