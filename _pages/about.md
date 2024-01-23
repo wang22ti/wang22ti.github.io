@@ -79,7 +79,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 ## Conference
  - *CVPR*: PC Member (2024)
  - *AAAI*: PC Member (2023, 2024)
- - *ACM MM*: PC Member (2023)
+ - *ACM MM*: PC Member (2023, 2024)
  - *ICDE*: Reviewer (2024)
  
 # 🎖 Honors and Awards
