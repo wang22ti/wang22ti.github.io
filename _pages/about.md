@@ -73,9 +73,9 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 # 📖 Academic Services
 ## Journal
  - IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE T-PAMI*): Reviewer
+ - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-CSVT*): Reviewer
  - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
  - Pattern Recognition (*PR*): Reviewer
- - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-CSVT*): Reviewer
 
 ## Conference
  - *CVPR*: PC Member (2024)
