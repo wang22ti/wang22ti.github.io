@@ -74,7 +74,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 ## Journal
  - IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE T-PAMI*): Reviewer
  - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-CSVT*): Reviewer
- - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-KDE*): Reviewer
+ - IEEE Transactions on Knowledge and Data Engineering (*IEEE T-KDE*): Reviewer
  - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
  - Pattern Recognition (*PR*): Reviewer
 
