@@ -87,7 +87,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 # 🎖 Honors and Awards
 - *2023* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 - *2021* Director Scholarship (Outstanding Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
-- *2019* Excellent Graduate of Beijing. (北京市优秀毕业生)
+- *2019* Excellent Graduate of Beijing. (北京市优秀毕业生) 
 
 # 🎓 Educations
 
