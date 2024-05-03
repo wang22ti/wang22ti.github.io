@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! I'm Zitai Wang (王子泰, E-mail: wangzitai@iie.ac.cn). Now I am a PhD. student of **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Sun Yat-sen University, Shenzhen Compus), [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Alibaba Group), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Assistant Professor at UCAS), and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS).
 
-My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, NeurIPS, AAAI, and ACM Multimedia.
+My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, ICML,NeurIPS, AAAI, and ACM Multimedia.
 
 
 <!-- # 🔥 News
@@ -61,6 +61,10 @@ My research interest includes machine learning and data mining. I have authored 
 **Zitai Wang**, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (**ACM MM**), 656–664, 2019. **<font color='red'> (Oral, 5.6%) </font>** \| [\[Code\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons) \| [\[Poster\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf) \| [\[Slides\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)
 
 ---
+
+[Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition]()
+
+Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 2024. (Accepted)
 
 [ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection](https://arxiv.org/abs/2312.14535)
 
@@ -103,7 +107,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 <div class='school-box-text' markdown="1">
 2019.09 - now, Ph.D. Student.
 
-Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
+Institute of Information Engineering, Chinese Academy of Sciences (中国科学院信息工程研究所, IIE, CAS).
 
 University of Chinese Academy of Sciences, Beijing.
 </div>
@@ -116,7 +120,7 @@ University of Chinese Academy of Sciences, Beijing.
 
 School of Computer and Information Technology.
 
-Beijing Jiaotong University (BJTU), Beijing.
+Beijing Jiaotong University (北京交通大学, BJTU), Beijing.
 </div>
 </div>
 
