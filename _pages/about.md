@@ -64,7 +64,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition]()
 
-Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 2024. (Accepted)
+Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 2024. (Accepted) \| [\[Code\]](https://github.com/scongl/DirMixE)
 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
@@ -72,7 +72,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 
 [ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection](https://arxiv.org/abs/2312.14535)
 
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481–8489, 2024. [\[Code\]](https://github.com/jweihe/ADA-GAD)
+Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481–8489, 2024. \| [\[Code\]](https://github.com/jweihe/ADA-GAD)
 
 
 # 📖 Academic Services
