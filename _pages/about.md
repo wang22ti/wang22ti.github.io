@@ -62,7 +62,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 ---
 
-[Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition]()
+[Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780)
 
 Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 2024. (Accepted) \| [\[Code\]](https://github.com/scongl/DirMixE)
 
