@@ -84,6 +84,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
  - Pattern Recognition (*PR*): Reviewer
 
 ## Conference
+ - *NeruIPS*：PC Member (2024)
  - *CVPR*: PC Member (2024)
  - *AAAI*: PC Member (2023, 2024)
  - *ACM MM*: PC Member (2023, 2024)
