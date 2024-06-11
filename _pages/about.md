@@ -86,7 +86,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 ## Conference
  - *NeruIPS*：PC Member (2024)
  - *CVPR*: PC Member (2024)
- - *AAAI*: PC Member (2023, 2024)
+ - *AAAI*: PC Member (2023, 2024, 2025)
  - *ACM MM*: PC Member (2023, 2024)
  - *ICDE*: Reviewer (2024)
  - *ACML*: Reviewer (2024)
