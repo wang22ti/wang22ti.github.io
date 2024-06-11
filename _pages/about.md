@@ -50,7 +50,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Confederated Learning: Going Beyond Centralization](https://github.com/wang22ti/Confederated-Learning/blob/main/mmfp1684-wang.pdf)
 
-**Zitai Wang,** Qianqian Xu, Ke Ma, Xiaochun Cao and Qingming Huang. Confederated Learning: Going Beyond Centralization. ACM Conference on Multimedia (**ACM MM**), 2939–2947, 2022. **<font color='red'> (Oral, 9.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/Confederated-Learning) \| [\[Slides\]](https://github.com/wang22ti/Confederated-Learning/blob/main/MM2022_slides.pdf)
+**Zitai Wang,** Qianqian Xu, Ke Ma, Xiaochun Cao and Qingming Huang. Confederated Learning: Going Beyond Centralization. ACM Conference on Multimedia (**ACM MM**), 2939–2947, 2022. **<font color='red'> (Oral, 5.6%) </font>** \| [\[Code\]](https://github.com/wang22ti/Confederated-Learning) \| [\[Slides\]](https://github.com/wang22ti/Confederated-Learning/blob/main/MM2022_slides.pdf)
 
 [Implicit feedbacks are not always favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/mfp1549-wangA.pdf)
 
@@ -58,7 +58,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Adversarial Preference Learning with Pairwise Comparisons](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/MM2019-fp337.pdf)
 
-**Zitai Wang**, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (**ACM MM**), 656–664, 2019. **<font color='red'> (Oral, 5.6%) </font>** \| [\[Code\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons) \| [\[Poster\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf) \| [\[Slides\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)
+**Zitai Wang**, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (**ACM MM**), 656–664, 2019. **<font color='red'> (Oral, 9.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons) \| [\[Poster\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf) \| [\[Slides\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)
 
 ---
 
