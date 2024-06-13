@@ -88,8 +88,8 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
  - *CVPR*: PC Member (2024)
  - *AAAI*: PC Member (2023, 2024, 2025)
  - *ACM MM*: PC Member (2023, 2024)
- - *ICDE*: Reviewer (2024)
- - *ACML*: Reviewer (2024)
+ - *ICDE*: PC Member (2024)
+ - *ACML*: PC Member (2024)
 
 # 💬 Invited Talks & Presentations
 - *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
