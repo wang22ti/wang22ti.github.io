@@ -31,13 +31,13 @@ My research interest includes machine learning and data mining. I have authored 
 
 # 📝 Publications 
 
-[Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification]()
-
-**Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision (**IJCV, IF: 11.6**), 2024. (Accepted)
-
 [Optimizing Partial Area Under the Top-k Curve: Theory and Practice](https://arxiv.org/pdf/2209.01398)
 
 **Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI, IF: 20.8**), 45(4): 5053–5069, Apr. 2023. \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
+
+[Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification]()
+
+**Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision (**IJCV, IF: 11.6**), 2024. (Accepted)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -103,7 +103,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
 
 # 🎖 Honors and Awards
-- *2024* Postdoctoral Innovation Talent Support Program, Ministry of Human Resources and Social Security of PRC (博士后创新人才支持计划)
+<!-- - *2024* Postdoctoral Innovation Talent Support Program, Ministry of Human Resources and Social Security of PRC (博士后创新人才支持计划) -->
 - *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
 - *2024* Excellent Graduate of UCAS. (中国科学院大学优秀毕业生) 
 - *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
