@@ -103,7 +103,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
 
 # 🎖 Honors and Awards
-<!-- - *2024* Postdoctoral Innovation Talent Support Program, Ministry of Human Resources and Social Security of PRC (博士后创新人才支持计划) -->
+- *2024* Postdoctoral Innovation Talent Support Program, Ministry of Human Resources and Social Security of PRC (博士后创新人才支持计划)
 - *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
 - *2024* Excellent Graduate of UCAS. (中国科学院大学优秀毕业生) 
 - *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
