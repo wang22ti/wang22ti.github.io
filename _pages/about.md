@@ -35,7 +35,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 **Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI, IF: 20.8**), 45(4): 5053–5069, Apr. 2023. \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
 
-[Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification]()
+[Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification](https://arxiv.org/abs/2407.06709)
 
 **Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision (**IJCV, IF: 11.6**), 2024. (Accepted)
 
