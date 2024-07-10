@@ -105,10 +105,10 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 # 🎖 Honors and Awards
 - *2024* Postdoctoral Innovation Talent Support Program, Ministry of Human Resources and Social Security of PRC (博士后创新人才支持计划)
 - *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
-- *2024* Excellent Graduate of UCAS. (中国科学院大学优秀毕业生) 
+- *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
 - *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
 - *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
-- *2019* Excellent Graduate of Beijing. (北京市优秀毕业生) 
+- *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
 
 # 🎓 Educations
 
