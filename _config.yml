@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zitai Wang"
   avatar           : "images/zitai.jpg"
-  bio              : "PhD. student of Institute of Information Engineering (IIE), CAS"
+  bio              : "Post-doc at Institute of Computing Technology (ICT), CAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=45qZ_LcAAAAJ"
-  email            : "wangzitai@iie.ac.cn"
+  email            : "wangzitai@ict.ac.cn"
   researchgate     :  "https://www.researchgate.net/profile/Zitai-Wang"
   uri              :
   bitbucket        :
