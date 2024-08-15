@@ -68,7 +68,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780)
 
-Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 2024. (Accepted) \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
+Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624–56664， 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
@@ -78,9 +78,9 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 
 Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481–8489, 2024. \| [\[Code\]](https://github.com/jweihe/ADA-GAD)
 
-[HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection]()
+[HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection](https://arxiv.org/abs/2407.21742)
 
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming Huang. HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection. ACM Conference on Multimedia (**ACM MM**), 2024. (Accepted)
+Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming Huang. HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection. ACM Conference on Multimedia (**ACM MM**), 2024. (Accepted) \|  [\[Code\]](https://github.com/jweihe/HGOE)
 
 
 # 📖 Academic Services
