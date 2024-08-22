@@ -68,7 +68,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780)
 
-Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624–56664， 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
+Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624–56664, 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
