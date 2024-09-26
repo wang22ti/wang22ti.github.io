@@ -70,6 +70,14 @@ My research interest includes machine learning and data mining. I have authored 
 
 Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624–56664, 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
 
+[Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features]()
+
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. **<font color='red'> (Spotlight) </font>**
+
+[Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques]()
+
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. (Accepted)
+
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
 Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515–1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
