@@ -98,6 +98,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
  - IEEE Transactions on Knowledge and Data Engineering (*IEEE T-KDE*): Reviewer
  - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
  - Pattern Recognition (*PR*): Reviewer
+ - Machine Learning (*ML*): Reviewer
 
 ## Conference
  - *NeruIPS*：PC Member (2024)
