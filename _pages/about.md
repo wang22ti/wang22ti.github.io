@@ -70,13 +70,13 @@ My research interest includes machine learning and data mining. I have authored 
 
 Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624–56664, 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
 
-[Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features]()
+[Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features](https://arxiv.org/abs/2410.03558)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. **<font color='red'> (Spotlight) </font>**
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. **<font color='red'> (Spotlight) </font>** \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
 
-[Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques]()
+[Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques](https://arxiv.org/abs/2410.06719)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. (Accepted)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. (Accepted) [\[Code\]](https://github.com/Darkbblue/diffusion-content-shift)
 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
