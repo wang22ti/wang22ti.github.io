@@ -88,7 +88,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 
 [HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection](https://arxiv.org/abs/2407.21742)
 
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming Huang. HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection. ACM Conference on Multimedia (**ACM MM**), 2024. (Accepted) \|  [\[Code\]](https://github.com/jweihe/HGOE)
+Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming Huang. HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection. ACM Conference on Multimedia (**ACM MM**), 1544-1553, 2024. \|  [\[Code\]](https://github.com/jweihe/HGOE)
 
 
 # 📖 Academic Services
