@@ -103,7 +103,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
 ## Conference
  - *NeruIPS*: PC Member (2024)
  - *ICLR*: PC Member (2025)
- - *CVPR*: PC Member (2024)
+ - *CVPR*: PC Member (2024, 2025)
  - *AISTATS*: PC Member (2025)
  - *AAAI*: PC Member (2023, 2024, 2025)
  - *ACM MM*: PC Member (2023, 2024)
