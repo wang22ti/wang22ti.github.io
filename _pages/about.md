@@ -72,7 +72,7 @@ Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xia
 
 [Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features](https://arxiv.org/abs/2410.03558)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. **<font color='red'> (Spotlight) </font>** \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. **<font color='red'> (Spotlight, 2.1%) </font>** \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
 
 [Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques](https://arxiv.org/abs/2410.06719)
 
