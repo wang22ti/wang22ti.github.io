@@ -105,6 +105,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
  - Machine Learning (*ML*): Reviewer
 
 ## Conference
+ - *ICML*: PC Member (2025)
  - *NeruIPS*: PC Member (2024)
  - *ICLR*: PC Member (2025)
  - *CVPR*: PC Member (2024, 2025)
