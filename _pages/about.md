@@ -37,7 +37,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification](https://arxiv.org/abs/2407.06709)
 
-**Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision (**IJCV, IF: 11.6**), 2024. (Accepted)
+**Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision (**IJCV, IF: 11.6**), 133(1): 211–253, Jan. 2025.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
