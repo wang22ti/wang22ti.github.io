@@ -102,6 +102,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
  - IEEE Transactions on Knowledge and Data Engineering (*IEEE T-KDE*): Reviewer
  - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-CSVT*): Reviewer
  - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
+ - Transactions on Machine Learning Research (*TMLR*): Reviewer
  - Pattern Recognition (*PR*): Reviewer
  - Machine Learning (*ML*): Reviewer
 
