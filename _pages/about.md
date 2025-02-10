@@ -44,11 +44,11 @@ My research interest includes machine learning and data mining. I have authored 
 
 [A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning](https://arxiv.org/abs/2310.04752)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417--48430, 2023. **<font color='red'> (Spotlight, 3.1%) </font>** \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf) \| [\[PaperwithCode\]](https://paperswithcode.com/paper/a-unified-generalization-analysis-of-re)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417–48430, 2023. **<font color='red'> (Spotlight, 3.1%) </font>** \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf) \| [\[PaperwithCode\]](https://paperswithcode.com/paper/a-unified-generalization-analysis-of-re)
 
 [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://arxiv.org/pdf/2210.13458)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033--25045, 2022. **<font color='red'> (Spotlight, 5.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033–25045, 2022. **<font color='red'> (Spotlight, 5.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf)
 <!-- </div>
 </div> -->
 
@@ -72,11 +72,11 @@ Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xia
 
 [Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features](https://arxiv.org/abs/2410.03558)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. **<font color='red'> (Spotlight, 2.1%) </font>** \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 55141–55177, 2024. **<font color='red'> (Spotlight, 2.1%) </font>** \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
 
 [Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques](https://arxiv.org/abs/2410.06719)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. (Accepted) [\[Code\]](https://github.com/Darkbblue/diffusion-content-shift)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 18910–18939, 2024. [\[Code\]](https://github.com/Darkbblue/diffusion-content-shift)
 
 [EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://arxiv.org/pdf/2412.07499)
 
