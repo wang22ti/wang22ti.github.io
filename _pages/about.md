@@ -110,6 +110,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *NeruIPS*: PC Member (2024)
  - *ICLR*: PC Member (2025)
  - *CVPR*: PC Member (2024, 2025)
+ - *ICCV*: PC Member (2025)
  - *AISTATS*: PC Member (2025)
  - *AAAI*: PC Member (2023, 2024, 2025)
  - *ACM MM*: PC Member (2023, 2024)
