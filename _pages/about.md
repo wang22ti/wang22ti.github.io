@@ -35,7 +35,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://arxiv.org/pdf/2412.07499)
 
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Junwei He. EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion. AAAI Conference on Artificial Intelligence (**AAAI**), 2025. (Accepted)
+Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Junwei He. EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion. AAAI Conference on Artificial Intelligence (**AAAI**), 2025. (Accepted) \| [\[Code\]](https://github.com/Yuchen-Sunflower/EDGE)
 
 ## 2024 
 
@@ -115,7 +115,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *AAAI*: PC Member (2023, 2024, 2025)
  - *ACM MM*: PC Member (2023, 2024, 2025)
  - *ICDE*: PC Member (2024)
- - *ACML*: PC Member (2024)
+ - *ACML*: PC Member (2024, 2025)
 
 # 💬 Invited Talks & Presentations
 - *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
