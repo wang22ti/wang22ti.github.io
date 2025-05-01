@@ -39,6 +39,17 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Junwei He. EDGE: Unknown-
 
 ## 2024 
 
+[ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence]()
+
+Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (ICML), 2025. (**<font color='red'> (Spotlight) </font>**, Accepted)
+
+[OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning]()
+
+Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (ICML), 2025. (Accepted)
+
+[Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification]()
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (ICML), 2025. (Accepted)
+
 [Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification](https://arxiv.org/abs/2407.06709)
 
 **Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision (**IJCV, IF: 11.6**), 133(1): 211-253, Jan. 2025.
