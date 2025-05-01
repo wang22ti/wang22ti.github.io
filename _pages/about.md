@@ -33,15 +33,9 @@ My research interest includes machine learning and data mining. I have authored 
 
 ## 2025 
 
-[EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://arxiv.org/pdf/2412.07499)
-
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Junwei He. EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion. AAAI Conference on Artificial Intelligence (**AAAI**), 12613-12621, 2025. \| [\[Code\]](https://github.com/Yuchen-Sunflower/EDGE)
-
-## 2024 
-
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence]()
 
-Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (ICML), 2025. (**<font color='red'> (Spotlight) </font>**, Accepted)
+Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (ICML), 2025. (**<font color='red'> Spotlight </font>**, Accepted)
 
 [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning]()
 
@@ -49,6 +43,13 @@ Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Qingming Huang
 
 [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification]()
 Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (ICML), 2025. (Accepted)
+
+
+[EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://arxiv.org/pdf/2412.07499)
+
+Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Junwei He. EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion. AAAI Conference on Artificial Intelligence (**AAAI**), 12613-12621, 2025. \| [\[Code\]](https://github.com/Yuchen-Sunflower/EDGE)
+
+## 2024 
 
 [Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification](https://arxiv.org/abs/2407.06709)
 
