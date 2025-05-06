@@ -35,7 +35,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence]()
 
-Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 2025. (**<font color='red'>Spotlight</font>**, Accepted)
+Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 2025. (**<font color='red'>Spotlight, 2.6%</font>**, Accepted)
 
 [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning]()
 
@@ -120,7 +120,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 
 ## Conference
  - *ICML*: PC Member (2025)
- - *NeruIPS*: PC Member (2024, 2025)
+ - *NeurIPS*: PC Member (2024, 2025)
  - *ICLR*: PC Member (2025)
  - *CVPR*: PC Member (2024, 2025)
  - *ICCV*: PC Member (2025)
