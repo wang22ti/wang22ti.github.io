@@ -43,7 +43,7 @@ Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Qingming Huang
 
 [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://arxiv.org/abs/2505.01660)
 
-Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 2025. (Accepted)
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 2025. (Accepted) \| [\[Code\]](https://github.com/scongl/Focal-SAM )
 
 
 [EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://arxiv.org/pdf/2412.07499)
