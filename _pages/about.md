@@ -39,11 +39,11 @@ Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Hua
 
 [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://arxiv.org/abs/2505.05180)
 
-Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 2025. (Accepted)
+Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 2025. (Accepted) [\[Code\]](https://github.com/huacong/OpenworldAUC)
 
 [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://arxiv.org/abs/2505.01660)
 
-Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 2025. (Accepted) \| [\[Code\]](https://github.com/scongl/Focal-SAM )
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 2025. (Accepted) \| [\[Code\]](https://github.com/scongl/Focal-SAM)
 
 [EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://arxiv.org/pdf/2412.07499)
 
@@ -137,10 +137,12 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 - *2023.10*: &nbsp; PhD. student Forum of PRCV 2023. [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
 
+# 💻 Projects
+- *2024* Postdoctoral Innovation Talent Support Program, Ministry of Human Resources and Social Security of PRC (博士后创新人才支持计划)
+
 # 🎖 Honors and Awards
 - *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
 - *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
-- *2024* Postdoctoral Innovation Talent Support Program, Ministry of Human Resources and Social Security of PRC (博士后创新人才支持计划)
 - *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
 - *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
 - *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
