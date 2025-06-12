@@ -53,7 +53,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Junwei He. EDGE: Unknown-
 
 [Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification](https://arxiv.org/abs/2407.06709)
 
-**Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision (**IJCV, IF: 11.6**), 133(1): 211-253, Jan. 2025.
+**Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision (**<font color='red'>IJCV, IF: 11.6</font>**), 133(1): 211-253, Jan. 2025.
 
 [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780)
 
@@ -79,7 +79,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
 
 [Optimizing Partial Area Under the Top-k Curve: Theory and Practice](https://arxiv.org/pdf/2209.01398)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI, IF: 20.8**), 45(4): 5053-5069, Apr. 2023. \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color='red'>TPAMI, IF: 20.8</font>**), 45(4): 5053-5069, Apr. 2023. \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
 
 [A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning](https://arxiv.org/abs/2310.04752)
 
