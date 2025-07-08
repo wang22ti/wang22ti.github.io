@@ -144,6 +144,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 - *2024* Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)
 
 # 🎖 Honors & Awards
+- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
 - *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
 - *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
 - *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
