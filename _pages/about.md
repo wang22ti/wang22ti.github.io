@@ -124,7 +124,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *CVPR*: PC Member (2024, 2025)
  - *ICCV*: PC Member (2025)
  - *AISTATS*: PC Member (2025)
- - *AAAI*: PC Member (2023, 2024, 2025)
+ - *AAAI*: PC Member (2023, 2024, 2025, 2026)
  - *IJCAI*: PC Member (2025)
  - *ACM MM*: PC Member (2023, 2024, 2025)
  - *ICDE*: PC Member (2024)
