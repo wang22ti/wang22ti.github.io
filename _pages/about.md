@@ -31,6 +31,8 @@ My research interest includes machine learning and data mining. I have authored 
 
 # 📝 Publications 
 
+<span class='anchor' id='-publications'></span>
+
 ## 2025 
 
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence](https://arxiv.org/pdf/2505.04560)
@@ -106,12 +108,16 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
 Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
 
 # 💻 Projects & Fundings
+
+<span class='anchor' id='-projects--fundings'></span>
 - *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
 - *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
 - *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
 - *2024* Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)
 
 # 🎖 Honors & Awards
+
+<span class='anchor' id='-honors--awards'></span>
 - *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
 - *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
 - *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
@@ -122,6 +128,8 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 - *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
 
 # 💬 Invited Talks & Presentations
+
+<span class='anchor' id='-invited-talks--presentations'></span>
 - *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
 - *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
 - *2023.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
@@ -129,6 +137,8 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
 
 # 📖 Academic Services
+
+<span class='anchor' id='-academic-services'></span>
 ## Journal
  - IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE T-PAMI*): Reviewer
  - IEEE Transactions on Image Processing (*IEEE T-IP*): Reviewer

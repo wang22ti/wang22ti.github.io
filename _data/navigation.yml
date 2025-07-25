@@ -3,23 +3,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  # - title: "News"
-  #   url: "/#-news"
-
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Projects & Fundings"
+    url: "/#-projects--fundings"
+
+  - title: "Honors & Awards"
+    url: "/#-honors--awards"
+
+  - title: "Invited Talks"
+    url: "/#-invited-talks--presentations"
 
   - title: "Academic Services"
     url: "/#-academic-services"
 
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
+  # - title: "News"
+  #   url: "/#-news"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  # - title: "Project"
-  #   url: "/#-Project"
+  # - title: "Educations"
+    # url: "/#-educations"
