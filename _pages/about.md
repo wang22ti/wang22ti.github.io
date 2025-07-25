@@ -105,6 +105,28 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
 
 Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
 
+# 💻 Projects & Fundings
+- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
+- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
+- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
+- *2024* Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)
+
+# 🎖 Honors & Awards
+- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
+- *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
+- *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
+- *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
+- *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
+- *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
+- *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
+- *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
+
+# 💬 Invited Talks & Presentations
+- *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
+- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
+- *2023.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
+- *2023.10*: &nbsp; PhD. student Forum of PRCV 2023. [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
+- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
 
 # 📖 Academic Services
 ## Journal
@@ -130,30 +152,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *ICDE*: PC Member (2024)
  - *ACML*: PC Member (2024, 2025)
 
-# 💬 Invited Talks & Presentations
-- *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
-- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
-- *2023.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
-- *2023.10*: &nbsp; PhD. student Forum of PRCV 2023. [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
-
-# 💻 Projects & Fundings
-- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
-- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
-- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
-- *2024* Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)
-
-# 🎖 Honors & Awards
-- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
-- *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
-- *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
-- *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
-- *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
-- *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
-- *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
-- *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
-
-# 🎓 Educations
+<!-- # 🎓 Educations
 
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
@@ -175,7 +174,7 @@ School of Computer and Information Technology.
 
 Beijing Jiaotong University (北京交通大学, BJTU), Beijing.
 </div>
-</div>
+</div> -->
 
 
 <!-- # 💻 Project
