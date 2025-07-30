@@ -85,7 +85,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
 
 [A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning](https://arxiv.org/abs/2310.04752)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417-48430, 2023. **<font color='red'> (Spotlight, 3.1%) </font>** \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf) \| [\[PaperwithCode\]](https://paperswithcode.com/paper/a-unified-generalization-analysis-of-re)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417-48430, 2023. **<font color='red'> (Spotlight, 3.1%) </font>** \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf)
 
 [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://arxiv.org/pdf/2210.13458)
 
