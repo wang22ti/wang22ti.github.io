@@ -1,7 +1,7 @@
 ---
 permalink: /zh/
-title: ""
-excerpt: ""
+title: "中文版"
+excerpt: "王子泰的中文主页"
 author_profile: true
 ---
 
