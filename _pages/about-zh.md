@@ -1,10 +1,16 @@
 ---
 permalink: /zh/
-title: "中文版"
-excerpt: "王子泰的中文主页"
+title: ""
+excerpt: ""
 author_profile: true
-layout: default
 ---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # 个人简介
 
