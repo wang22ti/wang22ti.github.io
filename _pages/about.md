@@ -19,8 +19,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="float: right; margin-top: -30px;"><a href="/zh">中文版</a></span>
-
 Hi! I'm Zitai Wang (王子泰, E-mail: wangzitai@ict.ac.cn). Now I am a Post-doc Fellow at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I received the Ph.D. degree in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Shenzhen Campus of Sun Yat-sen University), [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Qiyuan Laboratory), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Associate Professor at UCAS), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Associate Professor at UCAS), and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS).
 
 My research interest includes machine learning and data mining. I have authored or co-authored 10+ academic papers in top-tier international conferences and journals, including T-PAMI, IJCV, ICML, NeurIPS, AAAI, and ACM Multimedia.
@@ -163,6 +161,11 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *ACM MM*: PC Member (2023, 2024, 2025)
  - *ICDE*: PC Member (2024)
  - *ACML*: PC Member (2024, 2025)
+
+# 🌐 Language
+
+<span class='anchor' id='-language'></span>
+- [**中文版**](/zh)
 
 <!-- # 🎓 Educations
 
