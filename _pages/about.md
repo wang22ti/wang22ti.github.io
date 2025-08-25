@@ -162,10 +162,6 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *ICDE*: PC Member (2024)
  - *ACML*: PC Member (2024, 2025)
 
-# 中文版
-
-<span class='anchor' id='-language'></span>
-- [**中文版**](/zh)
 
 <!-- # 🎓 Educations
 

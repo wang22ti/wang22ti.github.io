@@ -3,14 +3,8 @@ permalink: /zh/
 title: "中文版"
 excerpt: "王子泰的中文主页"
 author_profile: true
+layout: default
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # 个人简介
 
@@ -18,9 +12,9 @@ author_profile: true
 
 <span style="float: right; margin-top: -30px;"><a href="/">English</a></span>
 
-你好！我是王子泰（邮箱：wangzitai@ict.ac.cn），目前是中国科学院计算技术研究所的特别研究助理。我在中国科学院信息工程研究所获得博士学位，导师是[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）。我也很幸运能够与[许倩倩研究员](https://qianqianxu010.github.io/)（中国科学院计算技术研究所）、[操晓春教授](http://people.ucas.ac.cn/~xiaochun)（中山大学·深圳）、[何源博士](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN)（启元实验室）、[杨智勇副教授](https://joshuaas.github.io/)（中科院大学）、[马坷副教授](https://www.researchgate.net/profile/Ke_Ma10)（中科院大学）以及[姜阳邦彦博士](https://jiangyangby.github.io/)（中科院大学）等学者合作。
+您好！我是王子泰（英文名：Zitai Wang，邮箱：wangzitai@ict.ac.cn）。我目前是中国科学院计算技术研究所的博士后研究员。我在中国科学院信息工程研究所获得博士学位，导师是[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）。我也很幸运能够与[许倩倩教授](https://qianqianxu010.github.io/)（中科院计算所教授）、[操晓春教授](http://people.ucas.ac.cn/~xiaochun)（中山大学深圳校区教授）、[何源博士](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN)（启元实验室）、[杨智勇副教授](https://joshuaas.github.io/)（中科院大学副教授）、[马坷副教授](https://www.researchgate.net/profile/Ke_Ma10)（中科院大学副教授）以及[姜阳邦彦博士](https://jiangyangby.github.io/)（中科院大学博士后）等学者合作。
 
-我的研究兴趣包括机器学习和数据挖掘，已在顶级国际会议和期刊上发表或合作发表了10多篇学术论文，包括T-PAMI、IJCV、ICML、NeurIPS、AAAI和ACM Multimedia。
+我的研究兴趣包括机器学习和数据挖掘。我已发表或合作发表了10多篇学术论文，发表在顶级国际会议和期刊上，包括T-PAMI、IJCV、ICML、NeurIPS、AAAI和ACM Multimedia。
 
 # 📝 学术论文
 
@@ -111,9 +105,9 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 # 🎖 荣誉与奖励
 
 <span class='anchor' id='-honors--awards'></span>
-- *2025年* CVPR国际竞赛冠军
+- *2025年* 第三届CVPR组合式3D视觉研讨会一等奖（粗粒度GCR赛道）
 - *2025年* ICLR 2025优秀审稿人（480/全部）
-- *2024年* NeurIPS 2024 Top审稿人（1304/15160，8.6%）
+- *2024年* NeurIPS 2024优秀审稿人（1304/15160，8.6%）
 - *2024年* 中国科学院院长优秀奖
 - *2024年* 北京市优秀毕业生，中国科学院大学优秀毕业生
 - *2023年* 国家奖学金，中华人民共和国教育部
@@ -123,11 +117,11 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 # 💬 受邀报告与演讲
 
 <span class='anchor' id='-invited-talks--presentations'></span>
-- *2024年1月*: &nbsp; TechBeat：NeurIPS 2023论文解读. [\[视频\]](https://www.techbeat.net/talk-info?id=846).
-- *2023年12月*: &nbsp; AI TIME：NeurIPS 2023论文解读. [\[网页\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
+- *2024年1月*: &nbsp; TechBeat技术公开课NeurIPS 2023论文解读. [\[视频\]](https://www.techbeat.net/talk-info?id=846).
+- *2023年12月*: &nbsp; AI TIME NeurIPS 2023论文解读. [\[页面\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
 - *2023年12月*: &nbsp; 中国图象图形学学会青年科学家论坛. [\[海报\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
-- *2023年10月*: &nbsp; PRCV 2023博士生论坛. [\[网页\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
-- *2023年2月*: &nbsp; AI TIME：NeurIPS 2022论文解读. [\[视频\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+- *2023年10月*: &nbsp; PRCV 2023博士生论坛. [\[页面\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
+- *2023年2月*: &nbsp; AI TIME青年科学家NeurIPS 2022论文解读. [\[视频\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
 
 # 📖 学术服务
 
@@ -154,3 +148,8 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *ACM MM*: 程序委员会委员 (2023, 2024, 2025)
  - *ICDE*: 程序委员会委员 (2024)
  - *ACML*: 程序委员会委员 (2024, 2025)
+
+# 🌐 语言版本
+
+<span class='anchor' id='-language'></span>
+- [**英文版**](/)
