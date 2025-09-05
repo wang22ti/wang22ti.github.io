@@ -153,7 +153,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 ## Conference
  - *ICML*: PC Member (2025)
  - *NeurIPS*: PC Member (2024, 2025)
- - *ICLR*: PC Member (2025)
+ - *ICLR*: PC Member (2025, 2026)
  - *CVPR*: PC Member (2024, 2025)
  - *ICCV*: PC Member (2025)
  - *AISTATS*: PC Member (2025, 2026)
