@@ -35,6 +35,10 @@ My research interest includes machine learning and data mining. I have authored 
 
 ## 2025 
 
+[A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization]()
+
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Zhikang Xu, Linchao Zhang, Xiaochun Cao, Qingming Huang. A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 18.6)</font>**, 2025. (Accepted)
+
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence](https://arxiv.org/pdf/2505.04560)
 
 Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 2025. (**<font color='red'>Oral, 1.0%</font>**, Accepted)  \| [\[Code\]](https://github.com/ghwang-s/abkd)
