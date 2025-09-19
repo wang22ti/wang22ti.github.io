@@ -35,7 +35,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 ## 2025 
 
-[A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization]()
+[A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization](https://ieeexplore.ieee.org/abstract/document/11160674)
 
 **Zitai Wang**, Qianqian Xu, Zhiyong Yang, Zhikang Xu, Linchao Zhang, Xiaochun Cao, Qingming Huang. A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 18.6)</font>**, 2025. (Accepted, DOI: 10.1109/TPAMI.2025.3609440)
 
