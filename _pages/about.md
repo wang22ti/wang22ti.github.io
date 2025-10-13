@@ -150,6 +150,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - IEEE Transactions on Image Processing (*IEEE T-IP*): Reviewer
  - IEEE Transactions on Knowledge and Data Engineering (*IEEE T-KDE*): Reviewer
  - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-CSVT*): Reviewer
+ - IEEE Transactions on Neural Networks and Learning Systems (*IEEE T-NNLS*): Reviewer
  - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
  - Transactions on Machine Learning Research (*TMLR*): Reviewer
  - Pattern Recognition (*PR*): Reviewer
