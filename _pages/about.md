@@ -33,6 +33,12 @@ My research interest includes machine learning and data mining. I have authored 
 
 <span class='anchor' id='-publications'></span>
 
+## 2026 
+
+[Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation]()
+
+Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 2026. (Accepted)
+
 ## 2025 
 
 [A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization](https://ieeexplore.ieee.org/abstract/document/11160674)
