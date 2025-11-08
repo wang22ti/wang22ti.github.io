@@ -161,6 +161,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - Transactions on Machine Learning Research (*TMLR*): Reviewer
  - Pattern Recognition (*PR*): Reviewer
  - Machine Learning (*ML*): Reviewer
+ - CAAI Transactions on Intelligence Technology (*CAAI T-IT*): Reviewer
 
 ## Conference
  - *ICML*: PC Member (2025)
