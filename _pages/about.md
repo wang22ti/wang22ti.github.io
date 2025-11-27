@@ -47,15 +47,15 @@ Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, Qingming Huang. 
 
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence](https://arxiv.org/pdf/2505.04560)
 
-Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 2025. (**<font color='red'>Oral, 1.0%</font>**, Accepted)  \| [\[Code\]](https://github.com/ghwang-s/abkd)
+Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'> (Oral, 1.0%) </font>** \| [\[Code\]](https://github.com/ghwang-s/abkd)
 
 [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://arxiv.org/abs/2505.05180)
 
-Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 2025. (Accepted) [\[Code\]](https://github.com/huacong/OpenworldAUC)
+Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 24975-25020, 2025. [\[Code\]](https://github.com/huacong/OpenworldAUC)
 
 [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://arxiv.org/abs/2505.01660)
 
-Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 2025. (Accepted) \| [\[Code\]](https://github.com/scongl/Focal-SAM)
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 36624-36651, 2025. \| [\[Code\]](https://github.com/scongl/Focal-SAM)
 
 [EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://arxiv.org/pdf/2412.07499)
 
