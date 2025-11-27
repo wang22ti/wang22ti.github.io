@@ -120,6 +120,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 # 💻 Projects & Fundings
 
 <span class='anchor' id='-projects--fundings'></span>
+
 - *2025* Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)
 - *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
 - *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
@@ -130,7 +131,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 
 <span class='anchor' id='-honors--awards'></span>
 
-- *2025* CSIG Outstanding Doctoral Dissertation Award (CSIG博士学位论文激励计划，原CSIG优博)
+- *2025* CSIG Outstanding Doctoral Dissertation Award (CSIG博士学位论文激励计划，CSIG优博)
 - *2025* ACM Beijing Doctorial Dissertation Award (ACM北京分会优秀博士论文奖)
 - *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
 - *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
