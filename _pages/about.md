@@ -29,6 +29,31 @@ My research interest includes machine learning and data mining. I have authored 
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback! -->
 
+# 💻 Projects & Fundings
+
+<span class='anchor' id='-projects--fundings'></span>
+
+- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
+- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
+- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
+- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
+- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**
+
+# 🎖 Honors & Awards
+
+<span class='anchor' id='-honors--awards'></span>
+
+- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)**
+- *2025* **ACM Beijing Doctorial Dissertation Award (ACM北京分会优秀博士论文奖)**
+- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
+- *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
+- *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
+- *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
+- *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
+- *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
+- *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
+- *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
+
 # 📝 Publications 
 
 <span class='anchor' id='-publications'></span>
@@ -116,31 +141,6 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
 Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
-
-# 💻 Projects & Fundings
-
-<span class='anchor' id='-projects--fundings'></span>
-
-- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
-- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
-- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
-- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
-- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**
-
-# 🎖 Honors & Awards
-
-<span class='anchor' id='-honors--awards'></span>
-
-- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)**
-- *2025* **ACM Beijing Doctorial Dissertation Award (ACM北京分会优秀博士论文奖)**
-- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
-- *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
-- *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
-- *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
-- *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
-- *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
-- *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
-- *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
 
 # 💬 Invited Talks & Presentations
 
