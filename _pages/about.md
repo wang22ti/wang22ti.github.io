@@ -29,16 +29,6 @@ My research interest includes machine learning and data mining. I have authored 
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback! -->
 
-# 💻 Projects & Fundings
-
-<span class='anchor' id='-projects--fundings'></span>
-
-- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
-- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
-- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
-- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
-- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**
-
 # 🎖 Honors & Awards
 
 <span class='anchor' id='-honors--awards'></span>
@@ -53,6 +43,16 @@ My research interest includes machine learning and data mining. I have authored 
 - *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
 - *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
 - *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
+
+# 💻 Projects & Fundings
+
+<span class='anchor' id='-projects--fundings'></span>
+
+- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
+- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
+- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
+- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
+- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**
 
 # 📝 Publications 
 
