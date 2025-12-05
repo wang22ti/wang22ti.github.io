@@ -19,40 +19,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Zitai Wang (王子泰, E-mail: wangzitai@ict.ac.cn). Now I am a Post-doc Fellow at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I received the Ph.D. degree in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Shenzhen Campus of Sun Yat-sen University), [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Qiyuan Laboratory), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Associate Professor at UCAS), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Associate Professor at UCAS), and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS).
+Hi! I'm Zitai Wang (王子泰, E-mail: wangzitai@ict.ac.cn). Now I am a Post-doc Fellow at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I received the Ph.D. degree in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Shenzhen Campus of Sun Yat-sen University), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Associate Professor at UCAS), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Associate Professor at UCAS), [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS), [Shilong Bao (包世龙)](https://statusrank.github.io/) (Postdoc at UCAS), and [Peisong Wen (温佩松)](https://kid-7391.github.io/) (Postdoc at UCAS).
 
 My research interest includes machine learning and data mining. I have authored or co-authored 20+ academic papers in top-tier international conferences and journals, including TPAMI, IJCV, ICML, NeurIPS, AAAI, and ACM Multimedia.
 
+王子泰 (邮箱：wangzitai@ict.ac.cn)，博士毕业于中国科学院信息工程研究所（导师：黄庆明教授），现为中国科学院计算技术研究所博士后/特别研究助理 (合作导师：许倩倩研究员)。主要研究方向为机器学习与数据挖掘，已在 CCF-A 类期刊/会议发表论文20余篇，其中TPAMI/IJCV/ICML/NeurIPS 10 余篇，并有 7 篇入选 Oral/Spotlight 论文，获 CVPR 国际竞赛冠军；入选中国图象图形学学会博士学位论文激励计划（CSIG优博）、ACM北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获博士后创新人才支持计划（博新计划）、国家自然科学基金青年项目C类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任TPAMI、ICML、NeurIPS等CCF-A类期刊/会议审稿人，获NeurIPS Top审稿人
 
 <!-- # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback! -->
 
-# 🎖 Honors & Awards
-
-<span class='anchor' id='-honors--awards'></span>
-
-- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)**
-- *2025* **ACM Beijing Doctorial Dissertation Award (ACM北京分会优秀博士论文奖)**
-- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
-- *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
-- *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
-- *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
-- *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
-- *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
-- *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
-- *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
-
-# 💻 Projects & Fundings
-
-<span class='anchor' id='-projects--fundings'></span>
-
-- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
-- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
-- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
-- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
-- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**
 
 # 📝 Publications 
 
@@ -60,7 +37,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 ## 2026 
 
-[Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation]()
+[Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
 
 Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 2026. (Accepted)
 
@@ -141,6 +118,31 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
 Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
+
+# 🎖 Honors & Awards
+
+<span class='anchor' id='-honors--awards'></span>
+
+- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)**
+- *2025* **ACM Beijing Doctorial Dissertation Award (ACM北京分会优秀博士论文奖)**
+- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
+- *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
+- *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
+- *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
+- *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
+- *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
+- *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
+- *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
+
+# 💻 Projects & Fundings
+
+<span class='anchor' id='-projects--fundings'></span>
+
+- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
+- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
+- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
+- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
+- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**
 
 # 💬 Invited Talks & Presentations
 
