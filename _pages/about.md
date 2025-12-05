@@ -23,7 +23,7 @@ Hi! I'm Zitai Wang (王子泰, E-mail: wangzitai@ict.ac.cn). Now I am a Post-doc
 
 My research interest includes machine learning and data mining. I have authored or co-authored 20+ academic papers in top-tier international conferences and journals, including TPAMI, IJCV, ICML, NeurIPS, AAAI, and ACM Multimedia.
 
-王子泰 (邮箱：wangzitai@ict.ac.cn)，博士毕业于中国科学院信息工程研究所（导师：黄庆明教授），现为中国科学院计算技术研究所博士后/特别研究助理 (合作导师：许倩倩研究员)。主要研究方向为机器学习与数据挖掘，已在 CCF-A 类期刊/会议发表论文20余篇，其中TPAMI/IJCV/ICML/NeurIPS 10 余篇，并有 7 篇入选 Oral/Spotlight 论文，获 CVPR 国际竞赛冠军；入选中国图象图形学学会博士学位论文激励计划（CSIG优博）、ACM北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获博士后创新人才支持计划（博新计划）、国家自然科学基金青年项目C类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任TPAMI、ICML、NeurIPS等CCF-A类期刊/会议审稿人，获NeurIPS Top审稿人
+王子泰 (邮箱：wangzitai@ict.ac.cn)，现为中国科学院计算技术研究所博士后/特别研究助理 (合作导师：许倩倩研究员)，博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。主要研究方向为机器学习与数据挖掘，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中TPAMI/IJCV/ICML/NeurIPS 10 余篇，并有 7 篇入选 Oral/Spotlight 论文，获 CVPR 国际竞赛冠军；入选中国图象图形学学会博士学位论文激励计划（CSIG优博）、ACM北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获博士后创新人才支持计划（博新计划）、国家自然科学基金青年项目C类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
 
 <!-- # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
@@ -160,16 +160,16 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 <span class='anchor' id='-academic-services'></span>
 
 ## Journal
- - IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE T-PAMI*): Reviewer
- - IEEE Transactions on Image Processing (*IEEE T-IP*): Reviewer
- - IEEE Transactions on Knowledge and Data Engineering (*IEEE T-KDE*): Reviewer
- - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-CSVT*): Reviewer
- - IEEE Transactions on Neural Networks and Learning Systems (*IEEE T-NNLS*): Reviewer
- - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
+ - IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*): Reviewer
+ - IEEE Transactions on Image Processing (*IEEE TIP*): Reviewer
+ - IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE*): Reviewer
+ - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE TCSVT*): Reviewer
+ - IEEE Transactions on Neural Networks and Learning Systems (*IEEE TNNLS*): Reviewer
+ - IEEE Transactions on Multimedia (*IEEE TMM*): Reviewer
  - Transactions on Machine Learning Research (*TMLR*): Reviewer
  - Pattern Recognition (*PR*): Reviewer
  - Machine Learning (*ML*): Reviewer
- - CAAI Transactions on Intelligence Technology (*CAAI T-IT*): Reviewer
+ - CAAI Transactions on Intelligence Technology (*CAAI TIT*): Reviewer
 
 ## Conference
  - *ICML*: PC Member (2025)
