@@ -39,7 +39,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
 
-Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 2026. (Accepted)
+Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 2026. (Accepted) \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
 
 ## 2025 
 
