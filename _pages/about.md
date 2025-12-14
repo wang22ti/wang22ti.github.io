@@ -130,11 +130,11 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 
 ### Master Students
 
-- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, ACM MM 2023 **<font color='red'>(Oral)</font>**, 计算机学报（中国图象图形学学会优硕、北京图象图形学学会优硕）
-- **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024
-- **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): NeurIPS 2024 **<font color='red'>(Spotlight)</font>**, NeurIPS 2024
+- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（中国图象图形学学会优硕、北京图象图形学学会优硕）
+- **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金）
+- **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): **NeurIPS 2024 (Spotlight)**, NeurIPS 2024
 - **Difu Feng** (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
-- **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): ICML 2025 **<font color='red'>(Oral)</font>**
+- **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): **ICML 2025 (Oral)**
 
 # 🎖 Honors & Awards
 
