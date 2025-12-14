@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Student Collaborators"
+    url: "/#-student-collaborators"
+
   - title: "Projects & Fundings"
     url: "/#-projects--fundings"
 

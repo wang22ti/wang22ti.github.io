@@ -119,6 +119,23 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming 
 
 Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
 
+# 🧑‍🎓 Student Collaborators
+
+<span class='anchor' id='-student-collaborators'></span>
+
+### Ph.D. Students
+
+- **Cong Hua** (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024
+- **Sicong Li** (supervisor: Qingming Huang) (**李斯骢**，导师：黄庆明): ICML 2025
+
+### Master Students
+
+- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, ACM MM 2023 **<font color='red'>(Oral)</font>**, 计算机学报（中国图象图形学学会优硕、北京图象图形学学会优硕）
+- **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024
+- **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): NeurIPS 2024 **<font color='red'>(Spotlight)</font>**, NeurIPS 2024
+- **Difu Feng** (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
+- **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): ICML 2025 **<font color='red'>(Oral)</font>**
+
 # 🎖 Honors & Awards
 
 <span class='anchor' id='-honors--awards'></span>
