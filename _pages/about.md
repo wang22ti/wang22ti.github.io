@@ -125,7 +125,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 
 ### Ph.D. Students
 
-- **Cong Hua** (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024
+- **Cong Hua** (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024（中国科协青年科技人才培育工程博士生专项计划）
 - **Sicong Li** (supervisor: Qingming Huang) (**李斯骢**，导师：黄庆明): ICML 2025
 
 ### Master Students
