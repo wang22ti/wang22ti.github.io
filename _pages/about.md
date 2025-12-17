@@ -39,59 +39,59 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
 
-Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 2026. (Accepted) \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
+Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 2026. (Accepted) \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
 
 ## 2025 
 
 [A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization](https://ieeexplore.ieee.org/abstract/document/11160674)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Zhikang Xu, Linchao Zhang, Xiaochun Cao, Qingming Huang. A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 18.6)</font>**, 48(1): 639-656, Jan. 2026. \| [\[Code\]](https://github.com/wang22ti/DDC)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Zhikang Xu, Linchao Zhang, Xiaochun Cao and Qingming Huang. A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 18.6)</font>**, 48(1): 639-656, Jan. 2026. \| [\[Code\]](https://github.com/wang22ti/DDC)
 
 [DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations]()
 
-Zhiyong Yang, Qianqian Xu, Sicong Li, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 18.6)</font>**, 2025. (Accepted)
+Zhiyong Yang, Qianqian Xu, Sicong Li, **Zitai Wang**, Xiaochun Cao and Qingming Huang. DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 18.6)</font>**, 2025. (Accepted)
 
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence](https://arxiv.org/pdf/2505.04560)
 
-Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'> (Oral, 1.0%) </font>** \| [\[Code\]](https://github.com/ghwang-s/abkd)
+Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu and Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'> (Oral, 1.0%) </font>** \| [\[Code\]](https://github.com/ghwang-s/abkd)
 
 [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://arxiv.org/abs/2505.05180)
 
-Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 24975-25020, 2025. [\[Code\]](https://github.com/huacong/OpenworldAUC)
+Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao and Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 24975-25020, 2025. [\[Code\]](https://github.com/huacong/OpenworldAUC)
 
 [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://arxiv.org/abs/2505.01660)
 
-Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 36624-36651, 2025. \| [\[Code\]](https://github.com/scongl/Focal-SAM)
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao and Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 36624-36651, 2025. \| [\[Code\]](https://github.com/scongl/Focal-SAM)
 
 [EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://arxiv.org/pdf/2412.07499)
 
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Junwei He. EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion. AAAI Conference on Artificial Intelligence (**AAAI**), 12613-12621, 2025. \| [\[Code\]](https://github.com/Yuchen-Sunflower/EDGE)
+Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang and Junwei He. EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion. AAAI Conference on Artificial Intelligence (**AAAI**), 12613-12621, 2025. \| [\[Code\]](https://github.com/Yuchen-Sunflower/EDGE)
 
 ## 2024 
 
 [Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification](https://arxiv.org/abs/2407.06709)
 
-**Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision **<font color='red'>(IJCV, IF: 9.3)</font>**, 133(1): 211-253, Jan. 2025. \| [\[Code\]](https://github.com/wang22ti/TKPR)
+**Zitai Wang,** Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao and Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision **<font color='red'>(IJCV, IF: 9.3)</font>**, 133(1): 211-253, Jan. 2025. \| [\[Code\]](https://github.com/wang22ti/TKPR)
 
 [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780)
 
-Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624-56664, 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
+Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao and Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624-56664, 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
 
 [Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features](https://arxiv.org/abs/2410.03558)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 55141-55177, 2024. **<font color='red'> (Spotlight, 2.1%)</font>** \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao and Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 55141-55177, 2024. **<font color='red'> (Spotlight, 2.1%)</font>** \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
 
 [Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques](https://arxiv.org/abs/2410.06719)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 18910-18939, 2024. [\[Code\]](https://github.com/Darkbblue/diffusion-content-shift)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao and Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 18910-18939, 2024. [\[Code\]](https://github.com/Darkbblue/diffusion-content-shift)
 
 [ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection](https://arxiv.org/abs/2312.14535)
 
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481-8489, 2024. \| [\[Code\]](https://github.com/jweihe/ADA-GAD)
+Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang** and Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481-8489, 2024. \| [\[Code\]](https://github.com/jweihe/ADA-GAD)
 
 [HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection](https://arxiv.org/abs/2407.21742)
 
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, Qingming Huang. HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection. ACM Conference on Multimedia (**ACM MM**), 1544-1553, 2024. \|  [\[Code\]](https://github.com/jweihe/HGOE)
+Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun and Qingming Huang. HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection. ACM Conference on Multimedia (**ACM MM**), 1544-1553, 2024. \|  [\[Code\]](https://github.com/jweihe/HGOE)
 
 ## Before
 
