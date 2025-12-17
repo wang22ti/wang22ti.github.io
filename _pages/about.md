@@ -47,6 +47,10 @@ Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, Qingming Huang. 
 
 **Zitai Wang**, Qianqian Xu, Zhiyong Yang, Zhikang Xu, Linchao Zhang, Xiaochun Cao, Qingming Huang. A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 18.6)</font>**, 48(1): 639-656, Jan. 2026. \| [\[Code\]](https://github.com/wang22ti/DDC)
 
+[DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations]()
+
+Zhiyong Yang, Qianqian Xu, Sicong Li, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 18.6)</font>**, 2025. (Accepted)
+
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence](https://arxiv.org/pdf/2505.04560)
 
 Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'> (Oral, 1.0%) </font>** \| [\[Code\]](https://github.com/ghwang-s/abkd)
