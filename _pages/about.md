@@ -193,7 +193,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - CAAI Transactions on Intelligence Technology (*CAAI TIT*): Reviewer
 
 ## Conference
- - *ICML*: PC Member (2025)
+ - *ICML*: PC Member (2025, 2026)
  - *NeurIPS*: PC Member (2024, 2025)
  - *ICLR*: PC Member (2025, 2026)
  - *CVPR*: PC Member (2024, 2025, 2026)
