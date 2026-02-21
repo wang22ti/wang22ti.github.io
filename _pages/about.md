@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! I'm Zitai Wang (王子泰, E-mail: wangzitai@ict.ac.cn). Now I am a Post-doc Fellow at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I received the Ph.D. degree in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Shenzhen Campus of Sun Yat-sen University), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Associate Professor at UCAS), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Associate Professor at UCAS), [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS), [Shilong Bao (包世龙)](https://statusrank.github.io/) (Postdoc at UCAS), and [Peisong Wen (温佩松)](https://kid-7391.github.io/) (Postdoc at UCAS).
 
-My research interest includes machine learning and data mining. I have authored or co-authored 20+ academic papers in top-tier international conferences and journals, including TPAMI, IJCV, ICML, NeurIPS, AAAI, and ACM Multimedia.
+My research interest includes machine learning and data mining. I have authored or co-authored 20+ academic papers in top-tier international conferences and journals, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
 
 王子泰 (邮箱：wangzitai@ict.ac.cn)，现为中国科学院计算技术研究所博士后/特别研究助理 (合作导师：许倩倩研究员)，博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。主要研究方向为机器学习与数据挖掘，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中TPAMI/IJCV/ICML/NeurIPS 10 余篇，并有 7 篇入选 Oral/Spotlight 论文，获 CVPR 国际竞赛冠军；入选中国图象图形学学会博士学位论文激励计划（CSIG优博）、ACM北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获博士后创新人才支持计划（博新计划）、国家自然科学基金青年项目C类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
 
@@ -40,6 +40,14 @@ My research interest includes machine learning and data mining. I have authored 
 [Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
 
 Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 2026. (Accepted) \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
+
+[Making Training-Free Diffusion Segmentors Scale with the Generative Power]()
+
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
+
+[Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs]()
+
+Zhikang Xu, Qianqian Xu, Zitai Wang, Cong Hua, Sicong Li, Zhiyong Yang and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
 
 ## 2025 
 
@@ -136,7 +144,8 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 
 - **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（中国图象图形学学会优硕、北京图象图形学学会优硕）
 - **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金）
-- **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): **NeurIPS 2024 (Spotlight)**, NeurIPS 2024
+- **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024
+- **Zhikang Xu** (supervisor: Qianqian Xu) (**许志康**，导师：许倩倩): CVPR 2026
 - **Difu Feng** (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
 - **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): **ICML 2025 (Oral)**
 
@@ -202,7 +211,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
  - *AISTATS*: PC Member (2025, 2026)
  - *AAAI*: PC Member (2023, 2024, 2025, 2026)
  - *IJCAI*: PC Member (2025)
- - *ACM MM*: PC Member (2023, 2024, 2025)
+ - *ACM MM*: PC Member (2023, 2024, 2025, 2026)
  - *ICDE*: PC Member (2024)
  - *ACML*: PC Member (2024, 2025)
 
