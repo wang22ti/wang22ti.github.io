@@ -47,7 +47,7 @@ Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang and Qingm
 
 [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs]()
 
-Zhikang Xu, Qianqian Xu, Zitai Wang, Cong Hua, Sicong Li, Zhiyong Yang and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
+Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
 
 ## 2025 
 
