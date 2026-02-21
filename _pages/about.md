@@ -37,17 +37,17 @@ My research interest includes machine learning and data mining. I have authored 
 
 ## 2026 
 
-[Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
+[Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs]()
 
-Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 2026. (Accepted) \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
+Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
 
 [Making Training-Free Diffusion Segmentors Scale with the Generative Power]()
 
 Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
 
-[Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs]()
+[Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
 
-Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
+Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 2026. (Accepted) \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
 
 ## 2025 
 
