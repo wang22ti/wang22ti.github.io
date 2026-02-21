@@ -137,12 +137,12 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 
 ### Ph.D. Students
 
-- **Cong Hua** (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024（中国科协青年科技人才培育工程博士生专项计划）
+- **Cong Hua** (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024（**中国科协青年科技人才培育工程博士生专项计划**）
 - **Sicong Li** (supervisor: Qingming Huang) (**李斯骢**，导师：黄庆明): ICML 2025
 
 ### Master Students
 
-- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（中国图象图形学学会优硕、北京图象图形学学会优硕）
+- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图象图形学学会优硕**、北京图象图形学学会优硕）
 - **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金）
 - **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024
 - **Zhikang Xu** (supervisor: Qianqian Xu) (**许志康**，导师：许倩倩): CVPR 2026
