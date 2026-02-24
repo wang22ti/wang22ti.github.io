@@ -21,15 +21,98 @@ redirect_from:
 
 Hi! I'm Zitai Wang (王子泰, E-mail: wangzitai@ict.ac.cn). Now I am a Post-doc Fellow at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I received the Ph.D. degree in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Shenzhen Campus of Sun Yat-sen University), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Associate Professor at UCAS), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Associate Professor at UCAS), [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS), [Shilong Bao (包世龙)](https://statusrank.github.io/) (Postdoc at UCAS), and [Peisong Wen (温佩松)](https://kid-7391.github.io/) (Postdoc at UCAS).
 
-My research interest includes machine learning and data mining. I have authored or co-authored 20+ academic papers in top-tier international conferences and journals, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
+My research interest includes machine learning and data mining, with a special interest in complex metric optimization, long-tailed learning, open-set learning, and efficient learning for foundation models. I have authored or co-authored 20+ academic papers in top-tier international conferences and journals, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
 
-王子泰 (邮箱：wangzitai@ict.ac.cn)，现为中国科学院计算技术研究所博士后/特别研究助理 (合作导师：许倩倩研究员)，博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。主要研究方向为机器学习与数据挖掘，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中TPAMI/IJCV/ICML/NeurIPS 10 余篇，并有 7 篇入选 Oral/Spotlight 论文，获 CVPR 国际竞赛冠军；入选中国图象图形学学会博士学位论文激励计划（CSIG优博）、ACM北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获博士后创新人才支持计划（博新计划）、国家自然科学基金青年项目C类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
+王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中TPAMI/IJCV/ICML/NeurIPS 10 余篇，并有 **7 篇入选 Oral/Spotlight 论文**，获 CVPR 国际竞赛冠军；入选**中国图象图形学学会博士学位论文激励计划（CSIG优博）**、ACM北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年项目C类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
 
 <!-- # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback! -->
 
+# 🎖 Honors & Awards
+
+<span class='anchor' id='-honors--awards'></span>
+
+- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)**
+- *2025* **ACM Beijing Doctorial Dissertation Award (ACM北京分会优秀博士论文奖)**
+- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
+- *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
+- *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
+- *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
+- *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
+- *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
+- *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
+- *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
+
+# 💻 Projects & Fundings
+
+<span class='anchor' id='-projects--fundings'></span>
+
+- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
+- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
+- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
+- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
+- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**
+
+# 💬 Invited Talks & Presentations
+
+<span class='anchor' id='-invited-talks--presentations'></span>
+
+- *2025.11*: &nbsp; Beijing Youth Science and Technology Salon (北京青年科技沙龙). [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg).
+- *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
+- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
+- *2023.12*: &nbsp; Young Scientists Conference of CSIG (CSIG青年科学家会议). [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
+- *2023.10*: &nbsp; PhD. student Forum of PRCV 2023 (PRCV博士生论坛). [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
+- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+
+# 📖 Academic Services
+
+<span class='anchor' id='-academic-services'></span>
+
+## Journal
+ - IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*): Reviewer
+ - IEEE Transactions on Image Processing (*IEEE TIP*): Reviewer
+ - IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE*): Reviewer
+ - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE TCSVT*): Reviewer
+ - IEEE Transactions on Neural Networks and Learning Systems (*IEEE TNNLS*): Reviewer
+ - IEEE Transactions on Multimedia (*IEEE TMM*): Reviewer
+ - Transactions on Machine Learning Research (*TMLR*): Reviewer
+ - Pattern Recognition (*PR*): Reviewer
+ - Machine Learning (*ML*): Reviewer
+ - CAAI Transactions on Intelligence Technology (*CAAI TIT*): Reviewer
+
+## Conference
+ - *ICML*: PC Member (2025, 2026)
+ - *NeurIPS*: PC Member (2024, 2025)
+ - *ICLR*: PC Member (2025, 2026)
+ - *CVPR*: PC Member (2024, 2025, 2026)
+ - *ICCV*: PC Member (2025)
+ - *ECCV* : PC Member (2026)
+ - *AISTATS*: PC Member (2025, 2026)
+ - *AAAI*: PC Member (2023, 2024, 2025, 2026)
+ - *IJCAI*: PC Member (2025)
+ - *ACM MM*: PC Member (2023, 2024, 2025, 2026)
+ - *ICDE*: PC Member (2024)
+ - *ACML*: PC Member (2024, 2025)
+
+# 🧑‍🎓 Student Collaborators
+
+<span class='anchor' id='-student-collaborators'></span>
+
+### Ph.D. Students
+
+- **Cong Hua** (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024（**中国科协青年科技人才培育工程博士生专项计划**）
+- **Sicong Li** (supervisor: Qingming Huang) (**李斯骢**，导师：黄庆明): ICML 2025
+
+### Master Students
+
+- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图象图形学学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
+- **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
+- **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024
+- **Zhikang Xu** (supervisor: Qianqian Xu) (**许志康**，导师：许倩倩): CVPR 2026
+- **Difu Feng** (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
+- **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): **ICML 2025 (Oral)**
 
 # 📝 Publications 
 
@@ -130,90 +213,6 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, and Qingm
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
 Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
-
-# 🧑‍🎓 Student Collaborators
-
-<span class='anchor' id='-student-collaborators'></span>
-
-### Ph.D. Students
-
-- **Cong Hua** (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024（**中国科协青年科技人才培育工程博士生专项计划**）
-- **Sicong Li** (supervisor: Qingming Huang) (**李斯骢**，导师：黄庆明): ICML 2025
-
-### Master Students
-
-- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图象图形学学会优硕**、北京图象图形学学会优硕）
-- **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金）
-- **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024
-- **Zhikang Xu** (supervisor: Qianqian Xu) (**许志康**，导师：许倩倩): CVPR 2026
-- **Difu Feng** (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
-- **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): **ICML 2025 (Oral)**
-
-# 🎖 Honors & Awards
-
-<span class='anchor' id='-honors--awards'></span>
-
-- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)**
-- *2025* **ACM Beijing Doctorial Dissertation Award (ACM北京分会优秀博士论文奖)**
-- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
-- *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
-- *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
-- *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
-- *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
-- *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
-- *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
-- *2019* Excellent Graduate of Beijing & BJTU. (北京市优秀毕业生，北京交通大学优秀毕业生) 
-
-# 💻 Projects & Fundings
-
-<span class='anchor' id='-projects--fundings'></span>
-
-- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
-- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
-- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
-- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
-- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**
-
-# 💬 Invited Talks & Presentations
-
-<span class='anchor' id='-invited-talks--presentations'></span>
-
-- *2025.11*: &nbsp; Beijing Youth Science and Technology Salon (北京青年科技沙龙). [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg).
-- *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
-- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
-- *2023.12*: &nbsp; Young Scientists Conference of CSIG (CSIG青年科学家会议). [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
-- *2023.10*: &nbsp; PhD. student Forum of PRCV 2023 (PRCV博士生论坛). [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
-
-# 📖 Academic Services
-
-<span class='anchor' id='-academic-services'></span>
-
-## Journal
- - IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*): Reviewer
- - IEEE Transactions on Image Processing (*IEEE TIP*): Reviewer
- - IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE*): Reviewer
- - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE TCSVT*): Reviewer
- - IEEE Transactions on Neural Networks and Learning Systems (*IEEE TNNLS*): Reviewer
- - IEEE Transactions on Multimedia (*IEEE TMM*): Reviewer
- - Transactions on Machine Learning Research (*TMLR*): Reviewer
- - Pattern Recognition (*PR*): Reviewer
- - Machine Learning (*ML*): Reviewer
- - CAAI Transactions on Intelligence Technology (*CAAI TIT*): Reviewer
-
-## Conference
- - *ICML*: PC Member (2025, 2026)
- - *NeurIPS*: PC Member (2024, 2025)
- - *ICLR*: PC Member (2025, 2026)
- - *CVPR*: PC Member (2024, 2025, 2026)
- - *ICCV*: PC Member (2025)
- - *ECCV* : PC Member (2026)
- - *AISTATS*: PC Member (2025, 2026)
- - *AAAI*: PC Member (2023, 2024, 2025, 2026)
- - *IJCAI*: PC Member (2025)
- - *ACM MM*: PC Member (2023, 2024, 2025, 2026)
- - *ICDE*: PC Member (2024)
- - *ACML*: PC Member (2024, 2025)
 
 
 <!-- # 🎓 Educations
