@@ -39,11 +39,11 @@ My research interest includes machine learning and data mining. I have authored 
 
 [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs]()
 
-Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
+Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
 
 [Making Training-Free Diffusion Segmentors Scale with the Generative Power]()
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
 
 [Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
 
