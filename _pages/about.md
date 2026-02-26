@@ -35,7 +35,7 @@ My research interest includes machine learning and data mining, with a special i
 <span class='anchor' id='-honors--awards'></span>
 
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)**
-- *2025* **ACM Beijing Doctorial Dissertation Award (ACM北京分会优秀博士论文奖)**
+- *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)**
 - *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
 - *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
 - *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
