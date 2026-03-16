@@ -120,13 +120,13 @@ My research interest includes machine learning and data mining, with a special i
 
 ## 2026 
 
-[Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs]()
+[Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](https://arxiv.org/abs/2603.02618)
 
-Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang, and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
+Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang, and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \| [\[Code\]](https://github.com/ZhikangXu0112/InterNeg)
 
-[Making Training-Free Diffusion Segmentors Scale with the Generative Power]()
+[Making Training-Free Diffusion Segmentors Scale with the Generative Power](https://arxiv.org/abs/2603.06178)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang, and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang, and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \| [\[Code\]](https://github.com/Darkbblue/goca)
 
 [Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
 
