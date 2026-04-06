@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=45qZ_LcAAAAJ"
   email            : "wangzitai@ict.ac.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Zitai-Wang"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : "https://dblp.org/pid/251/3361.html"
-  orcid            : "https://orcid.org/0000-0002-5881-7270"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
