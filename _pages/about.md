@@ -115,7 +115,7 @@ My research interest includes machine learning and data mining, with a special i
 - **Difu Feng** (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
 - **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): ICML 2026, **ICML 2025 (Oral)**
 
-* Not co-authored by me.
+\* Not co-authored by me.
 
 # 📝 Publications 
 
