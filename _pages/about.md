@@ -125,11 +125,7 @@ My research interest includes machine learning and data mining, with a special i
 
 [GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures]()
 
-Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'> (Accepted, Spotlight, 2.2%) </font>** 
-
-The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works
-Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, Zitai Wang, Jin-Wen Wu, Longtao Huang, Qianqian Xu, Qingming Huang
-ICML 2026
+Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'> (Spotlight, 2.2%) </font>** 
 
 [The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works]()
 
