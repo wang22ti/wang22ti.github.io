@@ -84,7 +84,7 @@ My research interest includes machine learning and data mining, with a special i
 
 ## Conference
  - *ICML*: PC Member (2025, 2026)
- - *NeurIPS*: PC Member (2024, 2025)
+ - *NeurIPS*: PC Member (2024, 2025, 2026)
  - *ICLR*: PC Member (2025, 2026)
  - *CVPR*: PC Member (2024, 2025, 2026)
  - *ICCV*: PC Member (2025)
