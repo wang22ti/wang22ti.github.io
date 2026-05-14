@@ -34,7 +34,7 @@ My research interest includes machine learning and data mining, with a special i
 
 <span class='anchor' id='-honors--awards'></span>
 
-- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html).
+- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
 - *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
 - *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
 - *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
@@ -60,12 +60,12 @@ My research interest includes machine learning and data mining, with a special i
 
 <span class='anchor' id='-invited-talks--presentations'></span>
 
-- *2025.11*: &nbsp; Beijing Youth Science and Technology Salon (北京青年科技沙龙). [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg).
+- *2025.11*: &nbsp; Beijing Youth Science and Technology Salon (北京青年科技沙龙). [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
 - *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
-- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
-- *2023.12*: &nbsp; Young Scientists Conference of CSIG (CSIG青年科学家会议). [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
-- *2023.10*: &nbsp; PhD. student Forum of PRCV 2023 (PRCV博士生论坛). [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw)
+- *2023.12*: &nbsp; Young Scientists Conference of CSIG (CSIG青年科学家会议). [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg)
+- *2023.10*: &nbsp; PhD. student Forum of PRCV 2023 (PRCV博士生论坛). [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q)
+- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b)
 
 # 📖 Academic Services
 
