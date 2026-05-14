@@ -34,8 +34,8 @@ My research interest includes machine learning and data mining, with a special i
 
 <span class='anchor' id='-honors--awards'></span>
 
-- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)**
-- *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)**
+- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html).
+- *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
 - *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
 - *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
 - *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
@@ -50,10 +50,11 @@ My research interest includes machine learning and data mining, with a special i
 <span class='anchor' id='-projects--fundings'></span>
 
 - *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
-- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
+- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助) [\[Page\]](https://www.chinapostdoctor.org.cn/article?inid=05026d3c-9939-4c9c-9f7a-7216332abd26&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9)
 - *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
 - *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
-- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**
+- *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)** [\[Page\]](https://www.chinapostdoctor.org.cn/article?inid=82116029-75c1-4069-b382-7363c7cd076f&catname=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9)
+
 
 # 💬 Invited Talks & Presentations
 
@@ -110,7 +111,7 @@ My research interest includes machine learning and data mining, with a special i
 
 - **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图象图形学学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
 - **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
-- **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024
+- **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024（毕业去向：中山大学 博士）
 - **Zhikang Xu** (supervisor: Qianqian Xu) (**许志康**，导师：许倩倩): CVPR 2026
 - **Difu Feng** (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
 - **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): ICML 2026, **ICML 2025 (Oral)**
