@@ -37,7 +37,7 @@ My research interest includes machine learning and data mining, with a special i
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
 - *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
 - *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
-- *2025* ICLR 2025 Notabe Reviewer (480/all) (ICLR 2025 Notabe 审稿人)
+- *2025* ICLR 2025 Notable Reviewer (480/all) (ICLR 2025 Notable 审稿人)
 - *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
 - *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
 - *2024* Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生) 
@@ -89,7 +89,7 @@ My research interest includes machine learning and data mining, with a special i
  - *ICLR*: PC Member (2025, 2026)
  - *CVPR*: PC Member (2024, 2025, 2026)
  - *ICCV*: PC Member (2025)
- - *ECCV* : PC Member (2026)
+ - *ECCV*: PC Member (2026)
  - *AISTATS*: PC Member (2025, 2026)
  - *AAAI*: PC Member (2023, 2024, 2025, 2026)
  - *IJCAI*: PC Member (2025)
@@ -142,7 +142,7 @@ Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang, and Qing
 
 [Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
 
-Difu feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 14729--14737, 2026. \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
+Difu Feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 14729--14737, 2026. \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
 
 ## 2025 
 
