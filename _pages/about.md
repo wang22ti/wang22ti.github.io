@@ -34,6 +34,7 @@ My research interest includes machine learning and data mining, with a special i
 
 <span class='anchor' id='-honors--awards'></span>
 
+- *2026* ICML 2026 Silver Reviewer (ICML 2026 Silver 审稿人)
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
 - *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
 - *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
