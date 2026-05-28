@@ -127,11 +127,11 @@ My research interest includes machine learning and data mining, with a special i
 
 [GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures]()
 
-Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'> (Oral, 0.69%) </font>** 
+Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'> (Oral, 0.69%) </font>** \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
 
-[The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works]()
+[The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](https://arxiv.org/abs/2605.26246)
 
-Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 2026. (Accepted)
+Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 2026. (Accepted) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release)
 
 [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](https://arxiv.org/abs/2603.02618)
 
