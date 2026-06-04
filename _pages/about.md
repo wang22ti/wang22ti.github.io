@@ -23,7 +23,7 @@ Hi! I'm Zitai Wang (王子泰, E-mail: wangzitai@ict.ac.cn). Now I am a Post-doc
 
 My research interest includes machine learning and data mining, with a special interest in complex metric optimization, long-tailed learning, open-set learning, and efficient learning for foundation models. I have authored or co-authored 20+ academic papers in top-tier international conferences and journals, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
 
-王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中TPAMI/IJCV/ICML/NeurIPS/CVPR 10 余篇，并有 **8 篇入选 Oral/Spotlight 论文（2篇ICML Oral, 3篇NeurIPS Spotlight, 3篇ACM MM Oral）**，获 CVPR 国际竞赛冠军；入选**中国图象图形学学会博士学位论文激励计划（CSIG优博）**、ACM北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年项目C类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
+王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中TPAMI/IJCV/ICML/NeurIPS/CVPR 10 余篇，并有 **8 篇入选 Oral/Spotlight 论文（2篇ICML Oral, 3篇NeurIPS Spotlight, 3篇ACM MM Oral）**，获 CVPR 国际竞赛冠军；入选**中国图像图形学会博士学位论文激励计划（CSIG优博）**、ACM北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年项目C类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
 
 <!-- # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
@@ -35,7 +35,7 @@ My research interest includes machine learning and data mining, with a special i
 <span class='anchor' id='-honors--awards'></span>
 
 - *2026* ICML 2026 Silver Reviewer (ICML 2026 Silver 审稿人)
-- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图象图形学学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
+- *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
 - *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
 - *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
 - *2025* ICLR 2025 Notable Reviewer (480/all) (ICLR 2025 Notable 审稿人)
@@ -111,7 +111,7 @@ My research interest includes machine learning and data mining, with a special i
 
 ### Master Students
 
-- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图象图形学学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
+- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
 - **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
 - **Benyuan Meng** (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024（毕业去向：中山大学 博士）
 - **Zhikang Xu** (supervisor: Qianqian Xu) (**许志康**，导师：许倩倩): CVPR 2026
