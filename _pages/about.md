@@ -81,6 +81,8 @@ My research interest includes machine learning and data mining, with a special i
  - IEEE Transactions on Neural Networks and Learning Systems (*IEEE TNNLS*): Reviewer
  - IEEE Transactions on Multimedia (*IEEE TMM*): Reviewer
  - Transactions on Machine Learning Research (*TMLR*): Reviewer
+ - Information Fusion: Reviewer
+ - Neural Networks: Reviewer
  - Pattern Recognition (*PR*): Reviewer
  - Machine Learning (*ML*): Reviewer
  - CAAI Transactions on Intelligence Technology (*CAAI TIT*): Reviewer
