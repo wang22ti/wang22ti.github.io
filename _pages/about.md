@@ -34,6 +34,7 @@ My research interest includes machine learning and data mining, with a special i
 
 <span class='anchor' id='-honors--awards'></span>
 
+- *2026* 1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop (Grounding All Valid Answers Track)
 - *2026* ICML 2026 Silver Reviewer (ICML 2026 Silver 审稿人)
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
 - *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
