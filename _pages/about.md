@@ -211,10 +211,6 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, and Qingm
 
 **Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417-48430, 2023. **<font color='red'> (Spotlight, 3.1%) </font>** \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf)
 
-[When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
-
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
-
 [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://arxiv.org/pdf/2210.13458)
 
 **Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033-25045, 2022. **<font color='red'> (Spotlight, 5.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf)
@@ -230,6 +226,10 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are U
 [Adversarial Preference Learning with Pairwise Comparisons](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/MM2019-fp337.pdf)
 
 **Zitai Wang**, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao, and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (**ACM MM**), 656-664, 2019. **<font color='red'> (Oral, 9.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons) \| [\[Poster\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf) \| [\[Slides\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)
+
+[When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
+
+Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
 
 <!-- # 🎓 Education
 
