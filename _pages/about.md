@@ -35,9 +35,9 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 - **<font color='#1f77b4'>2026.02</font>**: Two papers are accepted by **CVPR 2026**. 🎉🎉🎉
 - **<font color='#1f77b4'>2025.12</font>**: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**. 🎉🎉🎉
 - *2025.11*: One paper is accepted by **AAAI 2026**.
-- *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)**.
+- *2025.11*: My doctoral dissertation is selected for the **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)**.
 - *2025.09*: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**.
-- *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award (ACM 北京分会优秀博士论文奖)**.
+- *2025.09*: My doctoral dissertation receives the **ACM Beijing Doctoral Dissertation Award (ACM 北京分会优秀博士论文奖)**.
 - *2025.08*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金 C 类)**.
 - *2025.07*: I receive the General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助).
 - *2025.06*: I receive the Incubation Project of the Beijing Natural Science Foundation - Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目).
@@ -148,12 +148,24 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 <span class='anchor' id='-collaborators'></span>
 
-<div class='people-line' markdown='1'>
-**Mentors:** [**Qingming Huang (黄庆明)**](https://qmhuang-ucas.github.io/), [**Qianqian Xu (许倩倩)**](https://qianqianxu010.github.io/)
+<div class='people-block'>
+<div class='people-heading'>Mentors</div>
+<div class='people-grid' markdown='1'>
+- [**Qingming Huang (黄庆明)**](https://qmhuang-ucas.github.io/)
+- [**Qianqian Xu (许倩倩)**](https://qianqianxu010.github.io/)
+</div>
 </div>
 
-<div class='people-line' markdown='1'>
-**Collaborators:** [**Xiaochun Cao (操晓春)**](http://people.ucas.ac.cn/~xiaochun), [**Zhiyong Yang (杨智勇)**](https://joshuaas.github.io/), [**Ke Ma (马坷)**](https://www.researchgate.net/profile/Ke_Ma10), [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/), [**Shilong Bao (包世龙)**](https://statusrank.github.io/), [**Peisong Wen (温佩松)**](https://kid-7391.github.io/)
+<div class='people-block'>
+<div class='people-heading'>Research Collaborators</div>
+<div class='people-grid' markdown='1'>
+- [**Xiaochun Cao (操晓春)**](http://people.ucas.ac.cn/~xiaochun)
+- [**Zhiyong Yang (杨智勇)**](https://joshuaas.github.io/)
+- [**Ke Ma (马坷)**](https://www.researchgate.net/profile/Ke_Ma10)
+- [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/)
+- [**Shilong Bao (包世龙)**](https://statusrank.github.io/)
+- [**Peisong Wen (温佩松)**](https://kid-7391.github.io/)
+</div>
 </div>
 
 ## Student Collaborators

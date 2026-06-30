@@ -177,9 +177,28 @@
     }
 }
 
-.people-line {
-    margin: 0.35em 0;
-    line-height: 1.6;
+.people-block {
+    margin: 0.75em 0 1em;
+}
+
+.people-heading {
+    margin-bottom: 0.25em;
+    font-weight: 700;
+    color: #494e52;
+}
+
+.people-grid ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
+    gap: 0.25em 1.25em;
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.people-grid li {
+    margin: 0;
+    line-height: 1.45;
 }
 
 $scroll_offset : 2em;
