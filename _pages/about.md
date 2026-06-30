@@ -176,16 +176,16 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 - [**Cong Hua**](https://huacong.github.io/) (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024*（**中国科协青年科技人才培育工程博士生专项计划**）
 - [**Sicong Li**](https://scongl.github.io/) (supervisor: Qingming Huang) (**李斯骢**，导师：黄庆明): ICML 2025
-- [**Shixi Qin**](https://scholar.google.com/citations?view_op=search_authors&mauthors=Shixi%20Qin%20GoodDiffusion) (supervisor: Zhiyong Yang) (**秦世熙**，导师：杨智勇): **ICML 2026 (Oral)**, ICML 2025*
+- **Shixi Qin** (supervisor: Zhiyong Yang) (**秦世熙**，导师：杨智勇): **ICML 2026 (Oral)**, ICML 2025*
 
 ### Master's Students
 
-- [**Yuchen Sun**](https://scholar.google.com/citations?view_op=search_authors&mauthors=Yuchen%20Sun%20TKMIA) (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
+- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
 - [**Junwei He**](https://jweihe.github.io/) (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
 - [**Benyuan Meng**](https://darkbblue.github.io/) (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024（毕业去向：中山大学 博士）
-- [**Zhikang Xu**](https://scholar.google.com/citations?view_op=search_authors&mauthors=Zhikang%20Xu%20InterNeg) (supervisor: Qianqian Xu) (**许志康**，导师：许倩倩): CVPR 2026
-- [**Difu Feng**](https://scholar.google.com/citations?view_op=search_authors&mauthors=Difu%20Feng%20BEP%20metric) (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
-- [**Guanghui Wang**](https://scholar.google.com/citations?view_op=search_authors&mauthors=Guanghui%20Wang%20ABKD) (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): ICML 2026, **ICML 2025 (Oral)**
+- **Zhikang Xu** (supervisor: Qianqian Xu) (**许志康**，导师：许倩倩): CVPR 2026
+- **Difu Feng** (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
+- **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): ICML 2026, **ICML 2025 (Oral)**
 
 \* Not co-authored by me.
 
