@@ -23,7 +23,7 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中 TPAMI/IJCV/ICML/NeurIPS/CVPR 论文 10 余篇，并有 **8 篇入选 Oral/Spotlight（2 篇 ICML Oral、3 篇 NeurIPS Spotlight、3 篇 ACM MM Oral）**，获 CVPR 国际竞赛冠军；入选**中国图像图形学会博士学位论文激励计划（CSIG 优博）**、**中国科学院优秀博士学位论文**、ACM 北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年科学基金 C 类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
 
-# News
+# 📰 News
 
 <span class='anchor' id='-news'></span>
 
@@ -63,7 +63,7 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 </div>
 
-# 🎖 Honors & Awards
+# 🏆 Honors & Awards
 
 <span class='anchor' id='-honors--awards'></span>
 
@@ -174,18 +174,18 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 ### Ph.D. Students
 
-- [**Cong Hua**](https://huacong.github.io/) (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024*（**中国科协青年科技人才培育工程博士生专项计划**）
-- [**Sicong Li**](https://scongl.github.io/) (supervisor: Qingming Huang) (**李斯骢**，导师：黄庆明): ICML 2025
-- **Shixi Qin** (supervisor: Zhiyong Yang) (**秦世熙**，导师：杨智勇): **ICML 2026 (Oral)**, ICML 2025*
+- [**Cong Hua (华聪)**](https://huacong.github.io/) (supervisor: Qingming Huang): ICML 2025, ICML 2024*（**中国科协青年科技人才培育工程博士生专项计划**）
+- [**Sicong Li (李斯骢)**](https://scongl.github.io/) (supervisor: Qingming Huang): ICML 2025
+- **Shixi Qin (秦世熙)** (supervisor: Zhiyong Yang): **ICML 2026 (Oral)**, ICML 2025*
 
 ### Master's Students
 
-- **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
-- [**Junwei He**](https://jweihe.github.io/) (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
-- [**Benyuan Meng**](https://darkbblue.github.io/) (supervisor: Qingming Huang) (**孟本源**，导师：黄庆明): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024（毕业去向：中山大学 博士）
-- **Zhikang Xu** (supervisor: Qianqian Xu) (**许志康**，导师：许倩倩): CVPR 2026
-- **Difu Feng** (supervisor: Qingming Huang) (**冯迪夫**，导师：黄庆明): AAAI 2026
-- **Guanghui Wang** (supervisor: Zhiyong Yang) (**王广辉**，导师：杨智勇): ICML 2026, **ICML 2025 (Oral)**
+- **Yuchen Sun (孙宇辰)** (supervisor: Qianqian Xu): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
+- [**Junwei He (何俊伟)**](https://jweihe.github.io/) (supervisor: Qingming Huang): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
+- [**Benyuan Meng (孟本源)**](https://darkbblue.github.io/) (supervisor: Qingming Huang): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024（毕业去向：中山大学 博士）
+- **Zhikang Xu (许志康)** (supervisor: Qianqian Xu): CVPR 2026
+- **Difu Feng (冯迪夫)** (supervisor: Qingming Huang): AAAI 2026
+- **Guanghui Wang (王广辉)** (supervisor: Zhiyong Yang): ICML 2026, **ICML 2025 (Oral)**
 
 \* Not co-authored with me.
 
