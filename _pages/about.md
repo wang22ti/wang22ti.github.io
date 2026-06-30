@@ -45,8 +45,13 @@ My research interests include machine learning and data mining, with a particula
 - *2025.06*: Our team wins the **1st Place Award** at the 3rd CVPR Workshop on Compositional 3D Vision.
 - *2025.05*: I receive the **Special Research Assistant Funding Program of the Chinese Academy of Sciences** (中国科学院特别研究助理资助项目).
 - *2025.05*: Three papers are accepted by **ICML 2025**, including <font color='red'>one Oral, 1.0%</font>.
+- *2025.01*: One paper appears in **IJCV**.
 - *2024.11*: One paper is accepted by **AAAI 2025**.
 - *2024.07*: I receive the **Postdoctoral Innovative Talents Support Program** (博士后创新人才支持计划).
+- *2024*: One paper is accepted by **ICML 2024**.
+- *2024*: Two papers are accepted by **NeurIPS 2024**, including <font color='red'>one Spotlight, 2.1%</font>.
+- *2024*: One paper is accepted by **AAAI 2024**.
+- *2024*: One paper is accepted by **ACM MM 2024**.
 
 </div>
 
