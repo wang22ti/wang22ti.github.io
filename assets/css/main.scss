@@ -177,6 +177,11 @@
     }
 }
 
+.people-line {
+    margin: 0.35em 0;
+    line-height: 1.6;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before {
     content: '';

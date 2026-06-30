@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Postdoctoral Fellow at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), advised by Prof. [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). My research interests include machine learning and data mining, with a particular focus on complex metric optimization, long-tailed learning, open-set learning, and efficient learning for foundation models. I have authored or co-authored over 20 papers published in top-tier international journals and conferences, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
 
-王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中 TPAMI/IJCV/ICML/NeurIPS/CVPR 论文 10 余篇，并有 **8 篇入选 Oral/Spotlight（2 篇 ICML Oral、3 篇 NeurIPS Spotlight、3 篇 ACM MM Oral）**，获 CVPR 国际竞赛冠军；入选**中国图像图形学会博士学位论文激励计划（CSIG 优博）**、ACM 北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年科学基金 C 类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
+王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中 TPAMI/IJCV/ICML/NeurIPS/CVPR 论文 10 余篇，并有 **8 篇入选 Oral/Spotlight（2 篇 ICML Oral、3 篇 NeurIPS Spotlight、3 篇 ACM MM Oral）**，获 CVPR 国际竞赛冠军；入选**中国图像图形学会博士学位论文激励计划（CSIG 优博）**、**中国科学院优秀博士学位论文**、ACM 北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年科学基金 C 类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
 
 # News
 
@@ -29,11 +29,12 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 <div class='news-box' markdown='1'>
 
+- **<font color='#1f77b4'>2026.06</font>**: My doctoral dissertation is selected as a **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.02</font>**: Two papers are accepted by **CVPR 2026**. 🎉🎉🎉
 - **<font color='#1f77b4'>2025.12</font>**: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**. 🎉🎉🎉
-- **<font color='#1f77b4'>2025.11</font>**: One paper is accepted by **AAAI 2026**. 🎉🎉🎉
+- *2025.11*: One paper is accepted by **AAAI 2026**.
 - *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)**.
 - *2025.09*: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**.
 - *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award (ACM 北京分会优秀博士论文奖)**.
@@ -66,6 +67,7 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 <span class='anchor' id='-honors--awards'></span>
 
+- *2026* **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**
 - *2026* **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop (Grounding All Valid Answers Track)**
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
 - *2025* **ACM Beijing Doctoral Dissertation Award (ACM 北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
@@ -103,7 +105,7 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 <span class='anchor' id='-academic-services'></span>
 
-I am recognized as an ICML 2026 Silver Reviewer, ICLR 2025 Notable Reviewer (480/all), and NeurIPS 2024 Top Reviewer (1304/15160, 8.6%).
+🎉🎉🎉 I am recognized as an ICML 2026 Silver Reviewer, ICLR 2025 Notable Reviewer (480/all), and NeurIPS 2024 Top Reviewer (1304/15160, 8.6%).
 
 <div class='service-grid'>
   <section class='service-column'>
@@ -146,17 +148,14 @@ I am recognized as an ICML 2026 Silver Reviewer, ICLR 2025 Notable Reviewer (480
 
 <span class='anchor' id='-collaborators'></span>
 
-## Research Collaborators
+<div class='people-line' markdown='1'>
+**Mentors:** [**Qingming Huang (黄庆明)**](https://qmhuang-ucas.github.io/), [**Qianqian Xu (许倩倩)**](https://qianqianxu010.github.io/)
+</div>
 
-- [**Qingming Huang (黄庆明)**](https://qmhuang-ucas.github.io/)
-- [**Xiaochun Cao (操晓春)**](http://people.ucas.ac.cn/~xiaochun)
-- [**Qianqian Xu (许倩倩)**](https://qianqianxu010.github.io/)
-- [**Zhiyong Yang (杨智勇)**](https://joshuaas.github.io/)
-- [**Ke Ma (马坷)**](https://www.researchgate.net/profile/Ke_Ma10)
-- [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/)
-- [**Shilong Bao (包世龙)**](https://statusrank.github.io/)
-- [**Peisong Wen (温佩松)**](https://kid-7391.github.io/)
-  
+<div class='people-line' markdown='1'>
+**Collaborators:** [**Xiaochun Cao (操晓春)**](http://people.ucas.ac.cn/~xiaochun), [**Zhiyong Yang (杨智勇)**](https://joshuaas.github.io/), [**Ke Ma (马坷)**](https://www.researchgate.net/profile/Ke_Ma10), [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/), [**Shilong Bao (包世龙)**](https://statusrank.github.io/), [**Peisong Wen (温佩松)**](https://kid-7391.github.io/)
+</div>
+
 ## Student Collaborators
 
 ### Ph.D. Students
