@@ -120,15 +120,15 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*), I
 
 ## Research Collaborators
 
-- [**Qianqian Xu (许倩倩)**](https://qianqianxu010.github.io/) (Professor at ICT, CAS)
-- [**Qingming Huang (黄庆明)**](https://qmhuang-ucas.github.io/) (IEEE Fellow)
-- [**Xiaochun Cao (操晓春)**](http://people.ucas.ac.cn/~xiaochun) (Professor at the Shenzhen Campus of Sun Yat-sen University)
-- [**Zhiyong Yang (杨智勇)**](https://joshuaas.github.io/) (Associate Professor at UCAS)
-- [**Ke Ma (马坷)**](https://www.researchgate.net/profile/Ke_Ma10) (Associate Professor at UCAS)
-- [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/) (Associate Professor at Hunan University)
-- [**Shilong Bao (包世龙)**](https://statusrank.github.io/) (Postdoc at UCAS)
-- [**Peisong Wen (温佩松)**](https://kid-7391.github.io/) (Postdoc at UCAS)
-- **Yuan He (何源)** (Associate Professor at Qiyuan Lab)
+- [**Qianqian Xu (许倩倩)**](https://qianqianxu010.github.io/)
+- [**Qingming Huang (黄庆明)**](https://qmhuang-ucas.github.io/)
+- [**Xiaochun Cao (操晓春)**](http://people.ucas.ac.cn/~xiaochun)
+- [**Zhiyong Yang (杨智勇)**](https://joshuaas.github.io/)
+- [**Ke Ma (马坷)**](https://www.researchgate.net/profile/Ke_Ma10)
+- [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/)
+- [**Shilong Bao (包世龙)**](https://statusrank.github.io/)
+- [**Peisong Wen (温佩松)**](https://kid-7391.github.io/)
+- **Yuan He (何源)**
 
 ## Student Collaborators
 
