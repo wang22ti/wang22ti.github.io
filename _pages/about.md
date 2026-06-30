@@ -44,8 +44,8 @@ My research interests include machine learning and data mining, with a particula
 - *2025.06*: I receive the **Incubation Project of the Beijing Natural Science Foundation - Haidian Original Innovation Joint Fund**.
 - *2025.06*: Our team wins the **1st Place Award** at the 3rd CVPR Workshop on Compositional 3D Vision.
 - *2025.05*: I receive the **Special Research Assistant Funding Program of the Chinese Academy of Sciences**.
-- *2025*: Three papers are accepted by **ICML 2025**, with one selected as an **Oral** paper.
-- *2025*: One paper is accepted by **AAAI 2025**.
+- *2025.05*: Three papers are accepted by **ICML 2025**, with one selected as an **Oral** paper.
+- *2024.11*: One paper is accepted by **AAAI 2025**.
 - *2024.07*: I receive the **Postdoctoral Innovative Talents Support Program**.
 
 </div>
