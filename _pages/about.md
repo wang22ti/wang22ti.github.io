@@ -85,10 +85,10 @@ My research interests include machine learning and data mining, with a particula
 
 <span class='anchor' id='-projects--fundings'></span>
 
-- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**
-- *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助) [\[Page\]](https://www.chinapostdoctor.org.cn/article?inid=05026d3c-9939-4c9c-9f7a-7216332abd26&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9)
-- *2025* Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)
-- *2025* Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
+- *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金 C 类)**
+- *2025* **General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)** [\[Page\]](https://www.chinapostdoctor.org.cn/article?inid=05026d3c-9939-4c9c-9f7a-7216332abd26&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9)
+- *2025* **Incubation Project of the Beijing Natural Science Foundation – Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目)**
+- *2025* **Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)**
 - *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)** [\[Page\]](https://www.chinapostdoctor.org.cn/article?inid=82116029-75c1-4069-b382-7363c7cd076f&catname=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9)
 
 
