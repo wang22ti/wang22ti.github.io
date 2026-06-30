@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "News"
+    url: "/#-news"
+
   - title: "Honors & Awards"
     url: "/#-honors--awards"
 
@@ -20,9 +23,6 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-
-  # - title: "News"
-  #   url: "/#-news"
 
   # - title: "Educations"
     # url: "/#-educations"

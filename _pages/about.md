@@ -25,10 +25,21 @@ My research interests include machine learning and data mining, with a particula
 
 王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中 TPAMI/IJCV/ICML/NeurIPS/CVPR 论文 10 余篇，并有 **8 篇入选 Oral/Spotlight（2 篇 ICML Oral、3 篇 NeurIPS Spotlight、3 篇 ACM MM Oral）**，获 CVPR 国际竞赛冠军；入选**中国图像图形学会博士学位论文激励计划（CSIG 优博）**、ACM 北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年科学基金 C 类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
 
-<!-- # 🔥 News
-- *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
-- *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (one was selected for an oral presentation and the other for a poster).
-- *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please try it and give us feedback! -->
+# News
+
+<span class='anchor' id='-news'></span>
+
+<div class='news-box' markdown='1'>
+
+- *2026.06*: Our paper **GoodDiffusion** was selected as an **ICML 2026 Oral** paper.
+- *2026.06*: I received the **ICML 2026 Silver Reviewer** recognition.
+- *2026.05*: I gave an invited presentation at the **CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees**. [\[Page\]](https://mp.weixin.qq.com/s?__biz=MzUxMDE4MzAzOA==&mid=2247856721&idx=4&sn=2b527a800c3f98bfcea1b295f27e59fc&chksm=f8faae048710b6f00702a80c3ffda3aee02d649b82c1796fba31df586464b6cd9a430c4bf750&mpshare=1&scene=24&srcid=0524jxBhKqmMpAFnwTsR0Kx5&sharer_shareinfo=8689a66a3b882fd930a09a8a28cf23f1&sharer_shareinfo_first=f94c9d9a54f0a7070dc3cdc4d91ad6e9&ascene=14&devicetype=android-36&version=2800483a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQ9l6VbN8BqF0Qv5DHjiy6qRL0AQIE97dBBAEAAAAAAIfmAVcXVG8AAAAOpnltbLcz9gKNyK89dVj04DDDyemnkVq8ARdM0Rk%2FF%2FZ8QU0v4YQOoET6Eu9Zml%2Bhi2JfJ0Z0eamStB61gBjRIjOoSvPgY8RqgvyGz8u6G1bPDHCdjgKNtfL9gejMu1C61AkyNVrMxCWaP7ZsSxMji%2FO3y9nSxs8Z2Sj0LLpI2ZQeSBgrTHn63jzlE0WV%2Fdywsr1AnVTeNKPxPa6Lw2PxDykii%2BwBHvmOyMR2vCTWBd%2FFPIWWPaZ9cgCpjlP0S19uJELD3edMnTlbWL%2FPTuXC1B1os%2FBoOwll1g%2FTJJ4%3D&pass_ticket=pBXZbg9tcCFCu87vh9DEAlikrOJIZ2rtdZe2Ue9cKmTs8oj9L2mSKzRbneXLoZWA&wx_header=3)
+- *2026.05*: Our team won the **1st Place Award** at the CVPR 2026 VizWiz Grand Challenge Workshop.
+- *2025.11*: I gave a talk at the **Beijing Youth Science and Technology Salon**. [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
+- *2025*: I received the **CSIG Outstanding Doctoral Dissertation Award**. [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
+- *2025*: I received the **ACM Beijing Doctoral Dissertation Award**. [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
+
+</div>
 
 # 🎖 Honors & Awards
 
