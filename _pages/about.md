@@ -29,15 +29,15 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 <div class='news-box' markdown='1'>
 
-- **2026.05**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
-- **2026.05**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
-- **2026.02**: Two papers are accepted by **CVPR 2026**. 🎉🎉🎉
-- **2025.12**: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**. 🎉🎉🎉
-- **2025.11**: One paper is accepted by **AAAI 2026**. 🎉🎉🎉
+- **<font color='#1f77b4'>2026.05</font>**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
+- **<font color='#1f77b4'>2026.05</font>**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
+- **<font color='#1f77b4'>2026.02</font>**: Two papers are accepted by **CVPR 2026**. 🎉🎉🎉
+- **<font color='#1f77b4'>2025.12</font>**: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**. 🎉🎉🎉
+- **<font color='#1f77b4'>2025.11</font>**: One paper is accepted by **AAAI 2026**. 🎉🎉🎉
 - *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)**.
 - *2025.09*: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**.
-- *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)**.
-- *2025.08*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**.
+- *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award (ACM 北京分会优秀博士论文奖)**.
+- *2025.08*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金 C 类)**.
 - *2025.07*: I receive the General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助).
 - *2025.06*: I receive the Incubation Project of the Beijing Natural Science Foundation - Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目).
 - *2025.06*: Our team wins the **1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision**.
@@ -67,12 +67,9 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 <span class='anchor' id='-honors--awards'></span>
 
 - *2026* **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop (Grounding All Valid Answers Track)**
-- *2026* ICML 2026 Silver Reviewer (ICML 2026 Silver 审稿人)
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
-- *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
+- *2025* **ACM Beijing Doctoral Dissertation Award (ACM 北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
 - *2025* **1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)**
-- *2025* ICLR 2025 Notable Reviewer (480/all) (ICLR 2025 Notable 审稿人)
-- *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
 - *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
 - *2024* Excellent Graduate of Beijing & UCAS (北京市优秀毕业生，中国科学院大学优秀毕业生)
 - *2023* National Scholarship, Ministry of Education of the PRC. (国家奖学金)
@@ -94,17 +91,19 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 <span class='anchor' id='-invited-talks--presentations'></span>
 
-- *2026.05*: &nbsp; CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees (2026中国图像图形大会CSIG优博论坛). [\[Page\]](https://mp.weixin.qq.com/s?__biz=MzUxMDE4MzAzOA==&mid=2247856721&idx=4&sn=2b527a800c3f98bfcea1b295f27e59fc&chksm=f8faae048710b6f00702a80c3ffda3aee02d649b82c1796fba31df586464b6cd9a430c4bf750&mpshare=1&scene=24&srcid=0524jxBhKqmMpAFnwTsR0Kx5&sharer_shareinfo=8689a66a3b882fd930a09a8a28cf23f1&sharer_shareinfo_first=f94c9d9a54f0a7070dc3cdc4d91ad6e9&ascene=14&devicetype=android-36&version=2800483a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQ9l6VbN8BqF0Qv5DHjiy6qRL0AQIE97dBBAEAAAAAAIfmAVcXVG8AAAAOpnltbLcz9gKNyK89dVj04DDDyemnkVq8ARdM0Rk%2FF%2FZ8QU0v4YQOoET6Eu9Zml%2Bhi2JfJ0Z0eamStB61gBjRIjOoSvPgY8RqgvyGz8u6G1bPDHCdjgKNtfL9gejMu1C61AkyNVrMxCWaP7ZsSxMji%2FO3y9nSxs8Z2Sj0LLpI2ZQeSBgrTHn63jzlE0WV%2Fdywsr1AnVTeNKPxPa6Lw2PxDykii%2BwBHvmOyMR2vCTWBd%2FFPIWWPaZ9cgCpjlP0S19uJELD3edMnTlbWL%2FPTuXC1B1os%2FBoOwll1g%2FTJJ4%3D&pass_ticket=pBXZbg9tcCFCu87vh9DEAlikrOJIZ2rtdZe2Ue9cKmTs8oj9L2mSKzRbneXLoZWA&wx_header=3)
+- *2026.05*: &nbsp; CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees (2026 中国图像图形大会 CSIG 优博论坛). [\[Page\]](https://mp.weixin.qq.com/s?__biz=MzUxMDE4MzAzOA==&mid=2247856721&idx=4&sn=2b527a800c3f98bfcea1b295f27e59fc&chksm=f8faae048710b6f00702a80c3ffda3aee02d649b82c1796fba31df586464b6cd9a430c4bf750&mpshare=1&scene=24&srcid=0524jxBhKqmMpAFnwTsR0Kx5&sharer_shareinfo=8689a66a3b882fd930a09a8a28cf23f1&sharer_shareinfo_first=f94c9d9a54f0a7070dc3cdc4d91ad6e9&ascene=14&devicetype=android-36&version=2800483a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQ9l6VbN8BqF0Qv5DHjiy6qRL0AQIE97dBBAEAAAAAAIfmAVcXVG8AAAAOpnltbLcz9gKNyK89dVj04DDDyemnkVq8ARdM0Rk%2FF%2FZ8QU0v4YQOoET6Eu9Zml%2Bhi2JfJ0Z0eamStB61gBjRIjOoSvPgY8RqgvyGz8u6G1bPDHCdjgKNtfL9gejMu1C61AkyNVrMxCWaP7ZsSxMji%2FO3y9nSxs8Z2Sj0LLpI2ZQeSBgrTHn63jzlE0WV%2Fdywsr1AnVTeNKPxPa6Lw2PxDykii%2BwBHvmOyMR2vCTWBd%2FFPIWWPaZ9cgCpjlP0S19uJELD3edMnTlbWL%2FPTuXC1B1os%2FBoOwll1g%2FTJJ4%3D&pass_ticket=pBXZbg9tcCFCu87vh9DEAlikrOJIZ2rtdZe2Ue9cKmTs8oj9L2mSKzRbneXLoZWA&wx_header=3)
 - *2025.11*: &nbsp; Beijing Youth Science and Technology Salon (北京青年科技沙龙). [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
 - *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846)
 - *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw)
-- *2023.12*: &nbsp; Young Scientists Conference of CSIG (CSIG青年科学家会议). [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg)
+- *2023.12*: &nbsp; Young Scientists Conference of CSIG (CSIG 青年科学家会议). [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg)
 - *2023.10*: &nbsp; Ph.D. Student Forum of PRCV 2023 (PRCV 博士生论坛). [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q)
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b)
 
 # 📖 Academic Services
 
 <span class='anchor' id='-academic-services'></span>
+
+I am recognized as an ICML 2026 Silver Reviewer, ICLR 2025 Notable Reviewer (480/all), and NeurIPS 2024 Top Reviewer (1304/15160, 8.6%).
 
 ## Journal Reviewer
 
