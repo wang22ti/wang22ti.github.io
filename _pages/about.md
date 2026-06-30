@@ -19,9 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Postdoctoral Fellow at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I have also been fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at the Shenzhen Campus of Sun Yat-sen University), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Associate Professor at UCAS), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Associate Professor at UCAS), [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS), [Shilong Bao (包世龙)](https://statusrank.github.io/) (Postdoc at UCAS), and [Peisong Wen (温佩松)](https://kid-7391.github.io/) (Postdoc at UCAS).
-
-My research interests include machine learning and data mining, with a particular focus on complex metric optimization, long-tailed learning, open-set learning, and efficient learning for foundation models. I have authored or co-authored over 20 papers published in top-tier international journals and conferences, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
+Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Postdoctoral Fellow at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), advised by Prof. [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). My research interests include machine learning and data mining, with a particular focus on complex metric optimization, long-tailed learning, open-set learning, and efficient learning for foundation models. I have authored or co-authored over 20 papers published in top-tier international journals and conferences, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
 
 王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中 TPAMI/IJCV/ICML/NeurIPS/CVPR 论文 10 余篇，并有 **8 篇入选 Oral/Spotlight（2 篇 ICML Oral、3 篇 NeurIPS Spotlight、3 篇 ACM MM Oral）**，获 CVPR 国际竞赛冠军；入选**中国图像图形学会博士学位论文激励计划（CSIG 优博）**、ACM 北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年科学基金 C 类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
 
@@ -136,17 +134,30 @@ My research interests include machine learning and data mining, with a particula
 - *ICDE*: PC Member (2024)
 - *ACML*: PC Member (2024, 2025)
 
-# 🧑‍🎓 Student Collaborators
+# 🤝 Collaborators
 
-<span class='anchor' id='-student-collaborators'></span>
+<span class='anchor' id='-collaborators'></span>
 
-## Ph.D. Students
+## Faculty Collaborators
+
+- [**Qianqian Xu (许倩倩)**](https://qianqianxu010.github.io/) (Professor at ICT, CAS)
+- [**Qingming Huang (黄庆明)**](https://qmhuang-ucas.github.io/) (IEEE Fellow)
+- [**Xiaochun Cao (操晓春)**](http://people.ucas.ac.cn/~xiaochun) (Professor at the Shenzhen Campus of Sun Yat-sen University)
+- [**Zhiyong Yang (杨智勇)**](https://joshuaas.github.io/) (Associate Professor at UCAS)
+- [**Ke Ma (马坷)**](https://www.researchgate.net/profile/Ke_Ma10) (Associate Professor at UCAS)
+- [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/) (Postdoc at UCAS)
+- [**Shilong Bao (包世龙)**](https://statusrank.github.io/) (Postdoc at UCAS)
+- [**Peisong Wen (温佩松)**](https://kid-7391.github.io/) (Postdoc at UCAS)
+
+## Student Collaborators
+
+### Ph.D. Students
 
 - **Cong Hua** (supervisor: Qingming Huang) (**华聪**，导师：黄庆明): ICML 2025, ICML 2024*（**中国科协青年科技人才培育工程博士生专项计划**）
 - **Sicong Li** (supervisor: Qingming Huang) (**李斯骢**，导师：黄庆明): ICML 2025
 - **Shixi Qin** (supervisor: Zhiyong Yang) (**秦世熙**，导师：杨智勇): **ICML 2026 (Oral)**, ICML 2025*
 
-## Master's Students
+### Master's Students
 
 - **Yuchen Sun** (supervisor: Qianqian Xu) (**孙宇辰**，导师：许倩倩): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
 - **Junwei He** (supervisor: Qingming Huang) (**何俊伟**，导师：黄庆明): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
