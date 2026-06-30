@@ -31,11 +31,11 @@ My research interests include machine learning and data mining, with a particula
 
 <div class='news-box' markdown='1'>
 
-- **2026.05**: **Two papers** are accepted by **ICML 2026**, including **one Oral** paper. 🎆
-- **2026.05**: Our team wins the **1st Place Award** at the **CVPR 2026 VizWiz Grand Challenge Workshop**. 🎆
-- **2026.02**: **Two papers** are accepted by **CVPR 2026**. 🎆
-- **2025.12**: One paper is accepted by **IEEE TPAMI**. 🎆
-- **2025.11**: One paper is accepted by **AAAI 2026**. 🎆
+- **2026.05**: **Two papers** are accepted by **ICML 2026**, including **one Oral** paper. 🎉
+- **2026.05**: Our team wins the **1st Place Award** at the **CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉
+- **2026.02**: **Two papers** are accepted by **CVPR 2026**. 🎉
+- **2025.12**: One paper is accepted by **IEEE TPAMI**. 🎉
+- **2025.11**: One paper is accepted by **AAAI 2026**. 🎉
 - *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award**.
 - *2025.09*: One paper is accepted by **IEEE TPAMI**.
 - *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award**.
