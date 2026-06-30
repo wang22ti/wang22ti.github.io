@@ -32,7 +32,7 @@ My research interests include machine learning and data mining, with a particula
 <div class='news-box' markdown='1'>
 
 - **2026.05**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
-- **2026.05**: Our team wins the **1st Place Award** at the **CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
+- **2026.05**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
 - **2026.02**: Two papers are accepted by **CVPR 2026**. 🎉🎉🎉
 - **2025.12**: One paper is accepted by **IEEE TPAMI**. 🎉🎉🎉
 - **2025.11**: One paper is accepted by **AAAI 2026**. 🎉🎉🎉
@@ -42,7 +42,7 @@ My research interests include machine learning and data mining, with a particula
 - *2025.08*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**.
 - *2025.07*: I receive the General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助).
 - *2025.06*: I receive the Incubation Project of the Beijing Natural Science Foundation - Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目).
-- *2025.06*: Our team wins the **1st Place Award** at the 3rd CVPR Workshop on Compositional 3D Vision.
+- *2025.06*: Our team wins the **1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision**.
 - *2025.05*: I receive the Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目).
 - *2025.05*: Three papers are accepted by **ICML 2025**, including **<font color='red'>one Oral (1.0%)</font>**.
 - *2024.11*: One paper is accepted by **AAAI 2025**.
@@ -68,11 +68,11 @@ My research interests include machine learning and data mining, with a particula
 
 <span class='anchor' id='-honors--awards'></span>
 
-- *2026* 1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop (Grounding All Valid Answers Track)
+- *2026* **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop (Grounding All Valid Answers Track)**
 - *2026* ICML 2026 Silver Reviewer (ICML 2026 Silver 审稿人)
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
 - *2025* **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
-- *2025* 1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)
+- *2025* **1st Place Award at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track)**
 - *2025* ICLR 2025 Notable Reviewer (480/all) (ICLR 2025 Notable 审稿人)
 - *2024* NeurIPS 2024 Top Reviewer (1304/15160, 8.6%) (NeurIPS 2024 Top 审稿人)
 - *2024* CAS President Award (Excellent Prize) (中国科学院院长优秀奖)
