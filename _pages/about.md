@@ -31,15 +31,21 @@ My research interests include machine learning and data mining, with a particula
 
 <div class='news-box' markdown='1'>
 
-- *2026.06*: Our paper **GoodDiffusion** is selected as an **ICML 2026 Oral** paper.
+- *2026.06*: Two papers are accepted by **ICML 2026**, with one selected as an **Oral** paper.
 - *2026.06*: I am recognized as an **ICML 2026 Silver Reviewer**.
 - *2026.05*: I am invited to present at the **CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees**.
 - *2026.05*: Our team wins the **1st Place Award** at the CVPR 2026 VizWiz Grand Challenge Workshop.
 - *2026*: Two papers are accepted by **CVPR 2026**.
 - *2026*: One paper is accepted by **AAAI 2026**.
+- *2025.12*: One paper is accepted by **IEEE TPAMI**.
 - *2025.11*: I give a talk at the **Beijing Youth Science and Technology Salon**.
 - *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award**.
+- *2025.09*: One paper is accepted by **IEEE TPAMI**.
 - *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award**.
+- *2025*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China**.
+- *2025*: I receive the **General Program of the Chinese Postdoctoral Science Foundation**.
+- *2025*: I receive the **Incubation Project of the Beijing Natural Science Foundation - Haidian Original Innovation Joint Fund**.
+- *2025*: I receive the **Special Research Assistant Funding Program of the Chinese Academy of Sciences**.
 
 </div>
 
