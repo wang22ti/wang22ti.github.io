@@ -54,13 +54,13 @@ My research interests include machine learning and data mining, with a particula
 - *2024.06*: One paper is accepted by **IJCV**.
 - *2024.05*: One paper is accepted by **ICML 2024**.
 - *2023.11*: One paper is accepted by **AAAI 2024**.
-- *2023.09*: One paper is accepted by **NeurIPS 2023**, including **<font color='red'>one Spotlight (3.1%)</font>**.
-- *2023.07*: One paper is accepted by **ACM MM 2023**, including **<font color='red'>one Oral (5.4%)</font>**.
-- *2022.09*: One paper is accepted by **NeurIPS 2022**, including **<font color='red'>one Spotlight (5.4%)</font>**.
+- *2023.09* **<font color='red'>Spotlight (3.1%)</font>**: One paper is accepted by **NeurIPS 2023**.
+- *2023.07* **<font color='red'>Oral (5.4%)</font>**: One paper is accepted by **ACM MM 2023**.
+- *2022.09* **<font color='red'>Spotlight (5.4%)</font>**: One paper is accepted by **NeurIPS 2022**.
 - *2022.08*: One paper is accepted by **IEEE TPAMI**.
-- *2022.07*: One paper is accepted by **ACM MM 2022**, including **<font color='red'>one Oral (5.6%)</font>**.
+- *2022.07* **<font color='red'>Oral (5.6%)</font>**: One paper is accepted by **ACM MM 2022**.
 - *2021.07*: One paper is accepted by **ACM MM 2021**.
-- *2019.07*: One paper is accepted by **ACM MM 2019**, including **<font color='red'>one Oral (9.4%)</font>**.
+- *2019.07* **<font color='red'>Oral (9.4%)</font>**: One paper is accepted by **ACM MM 2019**.
 
 </div>
 
