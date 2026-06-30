@@ -32,10 +32,10 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 - **2026.05**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
 - **2026.05**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
 - **2026.02**: Two papers are accepted by **CVPR 2026**. 🎉🎉🎉
-- **2025.12**: One paper is accepted by **IEEE TPAMI**. 🎉🎉🎉
+- **2025.12**: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**. 🎉🎉🎉
 - **2025.11**: One paper is accepted by **AAAI 2026**. 🎉🎉🎉
 - *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)**.
-- *2025.09*: One paper is accepted by **IEEE TPAMI**.
+- *2025.09*: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**.
 - *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)**.
 - *2025.08*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**.
 - *2025.07*: I receive the General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助).
@@ -49,13 +49,13 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 - *2024.07*: I receive the CAS President Award (Excellent Prize) (中国科学院院长优秀奖).
 - *2024.07*: One paper is accepted by **ACM MM 2024**.
 - *2024.06*: I am named an Excellent Graduate of Beijing & UCAS (北京市优秀毕业生，中国科学院大学优秀毕业生).
-- *2024.06*: One paper is accepted by **IJCV**.
+- *2024.06*: One paper is accepted by **<font color='red'>IJCV</font>**.
 - *2024.05*: One paper is accepted by **ICML 2024**.
 - *2023.11*: One paper is accepted by **AAAI 2024**.
 - *2023.09*: One paper is accepted by **NeurIPS 2023** **<font color='red'>Spotlight (3.1%)</font>**.
 - *2023.07*: One paper is accepted by **ACM MM 2023** **<font color='red'>Oral (5.4%)</font>**.
 - *2022.09*: One paper is accepted by **NeurIPS 2022** **<font color='red'>Spotlight (5.4%)</font>**.
-- *2022.08*: One paper is accepted by **IEEE TPAMI**.
+- *2022.08*: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**.
 - *2022.07*: One paper is accepted by **ACM MM 2022** **<font color='red'>Oral (5.6%)</font>**.
 - *2021.07*: One paper is accepted by **ACM MM 2021**.
 - *2019.07*: One paper is accepted by **ACM MM 2019** **<font color='red'>Oral (9.4%)</font>**.
