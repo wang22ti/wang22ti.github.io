@@ -31,13 +31,15 @@ My research interests include machine learning and data mining, with a particula
 
 <div class='news-box' markdown='1'>
 
-- *2026.06*: Our paper **GoodDiffusion** was selected as an **ICML 2026 Oral** paper.
-- *2026.06*: I received the **ICML 2026 Silver Reviewer** recognition.
-- *2026.05*: I gave an invited presentation at the **CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees**. [\[Page\]](https://mp.weixin.qq.com/s?__biz=MzUxMDE4MzAzOA==&mid=2247856721&idx=4&sn=2b527a800c3f98bfcea1b295f27e59fc&chksm=f8faae048710b6f00702a80c3ffda3aee02d649b82c1796fba31df586464b6cd9a430c4bf750&mpshare=1&scene=24&srcid=0524jxBhKqmMpAFnwTsR0Kx5&sharer_shareinfo=8689a66a3b882fd930a09a8a28cf23f1&sharer_shareinfo_first=f94c9d9a54f0a7070dc3cdc4d91ad6e9&ascene=14&devicetype=android-36&version=2800483a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQ9l6VbN8BqF0Qv5DHjiy6qRL0AQIE97dBBAEAAAAAAIfmAVcXVG8AAAAOpnltbLcz9gKNyK89dVj04DDDyemnkVq8ARdM0Rk%2FF%2FZ8QU0v4YQOoET6Eu9Zml%2Bhi2JfJ0Z0eamStB61gBjRIjOoSvPgY8RqgvyGz8u6G1bPDHCdjgKNtfL9gejMu1C61AkyNVrMxCWaP7ZsSxMji%2FO3y9nSxs8Z2Sj0LLpI2ZQeSBgrTHn63jzlE0WV%2Fdywsr1AnVTeNKPxPa6Lw2PxDykii%2BwBHvmOyMR2vCTWBd%2FFPIWWPaZ9cgCpjlP0S19uJELD3edMnTlbWL%2FPTuXC1B1os%2FBoOwll1g%2FTJJ4%3D&pass_ticket=pBXZbg9tcCFCu87vh9DEAlikrOJIZ2rtdZe2Ue9cKmTs8oj9L2mSKzRbneXLoZWA&wx_header=3)
-- *2026.05*: Our team won the **1st Place Award** at the CVPR 2026 VizWiz Grand Challenge Workshop.
-- *2025.11*: I gave a talk at the **Beijing Youth Science and Technology Salon**. [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
-- *2025*: I received the **CSIG Outstanding Doctoral Dissertation Award**. [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
-- *2025*: I received the **ACM Beijing Doctoral Dissertation Award**. [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
+- *2026.06*: Our paper **GoodDiffusion** is selected as an **ICML 2026 Oral** paper.
+- *2026.06*: I am recognized as an **ICML 2026 Silver Reviewer**.
+- *2026.05*: I am invited to present at the **CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees**.
+- *2026.05*: Our team wins the **1st Place Award** at the CVPR 2026 VizWiz Grand Challenge Workshop.
+- *2026*: Two papers are accepted by **CVPR 2026**.
+- *2026*: One paper is accepted by **AAAI 2026**.
+- *2025.11*: I give a talk at the **Beijing Youth Science and Technology Salon**.
+- *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award**.
+- *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award**.
 
 </div>
 
