@@ -128,6 +128,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*), I
 - [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/) (Associate Professor at Hunan University)
 - [**Shilong Bao (包世龙)**](https://statusrank.github.io/) (Postdoc at UCAS)
 - [**Peisong Wen (温佩松)**](https://kid-7391.github.io/) (Postdoc at UCAS)
+- **Yuan He (何源)** (Associate Professor at Qiyuan Lab)
 
 ## Student Collaborators
 
