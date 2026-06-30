@@ -36,21 +36,21 @@ My research interests include machine learning and data mining, with a particula
 - **2026.02**: Two papers are accepted by **CVPR 2026**. 🎉🎉🎉
 - **2025.12**: One paper is accepted by **IEEE TPAMI**. 🎉🎉🎉
 - **2025.11**: One paper is accepted by **AAAI 2026**. 🎉🎉🎉
-- *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award** (**中国图像图形学会优博**).
+- *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)**.
 - *2025.09*: One paper is accepted by **IEEE TPAMI**.
-- *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award** (**ACM 北京分会优秀博士论文奖**).
-- *2025.08*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China** (**国家自然科学基金青年科学基金 C 类**).
-- *2025.07*: I receive the **General Program of the Chinese Postdoctoral Science Foundation** (**中国博士后科学基金面上资助**).
-- *2025.06*: I receive the **Incubation Project of the Beijing Natural Science Foundation - Haidian Original Innovation Joint Fund** (**北京市自然科学基金-海淀原始创新联合基金培育项目**).
+- *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award (ACM北京分会优秀博士论文奖)**.
+- *2025.08*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金C类)**.
+- *2025.07*: I receive the General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助).
+- *2025.06*: I receive the Incubation Project of the Beijing Natural Science Foundation - Haidian Original Innovation Joint Fund (北京市自然科学基金-海淀原始创新联合基金培育项目).
 - *2025.06*: Our team wins the **1st Place Award** at the 3rd CVPR Workshop on Compositional 3D Vision.
-- *2025.05*: I receive the **Special Research Assistant Funding Program of the Chinese Academy of Sciences** (**中国科学院特别研究助理资助项目**).
+- *2025.05*: I receive the Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目).
 - *2025.05*: Three papers are accepted by **ICML 2025**, including **<font color='red'>one Oral (1.0%)</font>**.
 - *2024.11*: One paper is accepted by **AAAI 2025**.
 - *2024.09*: Two papers are accepted by **NeurIPS 2024**, including **<font color='red'>one Spotlight (2.1%)</font>**.
-- *2024.07*: I receive the **Postdoctoral Innovative Talents Support Program** (**博士后创新人才支持计划**).
-- *2024.07*: I receive the **CAS President Award (Excellent Prize)** (**中国科学院院长优秀奖**).
+- *2024.07*: I receive the **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)**.
+- *2024.07*: I receive the CAS President Award (Excellent Prize) (中国科学院院长优秀奖).
 - *2024.07*: One paper is accepted by **ACM MM 2024**.
-- *2024.06*: I am named an **Excellent Graduate of Beijing & UCAS** (**北京市优秀毕业生，中国科学院大学优秀毕业生**).
+- *2024.06*: I am named an Excellent Graduate of Beijing & UCAS (北京市优秀毕业生，中国科学院大学优秀毕业生).
 - *2024.06*: One paper is accepted by **IJCV**.
 - *2024.05*: One paper is accepted by **ICML 2024**.
 - *2023.11*: One paper is accepted by **AAAI 2024**.
