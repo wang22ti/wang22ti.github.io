@@ -165,7 +165,7 @@ My research interests include machine learning and data mining, with a particula
 
 [GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures]()
 
-Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'> (Oral, 0.69%) </font>** \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
+Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'>(Oral, 0.69%)</font>** \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
 
 [The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](https://arxiv.org/abs/2605.26246)
 
@@ -195,7 +195,7 @@ Zhiyong Yang, Qianqian Xu, Sicong Li, **Zitai Wang**, Xiaochun Cao, and Qingming
 
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence](https://arxiv.org/pdf/2505.04560)
 
-Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, and Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'> (Oral, 1.0%) </font>** \| [\[Code\]](https://github.com/ghwang-s/abkd)
+Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, and Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'>(Oral, 1.0%)</font>** \| [\[Code\]](https://github.com/ghwang-s/abkd)
 
 [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://arxiv.org/abs/2505.05180)
 
@@ -221,7 +221,7 @@ Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xia
 
 [Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features](https://arxiv.org/abs/2410.03558)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 55141-55177, 2024. **<font color='red'> (Spotlight, 2.1%)</font>** \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 55141-55177, 2024. **<font color='red'>(Spotlight, 2.1%)</font>** \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
 
 [Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques](https://arxiv.org/abs/2410.06719)
 
@@ -243,15 +243,15 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, and Qingm
 
 [A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning](https://arxiv.org/abs/2310.04752)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417-48430, 2023. **<font color='red'> (Spotlight, 3.1%) </font>** \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417-48430, 2023. **<font color='red'>(Spotlight, 3.1%)</font>** \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf)
 
 [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://arxiv.org/pdf/2210.13458)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033-25045, 2022. **<font color='red'> (Spotlight, 5.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033-25045, 2022. **<font color='red'>(Spotlight, 5.4%)</font>** \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf)
 
 [Confederated Learning: Going Beyond Centralization](https://github.com/wang22ti/Confederated-Learning/blob/main/mmfp1684-wang.pdf)
 
-**Zitai Wang**, Qianqian Xu, Ke Ma, Xiaochun Cao, and Qingming Huang. Confederated Learning: Going Beyond Centralization. ACM Conference on Multimedia (**ACM MM**), 2939-2947, 2022. **<font color='red'> (Oral, 5.6%) </font>** \| [\[Code\]](https://github.com/wang22ti/Confederated-Learning) \| [\[Slides\]](https://github.com/wang22ti/Confederated-Learning/blob/main/MM2022_slides.pdf)
+**Zitai Wang**, Qianqian Xu, Ke Ma, Xiaochun Cao, and Qingming Huang. Confederated Learning: Going Beyond Centralization. ACM Conference on Multimedia (**ACM MM**), 2939-2947, 2022. **<font color='red'>(Oral, 5.6%)</font>** \| [\[Code\]](https://github.com/wang22ti/Confederated-Learning) \| [\[Slides\]](https://github.com/wang22ti/Confederated-Learning/blob/main/MM2022_slides.pdf)
 
 [Implicit feedbacks are not always favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/mfp1549-wangA.pdf)
 
@@ -259,11 +259,11 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, and Qingm
 
 [Adversarial Preference Learning with Pairwise Comparisons](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/MM2019-fp337.pdf)
 
-**Zitai Wang**, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao, and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (**ACM MM**), 656-664, 2019. **<font color='red'> (Oral, 9.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons) \| [\[Poster\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf) \| [\[Slides\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)
+**Zitai Wang**, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao, and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (**ACM MM**), 656-664, 2019. **<font color='red'>(Oral, 9.4%)</font>** \| [\[Code\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons) \| [\[Poster\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf) \| [\[Slides\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)
 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
 
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
+Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'>(Oral, 5.4%)</font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
 
 <!-- # 🎓 Education
 
