@@ -40,10 +40,11 @@ My research interests include machine learning and data mining, with a particula
 - *2025.11*: I receive the **CSIG Outstanding Doctoral Dissertation Award**.
 - *2025.09*: One paper is accepted by **IEEE TPAMI**.
 - *2025.09*: I receive the **ACM Beijing Doctoral Dissertation Award**.
-- *2025*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China**.
-- *2025*: I receive the **General Program of the Chinese Postdoctoral Science Foundation**.
-- *2025*: I receive the **Incubation Project of the Beijing Natural Science Foundation - Haidian Original Innovation Joint Fund**.
-- *2025*: I receive the **Special Research Assistant Funding Program of the Chinese Academy of Sciences**.
+- *2025.08*: I receive the **Young Scientists Fund (C Class) of the National Natural Science Foundation of China**.
+- *2025.07*: I receive the **General Program of the Chinese Postdoctoral Science Foundation**.
+- *2025.06*: I receive the **Incubation Project of the Beijing Natural Science Foundation - Haidian Original Innovation Joint Fund**.
+- *2025.05*: I receive the **Special Research Assistant Funding Program of the Chinese Academy of Sciences**.
+- *2024.07*: I receive the **Postdoctoral Innovative Talents Support Program**.
 
 </div>
 
