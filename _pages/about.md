@@ -118,14 +118,14 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*), I
 
 <span class='anchor' id='-collaborators'></span>
 
-## Faculty Collaborators
+## Research Collaborators
 
 - [**Qianqian Xu (许倩倩)**](https://qianqianxu010.github.io/) (Professor at ICT, CAS)
 - [**Qingming Huang (黄庆明)**](https://qmhuang-ucas.github.io/) (IEEE Fellow)
 - [**Xiaochun Cao (操晓春)**](http://people.ucas.ac.cn/~xiaochun) (Professor at the Shenzhen Campus of Sun Yat-sen University)
 - [**Zhiyong Yang (杨智勇)**](https://joshuaas.github.io/) (Associate Professor at UCAS)
 - [**Ke Ma (马坷)**](https://www.researchgate.net/profile/Ke_Ma10) (Associate Professor at UCAS)
-- [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/) (Postdoc at UCAS)
+- [**Yangbangyan Jiang (姜阳邦彦)**](https://jiangyangby.github.io/) (Associate Professor at Hunan University)
 - [**Shilong Bao (包世龙)**](https://statusrank.github.io/) (Postdoc at UCAS)
 - [**Peisong Wen (温佩松)**](https://kid-7391.github.io/) (Postdoc at UCAS)
 
