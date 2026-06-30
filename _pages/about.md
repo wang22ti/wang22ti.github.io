@@ -105,13 +105,42 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 I am recognized as an ICML 2026 Silver Reviewer, ICLR 2025 Notable Reviewer (480/all), and NeurIPS 2024 Top Reviewer (1304/15160, 8.6%).
 
-## Journal Reviewer
-
-IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*), IEEE Transactions on Image Processing (*IEEE TIP*), IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE*), IEEE Transactions on Circuits and Systems for Video Technology (*IEEE TCSVT*), IEEE Transactions on Neural Networks and Learning Systems (*IEEE TNNLS*), IEEE Transactions on Multimedia (*IEEE TMM*), Transactions on Machine Learning Research (*TMLR*), Information Fusion, Neural Networks, Pattern Recognition (*PR*), Machine Learning (*ML*), and CAAI Transactions on Intelligence Technology (*CAAI TIT*).
-
-## Conference PC Member / Reviewer
-
-*ICML* (2025, 2026), *NeurIPS* (2024, 2025, 2026), *ICLR* (2025, 2026), *CVPR* (2024, 2025, 2026), *ICCV* (2025), *ECCV* (2026), *AISTATS* (2025, 2026), *AAAI* (2023, 2024, 2025, 2026, 2027), *IJCAI* (2025), *ACM MM* (2023, 2024, 2025, 2026), *ICDE* (2024), and *ACML* (2024, 2025).
+<div class='service-grid'>
+  <section class='service-column'>
+    <h2>Journal Reviewer</h2>
+    <ul class='service-list'>
+      <li>IEEE Transactions on Pattern Analysis and Machine Intelligence <em>(IEEE TPAMI)</em></li>
+      <li>IEEE Transactions on Image Processing <em>(IEEE TIP)</em></li>
+      <li>IEEE Transactions on Knowledge and Data Engineering <em>(IEEE TKDE)</em></li>
+      <li>IEEE Transactions on Circuits and Systems for Video Technology <em>(IEEE TCSVT)</em></li>
+      <li>IEEE Transactions on Neural Networks and Learning Systems <em>(IEEE TNNLS)</em></li>
+      <li>IEEE Transactions on Multimedia <em>(IEEE TMM)</em></li>
+      <li>Transactions on Machine Learning Research <em>(TMLR)</em></li>
+      <li>Information Fusion</li>
+      <li>Neural Networks</li>
+      <li>Pattern Recognition <em>(PR)</em></li>
+      <li>Machine Learning <em>(ML)</em></li>
+      <li>CAAI Transactions on Intelligence Technology <em>(CAAI TIT)</em></li>
+    </ul>
+  </section>
+  <section class='service-column'>
+    <h2>Conference PC Member / Reviewer</h2>
+    <ul class='service-list'>
+      <li><em>ICML</em> (2025, 2026)</li>
+      <li><em>NeurIPS</em> (2024, 2025, 2026)</li>
+      <li><em>ICLR</em> (2025, 2026)</li>
+      <li><em>CVPR</em> (2024, 2025, 2026)</li>
+      <li><em>ICCV</em> (2025)</li>
+      <li><em>ECCV</em> (2026)</li>
+      <li><em>AISTATS</em> (2025, 2026)</li>
+      <li><em>AAAI</em> (2023, 2024, 2025, 2026, 2027)</li>
+      <li><em>IJCAI</em> (2025)</li>
+      <li><em>ACM MM</em> (2023, 2024, 2025, 2026)</li>
+      <li><em>ICDE</em> (2024)</li>
+      <li><em>ACML</em> (2024, 2025)</li>
+    </ul>
+  </section>
+</div>
 
 # 🤝 Collaborators
 
