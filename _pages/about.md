@@ -31,7 +31,7 @@ My research interests include machine learning and data mining, with a particula
 
 <div class='news-box' markdown='1'>
 
-- *2026.06*: Two papers are accepted by **ICML 2026**, with one selected as an **Oral** paper.
+- *2026.05*: Two papers are accepted by **ICML 2026**, with one selected as an **Oral** paper.
 - *2026.06*: I am recognized as an **ICML 2026 Silver Reviewer**.
 - *2026.05*: I am invited to present at the **CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees**.
 - *2026.05*: Our team wins the **1st Place Award** at the CVPR 2026 VizWiz Grand Challenge Workshop.
