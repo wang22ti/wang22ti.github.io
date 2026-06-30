@@ -106,33 +106,13 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 <span class='anchor' id='-academic-services'></span>
 
-## Journal
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*): Reviewer
-- IEEE Transactions on Image Processing (*IEEE TIP*): Reviewer
-- IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE*): Reviewer
-- IEEE Transactions on Circuits and Systems for Video Technology (*IEEE TCSVT*): Reviewer
-- IEEE Transactions on Neural Networks and Learning Systems (*IEEE TNNLS*): Reviewer
-- IEEE Transactions on Multimedia (*IEEE TMM*): Reviewer
-- Transactions on Machine Learning Research (*TMLR*): Reviewer
-- Information Fusion: Reviewer
-- Neural Networks: Reviewer
-- Pattern Recognition (*PR*): Reviewer
-- Machine Learning (*ML*): Reviewer
-- CAAI Transactions on Intelligence Technology (*CAAI TIT*): Reviewer
+## Journal Reviewer
 
-## Conference
-- *ICML*: PC Member (2025, 2026)
-- *NeurIPS*: PC Member (2024, 2025, 2026)
-- *ICLR*: PC Member (2025, 2026)
-- *CVPR*: PC Member (2024, 2025, 2026)
-- *ICCV*: PC Member (2025)
-- *ECCV*: PC Member (2026)
-- *AISTATS*: PC Member (2025, 2026)
-- *AAAI*: PC Member (2023, 2024, 2025, 2026, 2027)
-- *IJCAI*: PC Member (2025)
-- *ACM MM*: PC Member (2023, 2024, 2025, 2026)
-- *ICDE*: PC Member (2024)
-- *ACML*: PC Member (2024, 2025)
+IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*), IEEE Transactions on Image Processing (*IEEE TIP*), IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE*), IEEE Transactions on Circuits and Systems for Video Technology (*IEEE TCSVT*), IEEE Transactions on Neural Networks and Learning Systems (*IEEE TNNLS*), IEEE Transactions on Multimedia (*IEEE TMM*), Transactions on Machine Learning Research (*TMLR*), Information Fusion, Neural Networks, Pattern Recognition (*PR*), Machine Learning (*ML*), and CAAI Transactions on Intelligence Technology (*CAAI TIT*).
+
+## Conference PC Member / Reviewer
+
+*ICML* (2025, 2026), *NeurIPS* (2024, 2025, 2026), *ICLR* (2025, 2026), *CVPR* (2024, 2025, 2026), *ICCV* (2025), *ECCV* (2026), *AISTATS* (2025, 2026), *AAAI* (2023, 2024, 2025, 2026, 2027), *IJCAI* (2025), *ACM MM* (2023, 2024, 2025, 2026), *ICDE* (2024), and *ACML* (2024, 2025).
 
 # 🤝 Collaborators
 
