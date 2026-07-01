@@ -63,9 +63,9 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 
 </div>
 
-# 🏆 Honors & Awards
+# 🏆 Honors & Funding
 
-<span class='anchor' id='-honors--awards'></span>
+<span class='anchor' id='-honors--funding'></span>
 
 - *2026* **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**
 - *2026* **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop (Grounding All Valid Answers Track)**
@@ -78,9 +78,7 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 - *2021* Director Scholarship (Excellent Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
 - *2019* Excellent Graduate of Beijing & BJTU (北京市优秀毕业生，北京交通大学优秀毕业生)
 
-# 💻 Projects & Funding
-
-<span class='anchor' id='-projects--fundings'></span>
+## Projects & Funding
 
 - *2025* **Young Scientists Fund (C Class) of the National Natural Science Foundation of China (国家自然科学基金青年科学基金 C 类)**
 - *2025* General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助) [\[Page\]](https://www.chinapostdoctor.org.cn/article?inid=05026d3c-9939-4c9c-9f7a-7216332abd26&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9)
@@ -89,9 +87,11 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 - *2024* **Postdoctoral Innovative Talents Support Program (博士后创新人才支持计划)** [\[Page\]](https://www.chinapostdoctor.org.cn/article?inid=82116029-75c1-4069-b382-7363c7cd076f&catname=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9)
 
 
-# 💬 Invited Talks & Presentations
+# 💬 Services
 
-<span class='anchor' id='-invited-talks--presentations'></span>
+<span class='anchor' id='-services'></span>
+
+## Invited Talks & Presentations
 
 - *2026.05*: &nbsp; CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees (2026 中国图像图形大会 CSIG 优博论坛). [\[Page\]](https://mp.weixin.qq.com/s?__biz=MzUxMDE4MzAzOA==&mid=2247856721&idx=4&sn=2b527a800c3f98bfcea1b295f27e59fc&chksm=f8faae048710b6f00702a80c3ffda3aee02d649b82c1796fba31df586464b6cd9a430c4bf750&mpshare=1&scene=24&srcid=0524jxBhKqmMpAFnwTsR0Kx5&sharer_shareinfo=8689a66a3b882fd930a09a8a28cf23f1&sharer_shareinfo_first=f94c9d9a54f0a7070dc3cdc4d91ad6e9&ascene=14&devicetype=android-36&version=2800483a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQ9l6VbN8BqF0Qv5DHjiy6qRL0AQIE97dBBAEAAAAAAIfmAVcXVG8AAAAOpnltbLcz9gKNyK89dVj04DDDyemnkVq8ARdM0Rk%2FF%2FZ8QU0v4YQOoET6Eu9Zml%2Bhi2JfJ0Z0eamStB61gBjRIjOoSvPgY8RqgvyGz8u6G1bPDHCdjgKNtfL9gejMu1C61AkyNVrMxCWaP7ZsSxMji%2FO3y9nSxs8Z2Sj0LLpI2ZQeSBgrTHn63jzlE0WV%2Fdywsr1AnVTeNKPxPa6Lw2PxDykii%2BwBHvmOyMR2vCTWBd%2FFPIWWPaZ9cgCpjlP0S19uJELD3edMnTlbWL%2FPTuXC1B1os%2FBoOwll1g%2FTJJ4%3D&pass_ticket=pBXZbg9tcCFCu87vh9DEAlikrOJIZ2rtdZe2Ue9cKmTs8oj9L2mSKzRbneXLoZWA&wx_header=3)
 - *2025.11*: &nbsp; Beijing Youth Science and Technology Salon (北京青年科技沙龙). [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
@@ -101,9 +101,7 @@ Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Pos
 - *2023.10*: &nbsp; Ph.D. Student Forum of PRCV 2023 (PRCV 博士生论坛). [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q)
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b)
 
-# 📖 Academic Services
-
-<span class='anchor' id='-academic-services'></span>
+## Academic Services
 
 🎉🎉🎉 I am recognized as an ICML 2026 Silver Reviewer, ICLR 2025 Notable Reviewer (480/all), and NeurIPS 2024 Top Reviewer (1304/15160, 8.6%).
 
