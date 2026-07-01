@@ -76,7 +76,7 @@ My research interests include machine learning and data mining, with a particula
 
 ## Honors & Awards
 
-- *2026* **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**
+- *2026* **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)** [\[Page\]](https://www.ucas.ac.cn/tz/cdc2f5a2675b47e6a65f5db29c19951f.htm)
 - *2026* **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop (Grounding All Valid Answers Track)**
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
 - *2025* **ACM Beijing Doctoral Dissertation Award (ACM 北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
