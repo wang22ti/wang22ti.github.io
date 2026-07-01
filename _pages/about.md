@@ -74,6 +74,8 @@ My research interests include machine learning and data mining, with a particula
 
 <span class='anchor' id='-honors--funding'></span>
 
+## Honors & Awards
+
 - *2026* **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**
 - *2026* **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop (Grounding All Valid Answers Track)**
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
@@ -97,16 +99,6 @@ My research interests include machine learning and data mining, with a particula
 # 💬 Services
 
 <span class='anchor' id='-services'></span>
-
-## Invited Talks & Presentations
-
-- *2026.05*: &nbsp; CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees (2026 中国图像图形大会 CSIG 优博论坛). [\[Page\]](https://mp.weixin.qq.com/s?__biz=MzUxMDE4MzAzOA==&mid=2247856721&idx=4&sn=2b527a800c3f98bfcea1b295f27e59fc&chksm=f8faae048710b6f00702a80c3ffda3aee02d649b82c1796fba31df586464b6cd9a430c4bf750&mpshare=1&scene=24&srcid=0524jxBhKqmMpAFnwTsR0Kx5&sharer_shareinfo=8689a66a3b882fd930a09a8a28cf23f1&sharer_shareinfo_first=f94c9d9a54f0a7070dc3cdc4d91ad6e9&ascene=14&devicetype=android-36&version=2800483a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQ9l6VbN8BqF0Qv5DHjiy6qRL0AQIE97dBBAEAAAAAAIfmAVcXVG8AAAAOpnltbLcz9gKNyK89dVj04DDDyemnkVq8ARdM0Rk%2FF%2FZ8QU0v4YQOoET6Eu9Zml%2Bhi2JfJ0Z0eamStB61gBjRIjOoSvPgY8RqgvyGz8u6G1bPDHCdjgKNtfL9gejMu1C61AkyNVrMxCWaP7ZsSxMji%2FO3y9nSxs8Z2Sj0LLpI2ZQeSBgrTHn63jzlE0WV%2Fdywsr1AnVTeNKPxPa6Lw2PxDykii%2BwBHvmOyMR2vCTWBd%2FFPIWWPaZ9cgCpjlP0S19uJELD3edMnTlbWL%2FPTuXC1B1os%2FBoOwll1g%2FTJJ4%3D&pass_ticket=pBXZbg9tcCFCu87vh9DEAlikrOJIZ2rtdZe2Ue9cKmTs8oj9L2mSKzRbneXLoZWA&wx_header=3)
-- *2025.11*: &nbsp; Beijing Youth Science and Technology Salon (北京青年科技沙龙). [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
-- *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846)
-- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw)
-- *2023.12*: &nbsp; Young Scientists Conference of CSIG (CSIG 青年科学家会议). [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg)
-- *2023.10*: &nbsp; Ph.D. Student Forum of PRCV 2023 (PRCV 博士生论坛). [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q)
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b)
 
 ## Academic Services
 
@@ -148,6 +140,16 @@ My research interests include machine learning and data mining, with a particula
     </ul>
   </section>
 </div>
+
+## Invited Talks & Presentations
+
+- *2026.05*: &nbsp; CCIG 2026 Forum for CSIG Outstanding Doctoral Dissertation Awardees (2026 中国图像图形大会 CSIG 优博论坛). [\[Page\]](https://mp.weixin.qq.com/s?__biz=MzUxMDE4MzAzOA==&mid=2247856721&idx=4&sn=2b527a800c3f98bfcea1b295f27e59fc&chksm=f8faae048710b6f00702a80c3ffda3aee02d649b82c1796fba31df586464b6cd9a430c4bf750&mpshare=1&scene=24&srcid=0524jxBhKqmMpAFnwTsR0Kx5&sharer_shareinfo=8689a66a3b882fd930a09a8a28cf23f1&sharer_shareinfo_first=f94c9d9a54f0a7070dc3cdc4d91ad6e9&ascene=14&devicetype=android-36&version=2800483a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQ9l6VbN8BqF0Qv5DHjiy6qRL0AQIE97dBBAEAAAAAAIfmAVcXVG8AAAAOpnltbLcz9gKNyK89dVj04DDDyemnkVq8ARdM0Rk%2FF%2FZ8QU0v4YQOoET6Eu9Zml%2Bhi2JfJ0Z0eamStB61gBjRIjOoSvPgY8RqgvyGz8u6G1bPDHCdjgKNtfL9gejMu1C61AkyNVrMxCWaP7ZsSxMji%2FO3y9nSxs8Z2Sj0LLpI2ZQeSBgrTHn63jzlE0WV%2Fdywsr1AnVTeNKPxPa6Lw2PxDykii%2BwBHvmOyMR2vCTWBd%2FFPIWWPaZ9cgCpjlP0S19uJELD3edMnTlbWL%2FPTuXC1B1os%2FBoOwll1g%2FTJJ4%3D&pass_ticket=pBXZbg9tcCFCu87vh9DEAlikrOJIZ2rtdZe2Ue9cKmTs8oj9L2mSKzRbneXLoZWA&wx_header=3)
+- *2025.11*: &nbsp; Beijing Youth Science and Technology Salon (北京青年科技沙龙). [\[Page\]](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
+- *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846)
+- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw)
+- *2023.12*: &nbsp; Young Scientists Conference of CSIG (CSIG 青年科学家会议). [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg)
+- *2023.10*: &nbsp; Ph.D. Student Forum of PRCV 2023 (PRCV 博士生论坛). [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q)
+- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b)
 
 # 🤝 Collaborators
 
