@@ -19,9 +19,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Postdoctoral Fellow at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), advised by Prof. [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). My research interests include machine learning and data mining, with a particular focus on complex metric optimization, long-tailed learning, open-set learning, and efficient learning for foundation models. I have authored or co-authored over 20 papers published in top-tier international journals and conferences, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
+Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Postdoctoral Fellow at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), advised by Prof. [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow).
 
-王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习，已在 CCF-A 类期刊/会议发表论文 20 余篇，其中 TPAMI/IJCV/ICML/NeurIPS/CVPR 论文 10 余篇，并有 **8 篇入选 Oral/Spotlight（2 篇 ICML Oral、3 篇 NeurIPS Spotlight、3 篇 ACM MM Oral）**，获 CVPR 国际竞赛冠军；入选**中国图像图形学会博士学位论文激励计划（CSIG 优博）**、**中国科学院优秀博士学位论文**、ACM 北京分会优秀博士学位论文奖、中国科学院院长优秀奖；获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年科学基金 C 类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
+My research interests include machine learning and data mining, with a particular focus on complex metric optimization, long-tailed learning, open-set learning, and efficient learning for foundation models. I have authored or co-authored over 20 papers published in top-tier international journals and conferences, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
+
+王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习。
+
+- 已在 CCF-A 类期刊/会议发表论文 20 余篇，其中 TPAMI/IJCV/ICML/NeurIPS/CVPR 论文 10 余篇，并有 **8 篇入选 Oral/Spotlight（2 篇 ICML Oral、3 篇 NeurIPS Spotlight、3 篇 ACM MM Oral）**，获 CVPR 国际竞赛冠军 2 项；
+- 入选**中国图像图形学会博士学位论文激励计划（CSIG 优博）**、**中国科学院优秀博士学位论文**、ACM 北京分会优秀博士学位论文奖、中国科学院院长优秀奖；
+- 获**博士后创新人才支持计划（博新计划）**、国家自然科学基金青年科学基金 C 类、北京市自然科学基金-海淀原始创新联合基金培育项目、中国科学院特别研究助理资助项目、中国博士后科学基金面上项目资助；
+- 担任 TPAMI、ICML、NeurIPS 等 CCF-A 类期刊/会议审稿人，被评为 NeurIPS Top 审稿人。
 
 # 📰 News
 
