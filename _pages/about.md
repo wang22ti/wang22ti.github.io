@@ -202,7 +202,7 @@ My research interests include machine learning and data mining, with a particula
 
 ## 2026
 
-[GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures]()
+[GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures](https://arxiv.org/abs/2606.29759)
 
 Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'>(Oral, 0.69%)</font>** \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
 
