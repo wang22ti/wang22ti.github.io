@@ -19,11 +19,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Zitai Wang (王子泰; email: wangzitai@ict.ac.cn). I am currently a Postdoctoral Fellow at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), advised by Prof. [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow).
+Hi! I'm Zitai Wang (email: wangzitai@ict.ac.cn). I am currently a Postdoctoral Fellow at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), advised by Prof. **[Qianqian Xu](https://qianqianxu010.github.io/)**. I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the supervision of Prof. **[Qingming Huang](https://qmhuang-ucas.github.io/)** (IEEE Fellow).
 
-My research interests include machine learning and data mining, with a particular focus on complex metric optimization, long-tailed learning, open-set learning, and efficient learning for foundation models. I have authored or co-authored over 20 papers published in top-tier international journals and conferences, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
+My research interests include machine learning and data mining, with a particular focus on <a href="#-publications" class="research-filter-link publication-tag--metric-optimization" data-publication-tags="Metric Optimization">metric optimization</a>, <a href="#-publications" class="research-filter-link publication-tag--imbalanced-learning" data-publication-tags="Imbalanced Learning">imbalanced learning</a>, <a href="#-publications" class="research-filter-link publication-tag--open-world-learning" data-publication-tags="Open-World Learning">open-world learning</a>, and <a href="#-publications" class="research-filter-link publication-tag--llm" data-publication-tags="LLM,Knowledge Distillation,Diffusion Models,AI Safety">efficient and safe learning for large models</a>. I have authored or co-authored over 20 papers published in top-tier international journals and conferences, including TPAMI, IJCV, ICML, NeurIPS, CVPR, AAAI, and ACM Multimedia.
 
-王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：许倩倩研究员），博士毕业于中国科学院信息工程研究所（导师：黄庆明教授）。研究方向为机器学习与数据挖掘，包括但不限于复杂指标优化、长尾学习、开放域学习、大模型高效学习。
+王子泰（邮箱：wangzitai@ict.ac.cn），中国科学院计算技术研究所博士后/特别研究助理（合作导师：**[许倩倩研究员](https://qianqianxu010.github.io/)**），博士毕业于中国科学院信息工程研究所（导师：**[黄庆明教授](https://qmhuang-ucas.github.io/)**）。研究方向为机器学习与数据挖掘，包括但不限于<a href="#-publications" class="research-filter-link publication-tag--metric-optimization" data-publication-tags="Metric Optimization">复杂指标优化</a>、<a href="#-publications" class="research-filter-link publication-tag--imbalanced-learning" data-publication-tags="Imbalanced Learning">不平衡学习</a>、<a href="#-publications" class="research-filter-link publication-tag--open-world-learning" data-publication-tags="Open-World Learning">开放域学习</a>、<a href="#-publications" class="research-filter-link publication-tag--llm" data-publication-tags="LLM,Knowledge Distillation,Diffusion Models,AI Safety">大模型高效学习与安全</a>。
 
 - 已在 CCF-A 类期刊/会议发表论文 20 余篇，其中 TPAMI/IJCV/ICML/NeurIPS/CVPR 论文 10 余篇，并有 **8 篇入选 Oral/Spotlight（2 篇 ICML Oral、3 篇 NeurIPS Spotlight、3 篇 ACM MM Oral）**，获 CVPR 国际竞赛冠军 2 项；
 - 入选**中国图像图形学会博士学位论文激励计划（CSIG 优博）**、**中国科学院优秀博士学位论文**、ACM 北京分会优秀博士学位论文奖、中国科学院院长优秀奖；
@@ -183,16 +183,16 @@ My research interests include machine learning and data mining, with a particula
 
 - [**Cong Hua (华聪)**](https://huacong.github.io/) (supervisor: Qingming Huang): ICML 2025, ICML 2024*（**中国科协青年科技人才培育工程博士生专项计划**）
 - [**Sicong Li (李斯骢)**](https://scongl.github.io/) (supervisor: Qingming Huang): ICML 2025
-- **Shixi Qin (秦世熙)** (supervisor: Zhiyong Yang): **ICML 2026 (Oral)**, ICML 2025*
+- [**Shixi Qin (秦世熙)**](https://scholar.google.com/citations?user=CKEQ7ncAAAAJ) (supervisor: Zhiyong Yang): **ICML 2026 (Oral)**, ICML 2025*
 
 ### Master's Students
 
-- **Yuchen Sun (孙宇辰)** (supervisor: Qianqian Xu): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
+- [**Yuchen Sun (孙宇辰)**](https://scholar.google.com/citations?user=2qt1xn4AAAAJ) (supervisor: Qianqian Xu): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
 - [**Junwei He (何俊伟)**](https://jweihe.github.io/) (supervisor: Qingming Huang): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
 - [**Benyuan Meng (孟本源)**](https://darkbblue.github.io/) (supervisor: Qingming Huang): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024（毕业去向：中山大学 博士）
-- **Zhikang Xu (许志康)** (supervisor: Qianqian Xu): CVPR 2026
-- **Difu Feng (冯迪夫)** (supervisor: Qingming Huang): AAAI 2026
-- **Guanghui Wang (王广辉)** (supervisor: Zhiyong Yang): ICML 2026, **ICML 2025 (Oral)**
+- [**Zhikang Xu (许志康)**](https://scholar.google.com/citations?user=wwY0uL0AAAAJ) (supervisor: Qianqian Xu): CVPR 2026
+- [**Difu Feng (冯迪夫)**](https://scholar.google.com/citations?user=AUjc98YAAAAJ) (supervisor: Qingming Huang): AAAI 2026
+- [**Guanghui Wang (王广辉)**](https://ghwang-s.github.io/) (supervisor: Zhiyong Yang): ICML 2026, **ICML 2025 (Oral)**
 
 \* Not co-authored with me.
 

@@ -195,6 +195,377 @@
     line-height: 1.45;
 }
 
+.publication-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1em;
+    margin: 1em 0 0.5em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+
+    > h1 {
+        flex: 0 1 auto;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        white-space: nowrap;
+    }
+}
+
+.publication-controls {
+    display: inline-flex;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: 0.45em;
+}
+
+.publication-sort {
+    display: inline-flex;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: 0.35em;
+    margin: 0;
+    padding: 0.3em;
+    border: 0;
+    border-radius: 999px;
+    background: hsl(210, 20%, 96%);
+    box-shadow: inset 0 0 0 1px hsla(210, 15%, 50%, 0.16);
+}
+
+.publication-sort__label {
+    padding: 0 0.45em 0 0.55em;
+    color: hsl(210, 10%, 42%);
+    font-size: 0.82em;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+}
+
+.publication-sort__buttons {
+    display: inline-flex;
+    gap: 0.15em;
+}
+
+.publication-sort__button {
+    margin: 0;
+    padding: 0.42em 0.85em;
+    border: 0;
+    border-radius: 999px;
+    background: transparent;
+    color: hsl(210, 10%, 36%);
+    font: inherit;
+    font-size: 0.82em;
+    font-weight: 600;
+    line-height: 1.35;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: background-color 160ms ease, box-shadow 160ms ease, color 160ms ease, transform 160ms ease;
+
+    &:hover {
+        background: hsla(204, 70%, 45%, 0.09);
+        color: #1f77b4;
+    }
+
+    &:focus-visible {
+        outline: 2px solid hsla(204, 70%, 42%, 0.55);
+        outline-offset: 2px;
+    }
+
+    &.is-active {
+        background: #1f77b4;
+        color: #fff;
+        box-shadow: 0 2px 7px hsla(204, 70%, 30%, 0.24);
+
+        &:hover {
+            background: hsl(204, 70%, 39%);
+            color: #fff;
+        }
+    }
+}
+
+.publication-filter {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: 0.15em;
+    padding: 0.3em;
+    border-radius: 999px;
+    background: hsl(210, 20%, 96%);
+    box-shadow: inset 0 0 0 1px hsla(210, 15%, 50%, 0.16);
+}
+
+.publication-filter__label {
+    padding: 0 0.25em 0 0.55em;
+    color: hsl(210, 10%, 42%);
+    font-size: 0.82em;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+}
+
+.publication-filter__button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    min-width: 5.5em;
+    margin: 0;
+    padding: 0.42em 0.7em 0.42em 0.8em;
+    border: 0;
+    border-radius: 999px;
+    background: #fff;
+    color: hsl(210, 10%, 34%);
+    box-shadow: 0 1px 4px hsla(210, 20%, 25%, 0.13);
+    font: inherit;
+    font-size: 0.82em;
+    font-weight: 600;
+    line-height: 1.35;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: color 160ms ease, box-shadow 160ms ease;
+
+    &:hover {
+        color: #1f77b4;
+        box-shadow: 0 2px 7px hsla(204, 45%, 30%, 0.18);
+    }
+
+    &:focus-visible {
+        outline: 2px solid hsla(204, 70%, 42%, 0.55);
+        outline-offset: 2px;
+    }
+}
+
+.publication-filter__value {
+    flex: 1 1 auto;
+    text-align: left;
+}
+
+.publication-filter__chevron {
+    color: hsl(210, 10%, 48%);
+    font-size: 0.85em;
+    transition: transform 160ms ease;
+}
+
+.publication-filter__button[aria-expanded="true"] .publication-filter__chevron {
+    transform: rotate(180deg);
+}
+
+.publication-filter__menu {
+    position: absolute;
+    z-index: 20;
+    top: calc(100% + 0.5em);
+    right: 0;
+    width: 16rem;
+    max-width: calc(100vw - 2rem);
+    padding: 0.55em;
+    border: 1px solid hsla(210, 15%, 50%, 0.22);
+    border-radius: 0.7em;
+    background: #fff;
+    box-shadow: 0 10px 28px hsla(210, 25%, 20%, 0.18);
+}
+
+.publication-filter__menu-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75em;
+    padding: 0.15em 0.3em 0.45em;
+    border-bottom: 1px solid hsla(210, 15%, 50%, 0.15);
+}
+
+.publication-filter__menu-title {
+    color: hsl(210, 12%, 30%);
+    font-size: 0.8em;
+    font-weight: 700;
+}
+
+.publication-filter__clear {
+    margin: 0;
+    padding: 0.15em 0.25em;
+    border: 0;
+    background: transparent;
+    color: #1f77b4;
+    font: inherit;
+    font-size: 0.75em;
+    font-weight: 600;
+    cursor: pointer;
+
+    &:hover:not(:disabled) {
+        text-decoration: underline;
+    }
+
+    &:focus-visible {
+        outline: 2px solid hsla(204, 70%, 42%, 0.55);
+        outline-offset: 2px;
+    }
+
+    &:disabled {
+        color: hsl(210, 8%, 64%);
+        cursor: default;
+    }
+}
+
+.publication-filter__options {
+    display: grid;
+    gap: 0.1em;
+    max-height: 16rem;
+    margin-top: 0.35em;
+    overflow-y: auto;
+}
+
+.publication-filter__option {
+    display: flex;
+    align-items: center;
+    gap: 0.55em;
+    margin: 0;
+    padding: 0.42em 0.45em;
+    border-radius: 0.4em;
+    color: hsl(210, 10%, 32%);
+    font-size: 0.8em;
+    line-height: 1.25;
+    cursor: pointer;
+
+    &:hover {
+        background: hsla(204, 70%, 45%, 0.08);
+    }
+
+    input {
+        flex: 0 0 auto;
+        width: 1em;
+        height: 1em;
+        margin: 0;
+        accent-color: #1f77b4;
+    }
+}
+
+.publication-filter__tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.12em 0.55em;
+    border: 1px solid;
+    border-radius: 999px;
+    font-size: 0.9em;
+    font-weight: 600;
+    line-height: 1.45;
+    white-space: nowrap;
+}
+
+.publication-item {
+    margin-bottom: 1em;
+
+    p {
+        margin-bottom: 0.45em;
+    }
+
+    > p:first-child {
+        margin-bottom: 0.45em;
+    }
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.publication-area-heading {
+    margin-top: 1.5em;
+}
+
+.publication-tags {
+    display: inline;
+    margin-left: 0.15em;
+}
+
+.publication-tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.12em 0.55em;
+    border: 1px solid;
+    border-radius: 999px;
+    font-size: 0.72em;
+    font-weight: 600;
+    line-height: 1.45;
+    margin: 0.15em 0 0 0.3em;
+    vertical-align: 0.08em;
+    white-space: nowrap;
+}
+
+$publication-tag-colors: (
+    "metric-optimization": (#e8f1ff, #1f5fae, #c4daf8),
+    "learning-theory": (#eeebff, #5143a6, #d5cef7),
+    "imbalanced-learning": (#fff0df, #a4520b, #f5d2aa),
+    "open-world-learning": (#f3eaff, #7040a0, #ddc7f3),
+    "multi-label-learning": (#e2f7fa, #197184, #b9e5eb),
+    "knowledge-distillation": (#e6f6e9, #27733a, #bfe2c6),
+    "llm": (#e2f5ee, #176b50, #b8dfd0),
+    "diffusion-models": (#fdeaf4, #a43f76, #f2c7dd),
+    "ai-safety": (#fff0f0, #98343d, #f0c5c9),
+    "graph-learning": (#fff2d9, #8a5a06, #efd39b),
+    "recommender-systems": (#f4ebe5, #76503b, #dfcbbf)
+);
+
+@each $name, $colors in $publication-tag-colors {
+    .publication-tag--#{$name} {
+        border-color: nth($colors, 3);
+        background: nth($colors, 1);
+        color: nth($colors, 2);
+    }
+}
+
+.research-filter-link {
+    background: transparent;
+    font-weight: 700;
+}
+
+
+@media (max-width: 480px) {
+    .publication-header {
+        gap: 0.35em;
+    }
+
+    .publication-controls {
+        gap: 0.25em;
+    }
+
+    .publication-sort {
+        max-width: 100%;
+        gap: 0.15em;
+        padding: 0.2em;
+    }
+
+    .publication-sort__label,
+    .publication-filter__label {
+        display: none;
+    }
+
+    .publication-sort__button {
+        padding: 0.35em 0.55em;
+        font-size: 0.76em;
+    }
+
+    .publication-filter {
+        padding: 0.2em;
+    }
+
+    .publication-filter__button {
+        min-width: 4.8em;
+        padding: 0.35em 0.5em 0.35em 0.6em;
+        font-size: 0.76em;
+    }
+}
+
+@media (max-width: 360px) {
+    .publication-header {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .publication-controls {
+        align-self: stretch;
+        justify-content: space-between;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before {
     content: '';

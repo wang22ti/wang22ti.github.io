@@ -1,0 +1,115 @@
+- url: "https://arxiv.org/abs/2606.29759"
+  area: "Foundation Models"
+  tags:
+    - "Diffusion Models"
+    - "AI Safety"
+- url: "https://arxiv.org/abs/2605.26246"
+  area: "Foundation Models"
+  tags:
+    - "LLM"
+    - "Knowledge Distillation"
+- url: "https://arxiv.org/abs/2603.02618"
+  area: "Machine Learning"
+  tags:
+    - "Open-World Learning"
+- url: "https://arxiv.org/abs/2603.06178"
+  area: "Foundation Models"
+  tags:
+    - "Diffusion Models"
+- url: "https://arxiv.org/abs/2512.03067"
+  area: "Data Mining"
+  tags:
+    - "Recommender Systems"
+    - "Metric Optimization"
+- url: "https://ieeexplore.ieee.org/abstract/document/11160674"
+  area: "Machine Learning"
+  tags:
+    - "Imbalanced Learning"
+    - "Metric Optimization"
+    - "Learning Theory"
+- url: "https://ieeexplore.ieee.org/document/11313612"
+  area: "Machine Learning"
+  tags:
+    - "Imbalanced Learning"
+    - "Metric Optimization"
+    - "Learning Theory"
+- url: "https://arxiv.org/pdf/2505.04560"
+  area: "Foundation Models"
+  tags:
+    - "LLM"
+    - "Knowledge Distillation"
+- url: "https://arxiv.org/abs/2505.05180"
+  area: "Machine Learning"
+  tags:
+    - "Open-World Learning"
+    - "Metric Optimization"
+- url: "https://arxiv.org/abs/2505.01660"
+  area: "Machine Learning"
+  tags:
+    - "Imbalanced Learning"
+    - "Learning Theory"
+- url: "https://arxiv.org/pdf/2412.07499"
+  area: "Machine Learning"
+  tags:
+    - "Open-World Learning"
+    - "Multi-Label Learning"
+- url: "https://arxiv.org/abs/2407.06709"
+  area: "Machine Learning"
+  tags:
+    - "Multi-Label Learning"
+    - "Metric Optimization"
+    - "Learning Theory"
+- url: "https://arxiv.org/abs/2405.07780"
+  area: "Machine Learning"
+  tags:
+    - "Imbalanced Learning"
+    - "Metric Optimization"
+    - "Learning Theory"
+- url: "https://arxiv.org/abs/2410.03558"
+  area: "Foundation Models"
+  tags:
+    - "Diffusion Models"
+- url: "https://arxiv.org/abs/2410.06719"
+  area: "Foundation Models"
+  tags:
+    - "Diffusion Models"
+- url: "https://arxiv.org/abs/2312.14535"
+  area: "Data Mining"
+  tags:
+    - "Graph Learning"
+- url: "https://arxiv.org/abs/2407.21742"
+  area: "Data Mining"
+  tags:
+    - "Graph Learning"
+- url: "https://arxiv.org/pdf/2209.01398"
+  area: "Machine Learning"
+  tags:
+    - "Metric Optimization"
+    - "Learning Theory"
+- url: "https://arxiv.org/abs/2310.04752"
+  area: "Machine Learning"
+  tags:
+    - "Imbalanced Learning"
+    - "Metric Optimization"
+    - "Learning Theory"
+- url: "https://arxiv.org/pdf/2210.13458"
+  area: "Machine Learning"
+  tags:
+    - "Open-World Learning"
+    - "Metric Optimization"
+- url: "https://github.com/wang22ti/Confederated-Learning/blob/main/mmfp1684-wang.pdf"
+  area: "Machine Learning"
+- url: "https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/mfp1549-wangA.pdf"
+  area: "Data Mining"
+  tags:
+    - "Recommender Systems"
+- url: "https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/MM2019-fp337.pdf"
+  area: "Data Mining"
+  tags:
+    - "Recommender Systems"
+- url: "https://arxiv.org/pdf/2309.00007"
+  area: "Machine Learning"
+  tags:
+    - "Multi-Label Learning"
+    - "Metric Optimization"
+    - "AI Safety"

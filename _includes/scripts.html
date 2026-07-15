@@ -1,4 +1,7 @@
 <script src="assets/js/main.min.js"></script>
 
+<script id="publication-topic-data" type="application/json">{{ site.data.publication_topics | jsonify }}</script>
+<script src="{{ '/assets/js/publication-sort.js' | relative_url }}"></script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
