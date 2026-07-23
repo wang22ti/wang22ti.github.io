@@ -208,11 +208,11 @@ Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming 
 
 [The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](https://arxiv.org/abs/2605.26246)
 
-Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, and Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 2026. (Accepted) \| [\[PDF\]](https://arxiv.org/abs/2605.26246) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release)
+Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, and Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 2026. (Accepted) \| [\[PDF\]](https://arxiv.org/abs/2605.26246) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202026/61619.png?t=1783494911.7897608)
 
 [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mind_the_Way_You_Select_Negative_Texts_Pursuing_the_Distance_CVPR_2026_paper.html)
 
-Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang, and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 34650-34661, 2026. \| [\[PDF\]](https://arxiv.org/abs/2603.02618) \| [\[Code\]](https://github.com/ZhikangXu0112/InterNeg)
+Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang, and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 34650-34661, 2026. \| [\[PDF\]](https://arxiv.org/abs/2603.02618) \| [\[Code\]](https://github.com/ZhikangXu0112/InterNeg) \| [\[Poster\]](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/39066.png?t=1778511290.1313171)
 
 [Making Training-Free Diffusion Segmentors Scale with the Generative Power](https://openaccess.thecvf.com/content/CVPR2026/html/Meng_Making_Training-Free_Diffusion_Segmentors_Scale_with_the_Generative_Power_CVPR_2026_paper.html)
 
@@ -220,7 +220,7 @@ Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang, and Qing
 
 [Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://ojs.aaai.org/index.php/AAAI/article/view/38492)
 
-Difu Feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 14729-14737, 2026. \| [\[PDF\]](https://arxiv.org/abs/2512.03067) \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
+Difu Feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 14729-14737, 2026. \| [\[PDF\]](https://arxiv.org/abs/2512.03067) \| [\[Code\]](https://github.com/fengdifu24/bepmetric) \| [\[Video\]](https://underline.io/lecture/140137-quantifying-the-potential-to-escape-filter-bubbles-a-behavior-aware-measure-via-contrastive-simulation) \| [\[Poster\]](https://assets.underline.io/lecture/140137/poster_document/ff4a457bd7046c1da08f855f6e8bf159.pdf)
 
 ## 2025
 
@@ -234,15 +234,15 @@ Zhiyong Yang, Qianqian Xu, Sicong Li, **Zitai Wang**, Xiaochun Cao, and Qingming
 
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence](https://proceedings.mlr.press/v267/wang25dz.html)
 
-Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, and Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'>(Oral, 1.0%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2505.04560) \| [\[Code\]](https://github.com/ghwang-s/abkd)
+Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, and Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'>(Oral, 1.0%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2505.04560) \| [\[Code\]](https://github.com/ghwang-s/abkd) \| [\[Video\]](https://slideslive.com/39041533) \| [\[Slides\]](https://icml.cc/media/icml-2025/Slides/43650.pdf) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202025/43650.png?t=1752397950.4386978)
 
 [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://proceedings.mlr.press/v267/hua25d.html)
 
-Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, and Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 24975-25020, 2025. \| [\[PDF\]](https://arxiv.org/abs/2505.05180) \| [\[Code\]](https://github.com/huacong/OpenworldAUC)
+Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, and Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 24975-25020, 2025. \| [\[PDF\]](https://arxiv.org/abs/2505.05180) \| [\[Code\]](https://github.com/huacong/OpenworldAUC) \| [\[Video\]](https://slideslive.com/39041536)
 
 [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://proceedings.mlr.press/v267/li25dk.html)
 
-Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, and Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 36624-36651, 2025. \| [\[PDF\]](https://arxiv.org/abs/2505.01660) \| [\[Code\]](https://github.com/scongl/Focal-SAM)
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, and Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 36624-36651, 2025. \| [\[PDF\]](https://arxiv.org/abs/2505.01660) \| [\[Code\]](https://github.com/scongl/Focal-SAM) \| [\[Video\]](https://slideslive.com/39041535) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202025/44211.png?t=1751275509.2337282)
 
 [EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://ojs.aaai.org/index.php/AAAI/article/view/33375)
 
@@ -256,19 +256,19 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, and Junwei He. EDGE: Unkn
 
 [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://proceedings.mlr.press/v235/yang24af.html)
 
-Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, and Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624-56664, 2024. \| [\[PDF\]](https://arxiv.org/abs/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
+Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, and Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624-56664, 2024. \| [\[PDF\]](https://arxiv.org/abs/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202024/33489.png?t=1719404023.5924995)
 
 [Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features](https://papers.nips.cc/paper_files/paper/2024/hash/633780c1344d0c95e4d2dd3431fe08d9-Abstract-Conference.html)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 55141-55177, 2024. **<font color='red'>(Spotlight, 2.1%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2410.03558) \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 55141-55177, 2024. **<font color='red'>(Spotlight, 2.1%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2410.03558) \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature) \| [\[Video\]](https://slideslive.com/39027049) \| [\[Slides\]](https://neurips.cc/media/neurips-2024/Slides/96411.pdf) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/96411.png?t=1729469135.3742208)
 
 [Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques](https://papers.nips.cc/paper_files/paper/2024/hash/21c86d5b10cdc28664ccdadf0a29065a-Abstract-Conference.html)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 18910-18939, 2024. \| [\[PDF\]](https://arxiv.org/abs/2410.06719) \| [\[Code\]](https://github.com/Darkbblue/diffusion-content-shift)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 18910-18939, 2024. \| [\[PDF\]](https://arxiv.org/abs/2410.06719) \| [\[Code\]](https://github.com/Darkbblue/diffusion-content-shift) \| [\[Video\]](https://slideslive.com/39028229) \| [\[Slides\]](https://neurips.cc/media/neurips-2024/Slides/95209.pdf) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/95209.png?t=1729469206.17666)
 
 [ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28691)
 
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, and Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481-8489, 2024. \| [\[PDF\]](https://arxiv.org/abs/2312.14535) \| [\[Code\]](https://github.com/jweihe/ADA-GAD)
+Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, and Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481-8489, 2024. \| [\[PDF\]](https://arxiv.org/abs/2312.14535) \| [\[Code\]](https://github.com/jweihe/ADA-GAD) \| [\[Video\]](https://underline.io/lecture/93042-ada-gad-anomaly-denoised-autoencoders-for-graph-anomaly-detection) \| [\[Slides\]](https://assets.underline.io/lecture/93042/poster_document/9ff2aef72c8af66b71979d8759e287aa.pdf)
 
 [HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection](https://doi.org/10.1145/3664647.3681118)
 
@@ -282,11 +282,11 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, and Qingm
 
 [A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/973a0f50d43cf99118cdab456edcacda-Abstract-Conference.html)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417-48430, 2023. **<font color='red'>(Spotlight, 3.1%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2310.04752) \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417-48430, 2023. **<font color='red'>(Spotlight, 3.1%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2310.04752) \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://slideslive.com/39010633) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71523.png?t=1699860977.2965124)
 
 [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9f73d65a4186198152357be871345771-Abstract-Conference.html)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033-25045, 2022. **<font color='red'>(Spotlight, 5.4%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2210.13458) \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033-25045, 2022. **<font color='red'>(Spotlight, 5.4%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2210.13458) \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://slideslive.com/38992491) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117)
 
 [Confederated Learning: Going Beyond Centralization](https://doi.org/10.1145/3503161.3548157)
 
