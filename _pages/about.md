@@ -204,105 +204,105 @@ My research interests include machine learning and data mining, with a particula
 
 [GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures](https://arxiv.org/abs/2606.29759)
 
-Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'>(Oral, 0.69%)</font>** \| [\[arXiv\]](https://arxiv.org/abs/2606.29759) \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
+Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'>(Oral, 0.69%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2606.29759) \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
 
 [The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](https://arxiv.org/abs/2605.26246)
 
-Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, and Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 2026. (Accepted) \| [\[arXiv\]](https://arxiv.org/abs/2605.26246) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release)
+Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, and Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 2026. (Accepted) \| [\[PDF\]](https://arxiv.org/abs/2605.26246) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release)
 
 [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mind_the_Way_You_Select_Negative_Texts_Pursuing_the_Distance_CVPR_2026_paper.html)
 
-Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang, and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 34650-34661, 2026. \| [\[arXiv\]](https://arxiv.org/abs/2603.02618) \| [\[Code\]](https://github.com/ZhikangXu0112/InterNeg)
+Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang, and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 34650-34661, 2026. \| [\[PDF\]](https://arxiv.org/abs/2603.02618) \| [\[Code\]](https://github.com/ZhikangXu0112/InterNeg)
 
 [Making Training-Free Diffusion Segmentors Scale with the Generative Power](https://openaccess.thecvf.com/content/CVPR2026/html/Meng_Making_Training-Free_Diffusion_Segmentors_Scale_with_the_Generative_Power_CVPR_2026_paper.html)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang, and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 35861-35871, 2026. \| [\[arXiv\]](https://arxiv.org/abs/2603.06178) \| [\[Code\]](https://github.com/Darkbblue/goca)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang, and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 35861-35871, 2026. \| [\[PDF\]](https://arxiv.org/abs/2603.06178) \| [\[Code\]](https://github.com/Darkbblue/goca)
 
 [Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://ojs.aaai.org/index.php/AAAI/article/view/38492)
 
-Difu Feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 14729-14737, 2026. \| [\[arXiv\]](https://arxiv.org/abs/2512.03067) \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
+Difu Feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 14729-14737, 2026. \| [\[PDF\]](https://arxiv.org/abs/2512.03067) \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
 
 ## 2025
 
 [A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization](https://ieeexplore.ieee.org/abstract/document/11160674)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Zhikang Xu, Linchao Zhang, Xiaochun Cao, and Qingming Huang. A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 20.4)</font>**, 48(1): 639-656, Jan. 2026. \| [\[arXiv\]](https://arxiv.org/abs/2310.04752) \| [\[Code\]](https://github.com/wang22ti/DDC)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Zhikang Xu, Linchao Zhang, Xiaochun Cao, and Qingming Huang. A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 20.4)</font>**, 48(1): 639-656, Jan. 2026. \| [\[PDF\]](https://arxiv.org/abs/2310.04752) \| [\[Code\]](https://github.com/wang22ti/DDC)
 
 [DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations](https://ieeexplore.ieee.org/document/11313612)
 
-Zhiyong Yang, Qianqian Xu, Sicong Li, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 20.4)</font>**, 48(4): 4605-4622, Apr. 2026. \| [\[arXiv\]](https://arxiv.org/abs/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE_TPAMI)
+Zhiyong Yang, Qianqian Xu, Sicong Li, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 20.4)</font>**, 48(4): 4605-4622, Apr. 2026. \| [\[PDF\]](https://arxiv.org/abs/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE_TPAMI)
 
 [ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence](https://proceedings.mlr.press/v267/wang25dz.html)
 
-Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, and Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'>(Oral, 1.0%)</font>** \| [\[arXiv\]](https://arxiv.org/abs/2505.04560) \| [\[Code\]](https://github.com/ghwang-s/abkd)
+Guanghui Wang, Zhiyong Yang, **Zitai Wang**, Shi Wang, Qianqian Xu, and Qingming Huang. ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence. International Conference on Machine Learning (**ICML**), 65167-65212, 2025. **<font color='red'>(Oral, 1.0%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2505.04560) \| [\[Code\]](https://github.com/ghwang-s/abkd)
 
 [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://proceedings.mlr.press/v267/hua25d.html)
 
-Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, and Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 24975-25020, 2025. \| [\[arXiv\]](https://arxiv.org/abs/2505.05180) \| [\[Code\]](https://github.com/huacong/OpenworldAUC)
+Cong Hua, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Shilong Bao, and Qingming Huang. OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning. International Conference on Machine Learning (**ICML**), 24975-25020, 2025. \| [\[PDF\]](https://arxiv.org/abs/2505.05180) \| [\[Code\]](https://github.com/huacong/OpenworldAUC)
 
 [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://proceedings.mlr.press/v267/li25dk.html)
 
-Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, and Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 36624-36651, 2025. \| [\[arXiv\]](https://arxiv.org/abs/2505.01660) \| [\[Code\]](https://github.com/scongl/Focal-SAM)
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Linchao Zhang, Xiaochun Cao, and Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 36624-36651, 2025. \| [\[PDF\]](https://arxiv.org/abs/2505.01660) \| [\[Code\]](https://github.com/scongl/Focal-SAM)
 
 [EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion](https://ojs.aaai.org/index.php/AAAI/article/view/33375)
 
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, and Junwei He. EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion. AAAI Conference on Artificial Intelligence (**AAAI**), 12613-12621, 2025. \| [\[arXiv\]](https://arxiv.org/abs/2412.07499) \| [\[Code\]](https://github.com/Yuchen-Sunflower/EDGE)
+Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, and Junwei He. EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion. AAAI Conference on Artificial Intelligence (**AAAI**), 12613-12621, 2025. \| [\[PDF\]](https://arxiv.org/abs/2412.07499) \| [\[Code\]](https://github.com/Yuchen-Sunflower/EDGE)
 
 ## 2024
 
 [Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification](https://link.springer.com/article/10.1007/s11263-024-02157-w)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, and Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision **<font color='red'>(IJCV, IF: 9.3)</font>**, 133(1): 211-253, Jan. 2025. \| [\[arXiv\]](https://arxiv.org/abs/2407.06709) \| [\[Code\]](https://github.com/wang22ti/TKPR)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, and Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision **<font color='red'>(IJCV, IF: 9.3)</font>**, 133(1): 211-253, Jan. 2025. \| [\[PDF\]](https://arxiv.org/abs/2407.06709) \| [\[Code\]](https://github.com/wang22ti/TKPR)
 
 [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://proceedings.mlr.press/v235/yang24af.html)
 
-Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, and Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624-56664, 2024. \| [\[arXiv\]](https://arxiv.org/abs/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
+Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, and Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624-56664, 2024. \| [\[PDF\]](https://arxiv.org/abs/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
 
 [Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features](https://papers.nips.cc/paper_files/paper/2024/hash/633780c1344d0c95e4d2dd3431fe08d9-Abstract-Conference.html)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 55141-55177, 2024. **<font color='red'>(Spotlight, 2.1%)</font>** \| [\[arXiv\]](https://arxiv.org/abs/2410.03558) \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, and Qingming Huang. Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 55141-55177, 2024. **<font color='red'>(Spotlight, 2.1%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2410.03558) \| [\[Code\]](https://github.com/Darkbblue/generic-diffusion-feature)
 
 [Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques](https://papers.nips.cc/paper_files/paper/2024/hash/21c86d5b10cdc28664ccdadf0a29065a-Abstract-Conference.html)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 18910-18939, 2024. \| [\[arXiv\]](https://arxiv.org/abs/2410.06719) \| [\[Code\]](https://github.com/Darkbblue/diffusion-content-shift)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 18910-18939, 2024. \| [\[PDF\]](https://arxiv.org/abs/2410.06719) \| [\[Code\]](https://github.com/Darkbblue/diffusion-content-shift)
 
 [ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28691)
 
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, and Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481-8489, 2024. \| [\[arXiv\]](https://arxiv.org/abs/2312.14535) \| [\[Code\]](https://github.com/jweihe/ADA-GAD)
+Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, and Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481-8489, 2024. \| [\[PDF\]](https://arxiv.org/abs/2312.14535) \| [\[Code\]](https://github.com/jweihe/ADA-GAD)
 
 [HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection](https://doi.org/10.1145/3664647.3681118)
 
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, and Qingming Huang. HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection. ACM Conference on Multimedia (**ACM MM**), 1544-1553, 2024. \| [\[arXiv\]](https://arxiv.org/abs/2407.21742) \| [\[Code\]](https://github.com/jweihe/HGOE)
+Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Yuchen Sun, and Qingming Huang. HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection. ACM Conference on Multimedia (**ACM MM**), 1544-1553, 2024. \| [\[PDF\]](https://arxiv.org/abs/2407.21742) \| [\[Code\]](https://github.com/jweihe/HGOE)
 
 ## Before
 
 [Optimizing Partial Area Under the Top-k Curve: Theory and Practice](https://doi.org/10.1109/TPAMI.2022.3199970)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 20.4)</font>**, 45(4): 5053-5069, Apr. 2023. \| [\[arXiv\]](https://arxiv.org/abs/2209.01398) \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 20.4)</font>**, 45(4): 5053-5069, Apr. 2023. \| [\[PDF\]](https://arxiv.org/abs/2209.01398) \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
 
 [A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/973a0f50d43cf99118cdab456edcacda-Abstract-Conference.html)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417-48430, 2023. **<font color='red'>(Spotlight, 3.1%)</font>** \| [\[arXiv\]](https://arxiv.org/abs/2310.04752) \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417-48430, 2023. **<font color='red'>(Spotlight, 3.1%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2310.04752) \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf)
 
 [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9f73d65a4186198152357be871345771-Abstract-Conference.html)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033-25045, 2022. **<font color='red'>(Spotlight, 5.4%)</font>** \| [\[arXiv\]](https://arxiv.org/abs/2210.13458) \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033-25045, 2022. **<font color='red'>(Spotlight, 5.4%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2210.13458) \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117)
 
 [Confederated Learning: Going Beyond Centralization](https://doi.org/10.1145/3503161.3548157)
 
-**Zitai Wang**, Qianqian Xu, Ke Ma, Xiaochun Cao, and Qingming Huang. Confederated Learning: Going Beyond Centralization. ACM Conference on Multimedia (**ACM MM**), 2939-2947, 2022. **<font color='red'>(Oral, 5.6%)</font>** \| [\[Code\]](https://github.com/wang22ti/Confederated-Learning) \| [\[Slides\]](https://github.com/wang22ti/Confederated-Learning/blob/main/MM2022_slides.pdf)
+**Zitai Wang**, Qianqian Xu, Ke Ma, Xiaochun Cao, and Qingming Huang. Confederated Learning: Going Beyond Centralization. ACM Conference on Multimedia (**ACM MM**), 2939-2947, 2022. **<font color='red'>(Oral, 5.6%)</font>** \| [\[PDF\]](https://github.com/wang22ti/Confederated-Learning/blob/main/mmfp1684-wang.pdf) \| [\[Code\]](https://github.com/wang22ti/Confederated-Learning) \| [\[Slides\]](https://github.com/wang22ti/Confederated-Learning/blob/main/MM2022_slides.pdf)
 
 [Implicit feedbacks are not always favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions](https://doi.org/10.1145/3474085.3475446)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. Implicit feedbacks are not always favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions. ACM Conference on Multimedia (**ACM MM**), 3070-3078, 2021. \| [\[Code\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions) \| [\[Slides\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/MM2021_slides.pdf) \| [\[Poster\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/Poster-MM21-zitai.pdf)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. Implicit feedbacks are not always favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions. ACM Conference on Multimedia (**ACM MM**), 3070-3078, 2021. \| [\[PDF\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/mfp1549-wangA.pdf) \| [\[Code\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions) \| [\[Slides\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/MM2021_slides.pdf) \| [\[Poster\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/Poster-MM21-zitai.pdf)
 
 [Adversarial Preference Learning with Pairwise Comparisons](https://doi.org/10.1145/3343031.3350919)
 
-**Zitai Wang**, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao, and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (**ACM MM**), 656-664, 2019. **<font color='red'>(Oral, 9.4%)</font>** \| [\[Code\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons) \| [\[Slides\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf) \| [\[Poster\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)
+**Zitai Wang**, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao, and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (**ACM MM**), 656-664, 2019. **<font color='red'>(Oral, 9.4%)</font>** \| [\[PDF\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/MM2019-fp337.pdf) \| [\[Code\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons) \| [\[Slides\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf) \| [\[Poster\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)
 
 [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://doi.org/10.1145/3581783.3611846)
 
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'>(Oral, 5.4%)</font>** \| [\[arXiv\]](https://arxiv.org/abs/2309.00007) \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
+Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515-1526, 2023. **<font color='red'>(Oral, 5.4%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2309.00007) \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
 
 <!-- # 🎓 Education
 
