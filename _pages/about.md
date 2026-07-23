@@ -210,15 +210,15 @@ Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming 
 
 Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, and Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 2026. (Accepted) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release)
 
-[Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](https://arxiv.org/abs/2603.02618)
+[Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mind_the_Way_You_Select_Negative_Texts_Pursuing_the_Distance_CVPR_2026_paper.html)
 
-Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang, and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \| [\[Code\]](https://github.com/ZhikangXu0112/InterNeg)
+Zhikang Xu, Qianqian Xu, **Zitai Wang**, Cong Hua, Sicong Li, Zhiyong Yang, and Qingming Huang. Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 34650-34661, 2026. \| [\[Code\]](https://github.com/ZhikangXu0112/InterNeg)
 
-[Making Training-Free Diffusion Segmentors Scale with the Generative Power](https://arxiv.org/abs/2603.06178)
+[Making Training-Free Diffusion Segmentors Scale with the Generative Power](https://openaccess.thecvf.com/content/CVPR2026/html/Meng_Making_Training-Free_Diffusion_Segmentors_Scale_with_the_Generative_Power_CVPR_2026_paper.html)
 
-Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang, and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \| [\[Code\]](https://github.com/Darkbblue/goca)
+Benyuan Meng, Qianqian Xu, **Zitai Wang**, Xiaochun Cao, Longtao Huang, and Qingming Huang. Making Training-Free Diffusion Segmentors Scale with the Generative Power. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 35861-35871, 2026. \| [\[Code\]](https://github.com/Darkbblue/goca)
 
-[Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://arxiv.org/abs/2512.03067)
+[Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation](https://ojs.aaai.org/index.php/AAAI/article/view/38492)
 
 Difu Feng, Qianqian Xu, **Zitai Wang**, Cong Hua, Zhiyong Yang, and Qingming Huang. Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation. AAAI Conference on Artificial Intelligence (**AAAI**), 14729-14737, 2026. \| [\[Code\]](https://github.com/fengdifu24/bepmetric)
 
