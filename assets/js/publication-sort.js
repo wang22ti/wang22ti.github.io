@@ -15,6 +15,10 @@
       .replace(/^-|-$/g, "");
   }
 
+  function normalizePublicationId(value) {
+    return value.replace(/\s+/g, " ").trim();
+  }
+
   function publicationYear(details, yearHeading) {
     var headingText = yearHeading ? yearHeading.textContent.trim() : "";
     if (/^\d{4}$/.test(headingText)) {
@@ -40,9 +44,9 @@
       return;
     }
 
-    var metadataByUrl = {};
+    var metadataById = {};
     topicEntries.forEach(function (entry) {
-      metadataByUrl[entry.url] = entry;
+      metadataById[normalizePublicationId(entry.id)] = entry;
     });
 
     var publicationElements = [];
@@ -73,7 +77,8 @@
       }
 
       var titleLink = element.querySelector("a[href]");
-      var metadata = metadataByUrl[titleLink.getAttribute("href")] || {};
+      var publicationId = normalizePublicationId(titleLink.textContent);
+      var metadata = metadataById[publicationId] || {};
       var area = metadata.area || "Other";
       var tags = Array.isArray(metadata.tags) ? metadata.tags : [];
 

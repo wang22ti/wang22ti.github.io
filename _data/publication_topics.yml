@@ -1,113 +1,113 @@
-- url: "https://arxiv.org/abs/2606.29759"
+- id: 'GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures'
   area: "Foundation Models"
   tags:
     - "Diffusion Models"
     - "AI Safety"
-- url: "https://arxiv.org/abs/2605.26246"
+- id: 'The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works'
   area: "Foundation Models"
   tags:
     - "LLM"
     - "Knowledge Distillation"
-- url: "https://arxiv.org/abs/2603.02618"
+- id: 'Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs'
   area: "Machine Learning"
   tags:
     - "Open-World Learning"
-- url: "https://arxiv.org/abs/2603.06178"
+- id: 'Making Training-Free Diffusion Segmentors Scale with the Generative Power'
   area: "Foundation Models"
   tags:
     - "Diffusion Models"
-- url: "https://arxiv.org/abs/2512.03067"
+- id: 'Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation'
   area: "Data Mining"
   tags:
     - "Recommender Systems"
     - "Metric Optimization"
-- url: "https://ieeexplore.ieee.org/abstract/document/11160674"
+- id: 'A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization'
   area: "Machine Learning"
   tags:
     - "Imbalanced Learning"
     - "Metric Optimization"
     - "Learning Theory"
-- url: "https://ieeexplore.ieee.org/document/11313612"
+- id: 'DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations'
   area: "Machine Learning"
   tags:
     - "Imbalanced Learning"
     - "Metric Optimization"
     - "Learning Theory"
-- url: "https://arxiv.org/pdf/2505.04560"
+- id: 'ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\alpha$-$\beta$-Divergence'
   area: "Foundation Models"
   tags:
     - "LLM"
     - "Knowledge Distillation"
-- url: "https://arxiv.org/abs/2505.05180"
+- id: 'OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning'
   area: "Machine Learning"
   tags:
     - "Open-World Learning"
     - "Metric Optimization"
-- url: "https://arxiv.org/abs/2505.01660"
+- id: 'Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification'
   area: "Machine Learning"
   tags:
     - "Imbalanced Learning"
     - "Learning Theory"
-- url: "https://arxiv.org/pdf/2412.07499"
+- id: 'EDGE: Unknown-aware Multi-label Learning by Energy Distribution Gap Expansion'
   area: "Machine Learning"
   tags:
     - "Open-World Learning"
     - "Multi-Label Learning"
-- url: "https://arxiv.org/abs/2407.06709"
+- id: 'Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification'
   area: "Machine Learning"
   tags:
     - "Multi-Label Learning"
     - "Metric Optimization"
     - "Learning Theory"
-- url: "https://arxiv.org/abs/2405.07780"
+- id: 'Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition'
   area: "Machine Learning"
   tags:
     - "Imbalanced Learning"
     - "Metric Optimization"
     - "Learning Theory"
-- url: "https://arxiv.org/abs/2410.03558"
+- id: 'Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features'
   area: "Foundation Models"
   tags:
     - "Diffusion Models"
-- url: "https://arxiv.org/abs/2410.06719"
+- id: 'Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques'
   area: "Foundation Models"
   tags:
     - "Diffusion Models"
-- url: "https://arxiv.org/abs/2312.14535"
+- id: 'ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection'
   area: "Data Mining"
   tags:
     - "Graph Learning"
-- url: "https://arxiv.org/abs/2407.21742"
+- id: 'HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection'
   area: "Data Mining"
   tags:
     - "Graph Learning"
-- url: "https://arxiv.org/pdf/2209.01398"
+- id: 'Optimizing Partial Area Under the Top-k Curve: Theory and Practice'
   area: "Machine Learning"
   tags:
     - "Metric Optimization"
     - "Learning Theory"
-- url: "https://arxiv.org/abs/2310.04752"
+- id: 'A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning'
   area: "Machine Learning"
   tags:
     - "Imbalanced Learning"
     - "Metric Optimization"
     - "Learning Theory"
-- url: "https://arxiv.org/pdf/2210.13458"
+- id: 'OpenAUC: Towards AUC-Oriented Open-Set Recognition'
   area: "Machine Learning"
   tags:
     - "Open-World Learning"
     - "Metric Optimization"
-- url: "https://github.com/wang22ti/Confederated-Learning/blob/main/mmfp1684-wang.pdf"
+- id: 'Confederated Learning: Going Beyond Centralization'
   area: "Machine Learning"
-- url: "https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/mfp1549-wangA.pdf"
+- id: 'Implicit feedbacks are not always favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions'
   area: "Data Mining"
   tags:
     - "Recommender Systems"
-- url: "https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/MM2019-fp337.pdf"
+- id: 'Adversarial Preference Learning with Pairwise Comparisons'
   area: "Data Mining"
   tags:
     - "Recommender Systems"
-- url: "https://arxiv.org/pdf/2309.00007"
+- id: 'When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning'
   area: "Machine Learning"
   tags:
     - "Multi-Label Learning"
