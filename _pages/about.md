@@ -36,6 +36,7 @@ My research interests include machine learning and data mining, with a particula
 
 <div class='news-box' markdown='1'>
 
+- **<font color='#1f77b4'>2026.08</font>**: My doctoral dissertation receives a **BSIG 2026 Outstanding Doctoral Dissertation Nomination (北京图象图形学学会优秀博士学位论文提名)**. [\[Page\]](https://mp.weixin.qq.com/s/hNYxvd32mwEY8jbTfxvZOA) 🎉🎉🎉
 - **<font color='#1f77b4'>2026.06</font>**: My doctoral dissertation is selected as a **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
@@ -77,6 +78,7 @@ My research interests include machine learning and data mining, with a particula
 ## Honors & Awards
 
 - *2026* **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)** [\[Page\]](https://www.ucas.ac.cn/tz/cdc2f5a2675b47e6a65f5db29c19951f.htm)
+- *2026* **BSIG 2026 Outstanding Doctoral Dissertation Nomination (北京图象图形学学会优秀博士学位论文提名)** [\[Page\]](https://mp.weixin.qq.com/s/hNYxvd32mwEY8jbTfxvZOA)
 - *2026* **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop (Grounding All Valid Answers Track)**
 - *2025* **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)** [\[Page\]](https://www.csig.org.cn/21/202511/52973.html)
 - *2025* **ACM Beijing Doctoral Dissertation Award (ACM 北京分会优秀博士论文奖)** [\[Page\]](https://mp.weixin.qq.com/s/aMssSvLJLGxhW3cMKUI7bg)
