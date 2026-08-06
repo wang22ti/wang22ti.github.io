@@ -37,7 +37,7 @@ My research interests include machine learning and data mining, with a particula
 <div class='news-box' markdown='1'>
 
 - **<font color='#1f77b4'>2026.08</font>**: My doctoral dissertation receives a **BSIG 2026 Outstanding Doctoral Dissertation Nomination (北京图象图形学学会优秀博士学位论文提名)**. 🎉🎉🎉
-- **<font color='#1f77b4'>2026.07</font>**: I serve as a **Forum Co-Chair** for the Large Model Evaluation Forum at the CSIG Young Scientists Conference 2026. [\[Page\]](https://mp.weixin.qq.com/s/eR_KDavDUuN2i8nOl3Rbig)
+- **<font color='#1f77b4'>2026.07</font>**: I serve as a **Forum Co-Chair** for the Large Model Evaluation Forum at the CSIG Young Scientists Conference 2026.
 - **<font color='#1f77b4'>2026.06</font>**: My doctoral dissertation is selected as a **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
