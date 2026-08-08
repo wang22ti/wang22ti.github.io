@@ -107,10 +107,6 @@ My research interests include machine learning and data mining, with a particula
 
 🎉🎉🎉 I am recognized as an ICML 2026 Silver Reviewer, ICLR 2025 Notable Reviewer (480/all), and NeurIPS 2024 Top Reviewer (1304/15160, 8.6%).
 
-### Conference / Forum Organization
-
-- *2026*: **Forum Co-Chair**, Large Model Evaluation Forum, CSIG Young Scientists Conference 2026. [\[Page\]](https://mp.weixin.qq.com/s/eR_KDavDUuN2i8nOl3Rbig)
-
 <div class='service-grid'>
   <section class='service-column'>
     <h2>Journal Reviewer</h2>
@@ -147,6 +143,10 @@ My research interests include machine learning and data mining, with a particula
     </ul>
   </section>
 </div>
+
+## Conference / Forum Organization
+
+- *2026*: **Forum Co-Chair**, Large Model Evaluation Forum, CSIG Young Scientists Conference 2026. [\[Page\]](https://mp.weixin.qq.com/s/eR_KDavDUuN2i8nOl3Rbig)
 
 ## Invited Talks & Presentations
 
