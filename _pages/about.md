@@ -146,7 +146,7 @@ My research interests include machine learning and data mining, with a particula
 
 ## Conference / Forum Organization
 
-- *2026*: **Forum Co-Chair**, Large Model Evaluation Forum, CSIG Young Scientists Conference 2026. [\[Page\]](https://mp.weixin.qq.com/s/eR_KDavDUuN2i8nOl3Rbig)
+- *2026*: **Forum Co-Chair**, Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (CSIG 青年科学家会议 2026 大模型评测论坛). [\[Page\]](https://mp.weixin.qq.com/s/eR_KDavDUuN2i8nOl3Rbig)
 
 ## Invited Talks & Presentations
 
