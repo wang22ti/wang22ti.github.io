@@ -122,6 +122,7 @@ My research interests include machine learning and data mining, with a particula
       <li>Neural Networks</li>
       <li>Pattern Recognition <em>(PR)</em></li>
       <li>Machine Learning <em>(ML)</em></li>
+      <li>Data Science and Engineering <em>(DSE)</em></li>
       <li>CAAI Transactions on Intelligence Technology <em>(CAAI TIT)</em></li>
     </ul>
   </section>
