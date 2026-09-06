@@ -261,7 +261,7 @@ Yuchen Sun, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, and Junwei He. EDGE: Unkn
 
 [Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification](https://link.springer.com/article/10.1007/s11263-024-02157-w)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, and Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision **<font color='red'>(IJCV, IF: 9.3)</font>**, 133(1): 211-253, Jan. 2025. \| [\[PDF\]](https://arxiv.org/abs/2407.06709) \| [\[Code\]](https://github.com/wang22ti/TKPR)
+**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Peisong Wen, Yuan He, Xiaochun Cao, and Qingming Huang. Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-Label Classification. International Journal of Computer Vision **<font color='red'>(IJCV, IF: 10.3)</font>**, 133(1): 211-253, Jan. 2025. \| [\[PDF\]](https://arxiv.org/abs/2407.06709) \| [\[Code\]](https://github.com/wang22ti/TKPR)
 
 [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://proceedings.mlr.press/v235/yang24af.html)
 
