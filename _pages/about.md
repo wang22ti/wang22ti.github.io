@@ -140,6 +140,7 @@ My research interests include machine learning and data mining, with a particula
       <li><em>AAAI</em> (2023, 2024, 2025, 2026, 2027)</li>
       <li><em>IJCAI</em> (2025)</li>
       <li><em>ACM MM</em> (2023, 2024, 2025, 2026)</li>
+      <li><em>ACM TheWebConf</em> (2027, Long Papers)</li>
       <li><em>ICDE</em> (2024)</li>
       <li><em>ACML</em> (2024, 2025, 2026)</li>
     </ul>
