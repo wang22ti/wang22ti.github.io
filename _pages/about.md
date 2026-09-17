@@ -36,6 +36,7 @@ My research interests include machine learning and data mining, with a particula
 
 <div class='news-box' markdown='1'>
 
+- **<font color='#1f77b4'>2026.09</font>**: I will serve as an **Area Chair** for **ICLR 2027**.
 - **<font color='#1f77b4'>2026.08</font>**: My doctoral dissertation receives a BSIG 2026 Outstanding Doctoral Dissertation Nomination (北京图象图形学学会优秀博士学位论文提名). 🎉🎉🎉
 - **<font color='#1f77b4'>2026.07</font>**: I serve as a **Forum Co-Chair** for the Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (大模型评测论坛，2026 CSIG 青年科学家会议).
 - **<font color='#1f77b4'>2026.06</font>**: My doctoral dissertation is selected as a **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**. 🎉🎉🎉
@@ -132,7 +133,7 @@ My research interests include machine learning and data mining, with a particula
     <ul class='service-list'>
       <li><em>ICML</em> (2025, 2026)</li>
       <li><em>NeurIPS</em> (2024, 2025, 2026)</li>
-      <li><em>ICLR</em> (2025, 2026, 2027)</li>
+      <li><em>ICLR</em> (2025, 2026)</li>
       <li><em>CVPR</em> (2024, 2025, 2026)</li>
       <li><em>ICCV</em> (2025)</li>
       <li><em>ECCV</em> (2026)</li>
@@ -146,6 +147,10 @@ My research interests include machine learning and data mining, with a particula
     </ul>
   </section>
 </div>
+
+## Conference Area Chair
+
+- *2027*: **Area Chair**, ICLR 2027.
 
 ## Conference / Forum Organization
 
