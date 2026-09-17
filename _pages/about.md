@@ -36,14 +36,14 @@ My research interests include machine learning and data mining, with a particula
 
 <div class='news-box' markdown='1'>
 
-- **<font color='#1f77b4'>2026.09</font>**: I will serve as an **Area Chair** for **ICLR 2027**.
+- **<font color='#1f77b4'>2026.09</font>**: I serve as an **Area Chair** for **ICLR 2027**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.08</font>**: My doctoral dissertation receives a BSIG 2026 Outstanding Doctoral Dissertation Nomination (北京图象图形学学会优秀博士学位论文提名). 🎉🎉🎉
 - **<font color='#1f77b4'>2026.07</font>**: I serve as a **Forum Co-Chair** for the Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (大模型评测论坛，2026 CSIG 青年科学家会议).
 - **<font color='#1f77b4'>2026.06</font>**: My doctoral dissertation is selected as a **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.02</font>**: Two papers are accepted by **CVPR 2026**. 🎉🎉🎉
-- **<font color='#1f77b4'>2025.12</font>**: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**. 🎉🎉🎉
+- *2025.12*: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**.
 - *2025.11*: One paper is accepted by **AAAI 2026**.
 - *2025.11*: My doctoral dissertation is selected for the **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)**.
 - *2025.09*: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**.
@@ -109,6 +109,11 @@ My research interests include machine learning and data mining, with a particula
 
 🎉🎉🎉 I am recognized as an ICML 2026 Silver Reviewer, ICLR 2025 Notable Reviewer (480/all), and NeurIPS 2024 Top Reviewer (1304/15160, 8.6%).
 
+## Conference / Forum Organization
+
+- *2027*: **Area Chair**, ICLR 2027.
+- *2026*: **Forum Co-Chair**, Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (大模型评测论坛，2026 CSIG 青年科学家会议). [\[Page\]](https://mp.weixin.qq.com/s/eR_KDavDUuN2i8nOl3Rbig)
+
 <div class='service-grid'>
   <section class='service-column'>
     <h2>Journal Reviewer</h2>
@@ -147,14 +152,6 @@ My research interests include machine learning and data mining, with a particula
     </ul>
   </section>
 </div>
-
-## Conference Area Chair
-
-- *2027*: **Area Chair**, ICLR 2027.
-
-## Conference / Forum Organization
-
-- *2026*: **Forum Co-Chair**, Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (大模型评测论坛，2026 CSIG 青年科学家会议). [\[Page\]](https://mp.weixin.qq.com/s/eR_KDavDUuN2i8nOl3Rbig)
 
 ## Invited Talks & Presentations
 
