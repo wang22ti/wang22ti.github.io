@@ -38,11 +38,11 @@ My research interests include machine learning and data mining, with a particula
 
 - **<font color='#1f77b4'>2026.09</font>**: I serve as an **Area Chair** for **ICLR 2027**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.08</font>**: My doctoral dissertation receives a BSIG 2026 Outstanding Doctoral Dissertation Nomination (北京图象图形学学会优秀博士学位论文提名). 🎉🎉🎉
-- **<font color='#1f77b4'>2026.07</font>**: I serve as a **Forum Co-Chair** for the Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (大模型评测论坛，2026 CSIG 青年科学家会议).
+- **<font color='#1f77b4'>2026.07</font>**: I serve as a **Forum Co-Chair** for the Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (大模型评测论坛，2026 CSIG 青年科学家会议). 🎉🎉🎉
 - **<font color='#1f77b4'>2026.06</font>**: My doctoral dissertation is selected as a **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
-- **<font color='#1f77b4'>2026.02</font>**: Two papers are accepted by **CVPR 2026**. 🎉🎉🎉
+- **<font color='#1f77b4'>2026.02</font>**: Two papers are accepted by **CVPR 2026**.
 - *2025.12*: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**.
 - *2025.11*: One paper is accepted by **AAAI 2026**.
 - *2025.11*: My doctoral dissertation is selected for the **CSIG Outstanding Doctoral Dissertation Award (中国图像图形学会优博)**.
