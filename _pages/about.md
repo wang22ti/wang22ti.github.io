@@ -111,8 +111,8 @@ My research interests include machine learning and data mining, with a particula
 
 ## Conference / Forum Organization
 
-- *2027*: **Area Chair**, ICLR 2027.
-- *2026*: **Forum Co-Chair**, Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (大模型评测论坛，2026 CSIG 青年科学家会议). [\[Page\]](https://mp.weixin.qq.com/s/eR_KDavDUuN2i8nOl3Rbig)
+- **Area Chair:** ICLR 2027.
+- **Forum Co-Chair:** Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (大模型评测论坛，2026 CSIG 青年科学家会议). [\[Page\]](https://mp.weixin.qq.com/s/eR_KDavDUuN2i8nOl3Rbig)
 
 <div class='service-grid'>
   <section class='service-column'>
