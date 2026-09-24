@@ -36,12 +36,13 @@ My research interests include machine learning and data mining, with a particula
 
 <div class='news-box' markdown='1'>
 
+- **<font color='#1f77b4'>2026.09</font>**: One paper is accepted by **NeurIPS 2026**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.09</font>**: I serve as an **Area Chair** for **ICLR 2027**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.08</font>**: My doctoral dissertation receives a BSIG 2026 Outstanding Doctoral Dissertation Nomination (北京图象图形学学会优秀博士学位论文提名). 🎉🎉🎉
 - **<font color='#1f77b4'>2026.07</font>**: I serve as a **Forum Co-Chair** for the Large Model Evaluation Forum, CSIG Young Scientists Conference 2026 (大模型评测论坛，2026 CSIG 青年科学家会议). 🎉🎉🎉
 - **<font color='#1f77b4'>2026.06</font>**: My doctoral dissertation is selected as a **CAS Outstanding Doctoral Dissertation (中国科学院优秀博士学位论文)**. 🎉🎉🎉
 - **<font color='#1f77b4'>2026.05</font>**: Two papers are accepted by **ICML 2026**, including **<font color='red'>one Oral (0.69%)</font>**. 🎉🎉🎉
-- **<font color='#1f77b4'>2026.05</font>**: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**. 🎉🎉🎉
+- *2026.05*: Our team wins the **1st Place Award at the CVPR 2026 VizWiz Grand Challenge Workshop**.
 - *2026.02*: Two papers are accepted by **CVPR 2026**.
 - *2025.12*: One paper is accepted by **<font color='red'>IEEE TPAMI</font>**.
 - *2025.11*: One paper is accepted by **AAAI 2026**.
@@ -194,7 +195,7 @@ My research interests include machine learning and data mining, with a particula
 ### Ph.D. Students
 
 - [**Cong Hua (华聪)**](https://huacong.github.io/) (supervisor: Qingming Huang): ICML 2025, ICML 2024*（**中国科协青年科技人才培育工程博士生专项计划**）
-- [**Sicong Li (李斯骢)**](https://scongl.github.io/) (supervisor: Qingming Huang): ICML 2025
+- [**Sicong Li (李斯骢)**](https://scongl.github.io/) (supervisor: Qingming Huang): NeurIPS 2026, ICML 2025
 - [**Shixi Qin (秦世熙)**](https://scholar.google.com/citations?user=CKEQ7ncAAAAJ) (supervisor: Zhiyong Yang): **ICML 2026 (Oral)**, ICML 2025*
 
 ### Master's Students
@@ -213,6 +214,10 @@ My research interests include machine learning and data mining, with a particula
 <span class='anchor' id='-publications'></span>
 
 ## 2026
+
+[ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning]()
+
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Longtao Huang, Xiaochun Cao, and Qingming Huang. ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026. (Accepted)
 
 [GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](https://arxiv.org/abs/2606.29759)
 
