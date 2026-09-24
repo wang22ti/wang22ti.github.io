@@ -215,10 +215,6 @@ My research interests include machine learning and data mining, with a particula
 
 ## 2026
 
-[ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning]()
-
-Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Longtao Huang, Xiaochun Cao, and Qingming Huang. ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026. (Accepted)
-
 [GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](https://arxiv.org/abs/2606.29759)
 
 Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'>(Oral, 0.69%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2606.29759) \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
@@ -226,6 +222,10 @@ Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming 
 [The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](https://arxiv.org/abs/2605.26246)
 
 Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, and Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 2026. (Accepted) \| [\[PDF\]](https://arxiv.org/abs/2605.26246) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202026/61619.png?t=1783494911.7897608)
+
+[ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning]()
+
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Longtao Huang, Xiaochun Cao, and Qingming Huang. ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026. (Accepted)
 
 [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mind_the_Way_You_Select_Negative_Texts_Pursuing_the_Distance_CVPR_2026_paper.html)
 
