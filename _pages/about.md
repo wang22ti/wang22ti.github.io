@@ -142,7 +142,7 @@ My research interests include machine learning and data mining, with a particula
       <li><em>CVPR</em> (2024, 2025, 2026)</li>
       <li><em>ICCV</em> (2025)</li>
       <li><em>ECCV</em> (2026)</li>
-      <li><em>AISTATS</em> (2025, 2026)</li>
+      <li><em>AISTATS</em> (2025, 2026, 2027)</li>
       <li><em>AAAI</em> (2023, 2024, 2025, 2026, 2027)</li>
       <li><em>IJCAI</em> (2025)</li>
       <li><em>ACM MM</em> (2023, 2024, 2025, 2026)</li>
