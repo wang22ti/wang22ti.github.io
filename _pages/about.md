@@ -215,13 +215,13 @@ My research interests include machine learning and data mining, with a particula
 
 ## 2026
 
-[GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](https://arxiv.org/abs/2606.29759)
+[GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](https://proceedings.mlr.press/v306/qin26k.html)
 
-Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'>(Oral, 0.69%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2606.29759) \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
+Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 101756-101784, 2026. **<font color='red'>(Oral, 0.69%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2606.29759) \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
 
-[The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](https://arxiv.org/abs/2605.26246)
+[The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](https://proceedings.mlr.press/v306/wang26cw.html)
 
-Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, and Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 2026. (Accepted) \| [\[PDF\]](https://arxiv.org/abs/2605.26246) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202026/61619.png?t=1783494911.7897608)
+Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, and Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 127315-127354, 2026. \| [\[PDF\]](https://arxiv.org/abs/2605.26246) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202026/61619.png?t=1783494911.7897608)
 
 [ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning]()
 
