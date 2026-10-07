@@ -194,18 +194,18 @@ My research interests include machine learning and data mining, with a particula
 
 ### Ph.D. Students
 
-- [**Cong Hua (华聪)**](https://huacong.github.io/) (supervisor: Qingming Huang): ICML 2025, ICML 2024*（**中国科协青年科技人才培育工程博士生专项计划**）
-- [**Sicong Li (李斯骢)**](https://scongl.github.io/) (supervisor: Qingming Huang): NeurIPS 2026, ICML 2025
-- [**Shixi Qin (秦世熙)**](https://scholar.google.com/citations?user=CKEQ7ncAAAAJ) (supervisor: Zhiyong Yang): **ICML 2026 (Oral)**, ICML 2025*
+- [**Cong Hua (华聪)**](https://huacong.github.io/): ICML 2025, ICML 2024*（**中国科协青年科技人才培育工程博士生专项计划**）
+- [**Sicong Li (李斯骢)**](https://scongl.github.io/): NeurIPS 2026, ICML 2025
+- [**Shixi Qin (秦世熙)**](https://scholar.google.com/citations?user=CKEQ7ncAAAAJ): **ICML 2026 (Oral)**, ICML 2025*
 
 ### Master's Students
 
-- [**Yuchen Sun (孙宇辰)**](https://scholar.google.com/citations?user=2qt1xn4AAAAJ) (supervisor: Qianqian Xu): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
-- [**Junwei He (何俊伟)**](https://jweihe.github.io/) (supervisor: Qingming Huang): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
-- [**Benyuan Meng (孟本源)**](https://darkbblue.github.io/) (supervisor: Qingming Huang): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024（毕业去向：中山大学 博士）
-- [**Zhikang Xu (许志康)**](https://scholar.google.com/citations?user=wwY0uL0AAAAJ) (supervisor: Qianqian Xu): CVPR 2026
-- [**Difu Feng (冯迪夫)**](https://scholar.google.com/citations?user=AUjc98YAAAAJ) (supervisor: Qingming Huang): AAAI 2026
-- [**Guanghui Wang (王广辉)**](https://ghwang-s.github.io/) (supervisor: Zhiyong Yang): ICML 2026, **ICML 2025 (Oral)**
+- [**Yuchen Sun (孙宇辰)**](https://scholar.google.com/citations?user=2qt1xn4AAAAJ): AAAI 2025, **ACM MM 2023 (Oral)**, 计算机学报（**中国图像图形学会优硕**、北京图象图形学学会优硕，毕业去向：京东）
+- [**Junwei He (何俊伟)**](https://jweihe.github.io/): ACM MM 2024, AAAI 2024（国家奖学金，毕业去向：字节跳动）
+- [**Benyuan Meng (孟本源)**](https://darkbblue.github.io/): CVPR 2026, **NeurIPS 2024 (Spotlight)**, NeurIPS 2024（毕业去向：中山大学 博士）
+- [**Zhikang Xu (许志康)**](https://scholar.google.com/citations?user=wwY0uL0AAAAJ): CVPR 2026
+- [**Difu Feng (冯迪夫)**](https://scholar.google.com/citations?user=AUjc98YAAAAJ): AAAI 2026
+- [**Guanghui Wang (王广辉)**](https://ghwang-s.github.io/): ICML 2026, **ICML 2025 (Oral)**
 
 \* Not co-authored with me.
 
