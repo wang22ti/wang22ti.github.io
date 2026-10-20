@@ -1,3 +1,12 @@
+- id: 'UtilityBench: Measuring Language Model Utility When Errors Have Different Costs'
+  area: "Foundation Models"
+  tags:
+    - "LLM"
+    - "Metric Optimization"
+- id: 'Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling'
+  area: "Foundation Models"
+  tags:
+    - "LLM"
 - id: 'GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures'
   area: "Foundation Models"
   tags:

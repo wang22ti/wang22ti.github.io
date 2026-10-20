@@ -213,7 +213,7 @@ My research interests include machine learning and data mining, with a particula
 
 <span class='anchor' id='-publications'></span>
 
-## 2026
+## Preprint
 
 [UtilityBench: Measuring Language Model Utility When Errors Have Different Costs](https://arxiv.org/abs/2610.25924)
 
@@ -222,6 +222,8 @@ Qifeng Lei, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Linchao Zhang, Qianqian X
 [Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling](https://arxiv.org/abs/2610.18583)
 
 Cong Hua, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Shilong Bao, Linchao Zhang, and Qingming Huang. Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling. arXiv preprint arXiv:2610.18583, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.18583)
+
+## 2026
 
 [GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](https://proceedings.mlr.press/v306/qin26k.html)
 
