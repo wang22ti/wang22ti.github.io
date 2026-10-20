@@ -215,6 +215,14 @@ My research interests include machine learning and data mining, with a particula
 
 ## 2026
 
+[UtilityBench: Measuring Language Model Utility When Errors Have Different Costs](https://arxiv.org/abs/2610.25924)
+
+Qifeng Lei, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Linchao Zhang, Qianqian Xu, and Qingming Huang. UtilityBench: Measuring Language Model Utility When Errors Have Different Costs. arXiv preprint arXiv:2610.25924, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.25924)
+
+[Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling](https://arxiv.org/abs/2610.18583)
+
+Cong Hua, Qianqian Xu, **Zitai Wang**, Zhiyong Yang, Shilong Bao, Linchao Zhang, and Qingming Huang. Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling. arXiv preprint arXiv:2610.18583, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.18583)
+
 [GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](https://proceedings.mlr.press/v306/qin26k.html)
 
 Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming Huang. GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures. International Conference on Machine Learning (**ICML**), 101756-101784, 2026. **<font color='red'>(Oral, 0.69%)</font>** \| [\[PDF\]](https://arxiv.org/abs/2606.29759) \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)
