@@ -196,7 +196,7 @@ My research interests include machine learning and data mining, with a particula
 
 - [**Cong Hua (华聪)**](https://huacong.github.io/): ICML 2025, ICML 2024*（**中国科协青年科技人才培育工程博士生专项计划**）
 - [**Sicong Li (李斯骢)**](https://scongl.github.io/): NeurIPS 2026, ICML 2025
-- [**Shixi Qin (秦世熙)**](https://scholar.google.com/citations?user=CKEQ7ncAAAAJ): **ICML 2026 (Oral)**, ICML 2025*
+- [**Shixi Qin (秦世熙)**](https://scholar.google.com/citations?user=CKEQ7ncAAAAJ): **ICML 2026 (Oral)**, ICML 2025*（国家奖学金）
 
 ### Master's Students
 
