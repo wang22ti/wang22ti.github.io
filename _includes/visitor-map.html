@@ -1,0 +1,15 @@
+{% assign visitor_map_id = site.visitor_map.counter_id | default: '' | strip %}
+{% if visitor_map_id != '' %}
+  {% capture visitor_map_src %}https://www.stats4u.net/c/{{ visitor_map_id | url_encode }}-map_w.png?bg=none&orte=1&tage=0&cl=en{% endcapture %}
+  <section class="visitor-map" aria-label="Visitor locations">
+    <h3 class="visitor-map__title">Visitors</h3>
+    <div class="visitor-map__widget">
+      <a href="https://www.stats4u.net/live/{{ visitor_map_id | url_encode }}" target="_blank" rel="noopener noreferrer" aria-label="View all-time visitor statistics">
+        <img class="visitor-map__image" data-src="{{ visitor_map_src | escape }}" width="300" height="181" alt="World map of visitor countries and cities, all time" decoding="async" hidden>
+        <noscript><img src="{{ visitor_map_src | escape }}&amp;pal=slate&amp;dark=auto" width="300" height="181" alt="World map of visitor countries and cities, all time"></noscript>
+      </a>
+    </div>
+    <p class="visitor-map__period">All-time visits · City locations</p>
+  </section>
+  <script src="{{ '/assets/js/visitor-map.js' | relative_url }}" defer></script>
+{% endif %}

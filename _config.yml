@@ -14,6 +14,12 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# Visitor map below the author profile (see docs/visitor-map.md).
+# Stats4U world map: all-time history with city dots (see docs/visitor-map.md).
+# Leave counter_id empty to hide it. Only the public ID belongs in this file.
+visitor_map:
+  counter_id: "8711228908"
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
