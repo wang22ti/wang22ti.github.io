@@ -17,6 +17,10 @@
   tags:
     - "LLM"
     - "Knowledge Distillation"
+- id: 'ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning'
+  area: "Foundation Models"
+  tags:
+    - "LLM"
 - id: 'Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs'
   area: "Machine Learning"
   tags:
