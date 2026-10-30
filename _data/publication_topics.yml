@@ -1,3 +1,13 @@
+- id: 'Semantic Mismapping in Generalized Category Discovery: Evaluation and Mitigation'
+  area: "Machine Learning"
+  tags:
+    - "Open-World Learning"
+    - "Metric Optimization"
+    - "Learning Theory"
+- id: 'What Remains OOD? OODConceptBench for Open-World Concept Recognition in Vision-Language Models'
+  area: "Machine Learning"
+  tags:
+    - "Open-World Learning"
 - id: 'UtilityBench: Measuring Language Model Utility When Errors Have Different Costs'
   area: "Foundation Models"
   tags:

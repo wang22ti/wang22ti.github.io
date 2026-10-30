@@ -215,6 +215,14 @@ My research interests include machine learning and data mining, with a particula
 
 ## Preprint
 
+[Semantic Mismapping in Generalized Category Discovery: Evaluation and Mitigation](https://arxiv.org/abs/2610.39356)
+
+**Zitai Wang**, Qianqian Xu, Cong Hua, Xi Chen, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. Semantic Mismapping in Generalized Category Discovery: Evaluation and Mitigation. arXiv preprint arXiv:2610.39356, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.39356)
+
+[What Remains OOD? OODConceptBench for Open-World Concept Recognition in Vision-Language Models](https://arxiv.org/abs/2610.33564)
+
+Zhiran Luo, Zhiyong Yang, **Zitai Wang**, Sicong Li, Qianqian Xu, and Qingming Huang. What Remains OOD? OODConceptBench for Open-World Concept Recognition in Vision-Language Models. arXiv preprint arXiv:2610.33564, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.33564)
+
 [UtilityBench: Measuring Language Model Utility When Errors Have Different Costs](https://arxiv.org/abs/2610.25924)
 
 Qifeng Lei, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Linchao Zhang, Qianqian Xu, and Qingming Huang. UtilityBench: Measuring Language Model Utility When Errors Have Different Costs. arXiv preprint arXiv:2610.25924, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.25924)
