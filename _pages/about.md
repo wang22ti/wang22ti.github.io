@@ -225,7 +225,7 @@ Zhiran Luo, Zhiyong Yang, **Zitai Wang**, Sicong Li, Qianqian Xu, and Qingming H
 
 [UtilityBench: Measuring Language Model Utility When Errors Have Different Costs](https://arxiv.org/abs/2610.25924)
 
-Qifeng Lei, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Linchao Zhang, Qianqian Xu, and Qingming Huang. UtilityBench: Measuring Language Model Utility When Errors Have Different Costs. arXiv preprint arXiv:2610.25924, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.25924)
+Qifeng Lei, Zhiyong Yang, **Zitai Wang**, Shilong Bao, Linchao Zhang, Qianqian Xu, and Qingming Huang. UtilityBench: Measuring Language Model Utility When Errors Have Different Costs. arXiv preprint arXiv:2610.25924, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.25924) \| [\[Project Page\]](https://www.utility-bench.com)
 
 [Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling](https://arxiv.org/abs/2610.18583)
 
