@@ -219,6 +219,10 @@ My research interests include machine learning and data mining, with a particula
 
 **Zitai Wang**, Qianqian Xu, Cong Hua, Xi Chen, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. Semantic Mismapping in Generalized Category Discovery: Evaluation and Mitigation. arXiv preprint arXiv:2610.39356, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.39356)
 
+[Dressed in Authority: Practical Black-Box Jailbreaking of MLLMs via Visual Trust Bias](https://arxiv.org/abs/2611.22292)
+
+Weihang Liu, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Zhipeng Yu, and Qingming Huang. Dressed in Authority: Practical Black-Box Jailbreaking of MLLMs via Visual Trust Bias. arXiv preprint arXiv:2611.22292, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2611.22292)
+
 [What Remains OOD? OODConceptBench for Open-World Concept Recognition in Vision-Language Models](https://arxiv.org/abs/2610.33564)
 
 Zhiran Luo, Zhiyong Yang, **Zitai Wang**, Sicong Li, Qianqian Xu, and Qingming Huang. What Remains OOD? OODConceptBench for Open-World Concept Recognition in Vision-Language Models. arXiv preprint arXiv:2610.33564, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.33564)
