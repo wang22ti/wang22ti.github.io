@@ -245,9 +245,9 @@ Shixi Qin, Zhiyong Yang, Shilong Bao, **Zitai Wang**, Qianqian Xu, and Qingming 
 
 Guanghui Wang, Kaiwen Lv Kacuila, Zhiyong Yang, **Zitai Wang**, Jin-Wen Wu, Longtao Huang, Qianqian Xu, and Qingming Huang. The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works. International Conference on Machine Learning (**ICML**), 127315-127354, 2026. \| [\[PDF\]](https://arxiv.org/abs/2605.26246) \| [\[Code\]](https://github.com/ghwang-s/bridge_garden_hybrid_kd_release) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202026/61619.png?t=1783494911.7897608)
 
-[ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning]()
+[ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](https://arxiv.org/abs/2610.22883)
 
-Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Longtao Huang, Xiaochun Cao, and Qingming Huang. ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026. (Accepted)
+Sicong Li, Qianqian Xu, Zhiyong Yang, **Zitai Wang**, Longtao Huang, Xiaochun Cao, and Qingming Huang. ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026. (Accepted) \| [\[PDF\]](https://arxiv.org/abs/2610.22883) \| [\[Code\]](https://github.com/scongl/ToPA)
 
 [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mind_the_Way_You_Select_Negative_Texts_Pursuing_the_Distance_CVPR_2026_paper.html)
 
